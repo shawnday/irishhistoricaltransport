@@ -1157,8 +1157,8 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "Bearagh Station",
-                "name": "Bearagh Station"
+                "description": "Beragh Station",
+                "name": "Beragh Station"
             },
             "type": "Feature"
         },
@@ -1445,8 +1445,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -7.456022173578159,
-                    54.76349783146954
+                    -7.456772464554007,
+                    54.76386936801355
                 ],
                 "type": "Point"
             },
@@ -9307,6 +9307,510 @@
             "properties": {
                 "description": "Draperstown Station",
                 "name": "Draperstown Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.471941363523905,
+                    54.29308951824764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Maguiresbridge Station",
+                "name": "Maguiresbridge Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.534835774545857,
+                    54.31887999289371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Lisbellaw Station",
+                "name": "Lisbellaw Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.451505440741403,
+                    54.25693266428523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Lisnaskea Station",
+                "name": "Lisnaskea Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.354345150005233,
+                    54.18279438793049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Newtownbutler Station",
+                "name": "Newtownbutler Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.952873527589515,
+                    51.90486030758438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Macroom Station",
+                "name": "Macroom Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.888347180247605,
+                    51.86118974117112
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Dooniskey Station",
+                "name": "Dooniskey Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72717386211872,
+                    51.86404033933525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kilcrea Station",
+                "name": "Kilcrea Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.83984719925916,
+                    51.84776694989375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Crookstown Road Station",
+                "name": "Crookstown Road Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.659903943760796,
+                    51.87092000085466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kilumney Station",
+                "name": "Kilumney Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.586512641421077,
+                    51.8819185769238
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ballincollig Station",
+                "name": "Ballincollig Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.46805758476096,
+                    51.89092447822826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Cork Capwell Station",
+                "name": "Cork Capwell Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.60750000149351,
+                    51.91680000087554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Coachford Junction ",
+                "name": "Coachford Junction "
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.578800096045917,
+                    51.91040001815987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Healey's Bridge Station",
+                "name": "Healey's Bridge Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.571200001029972,
+                    51.89809999990123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Leemount Station",
+                "name": "Leemount Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.5053000011055,
+                    51.89280000077987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Victoria Station",
+                "name": "Victoria Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.48360000062795,
+                    51.89609999930975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Cork Western Road Station",
+                "name": "Cork Western Road Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.552140195100879,
+                    51.89688217430222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Carrigohane Station",
+                "name": "Carrigohane Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.637846999110927,
+                    51.91866799943224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Cloghroe Station",
+                "name": "Cloghroe Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.678556086515183,
+                    51.91652184122307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Gurteen Station",
+                "name": "Gurteen Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.717971578129662,
+                    51.91799893721443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Dripsey Station",
+                "name": "Dripsey Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.788101455669784,
+                    51.91001979772415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Coachford Station",
+                "name": "Coachford Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.772336115671688,
+                    51.92746353484058
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Peake Station",
+                "name": "Peake Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.743884927234104,
+                    51.92323162761848
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kilmurry Station",
+                "name": "Kilmurry Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.603045257680208,
+                    51.92279127435292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Tower Bridge Station",
+                "name": "Tower Bridge Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.568000002939115,
+                    51.93169999958945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Blarney Station",
+                "name": "Blarney Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.733753462563648,
+                    51.99630730549006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Donoughmore Station",
+                "name": "Donoughmore Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70067027974127,
+                    51.98710443819826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Firmount Station",
+                "name": "Firmount Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.672099998612188,
+                    51.9700999925841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Knockane Station",
+                "name": "Knockane Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.648301294018175,
+                    51.96280039627145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Fox's Bridge Station",
+                "name": "Fox's Bridge Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.60619999923219,
+                    51.94039999903435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Burnt Mill Station",
+                "name": "Burnt Mill Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.632790369758727,
+                    51.94699924621575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Gurth Halt",
+                "name": "Gurth Halt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.598300002813893,
+                    51.92779999799719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "St Anne's Station",
+                "name": "St Anne's Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.589544556967855,
+                    54.70859326284549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Castlederg Station",
+                "name": "Castlederg Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.554536842313571,
+                    54.71537466230292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Spamount Station ",
+                "name": "Spamount Station "
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.521756829280957,
+                    54.72568049391872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Crew Station",
+                "name": "Crew Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.502596000284941,
+                    54.73731199973469
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Fyfin Station",
+                "name": "Fyfin Station"
             },
             "type": "Feature"
         }
