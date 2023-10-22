@@ -1,0 +1,5770 @@
+﻿content,id,logo,unTappdAverageRating,unTappdRatings,volume assumed,Type,Town,County,Founded,Defunct,website,URL,Field 17,Count of Brews,StdDvABV,Avg ABV,IpAs,Count of Types,ICBI Member,phone,distributor/rep,distributor-rep,distributorOrrep,jurisdiction,FT_employees,PT_employees,output_2018,output_2017,output_2016,output_2015,output_2014,output_2013,output_2012,output_2011,output_2010,output_2009,tours,Naming Origin,SuccessorBrewery,twitterH,foundedMonth,foundedDay,defunctDay,defunctMonth,defunctYear,start,end,PlaceNamed,MythNamed,BrewerFounderNAmed,PhysicalBreweryClosed,PhysicalBreweryOpened,Farmbased,Operating,ExportPercent?,OnFarmSupply,SourceofFoundFunding,Lagers,Source,NodeID,YearsinBusiness,GrowOwnHops,GrowOwnBarley,HasTaproom,OffersTours,output_2019,output_2020,output_2021,output_2022,BrewedElsewhere,Count of Colabs,town,lon,lat,geo,
+Maidenbank Brewery,maidenbank,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Defunct,Newry,Down,01/01/1983,01/01/1984,,,,,,,,1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,1,1,1984,1983-1-1,1984-1-1,,,,,,,No,,,,,,,1,,,,,,,,,,,Newry,-6.363664,54.189027,54.18902764,
+Harty's Brewery,hartys,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Defunct,"Blessington Industrial Estate, Wicklow",Wicklow,01/09/1983,01/12/1984,,,,,,,,1,,,,,,ROI,,,,,,,,,,,,,No,,,,9,1,1,12,1984,1983-9-1,1984-12-1,,,1,,,,No,,,,,,201,1.25,,,No,,,,,,,,"Blessington Industrial Estate, Wicklow",-6.540068,53.165853,53.16585365,
+Herald Brewery,herald,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Defunct,Coleraine,Londonderry,01/01/1982,01/01/1985,,,,,,,,1,,,,,,UK,,,,,,,,,,,,,No,,,,1,1,1,1,1985,1982-1-1,1985-1-1,,,,,,,No,,,,,,590,3,,,No,,,,,,,,Coleraine,-6.673442,55.133031,55.13303167,
+Dempsey's Brewery,dempseys,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Defunct,"Jamestown Industrial Estate, Inchicore",Dublin,01/07/1982,01/01/1986,,,,2,0.141421356,4.1,"Pilsner
+English Mild Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,7,1,1,1,1986,1982-7-1,1986-1-1,,,1,,,,No,,,,2,,200,3.51,,,,,,,,,,0,"Jamestown Industrial Estate, Inchicore",-6.333947,53.333989,53.33398963,
+Down Royal Brewery,downroyal,https://irishcraftbrewing.com/pics/logos/downroyalLogo.jpeg,,,0,Defunct,Lisburn,Down,01/01/1982,01/01/1988,,,,,,,,1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,1,1,1988,1982-1-1,1988-1-1,1,,,,,,No,,,,,,591,6,,,,,,,,,,,Lisburn,-6.0541306,54.5166471,54.51664716,
+Celtic Brew,celticbrew,https://irishcraftbrewing.com/pics/logos/celticbrewLogo.jpeg,3.2,11,4,Defunct,Enfield,Meath,01/01/1997,01/01/2000,,http://www.premierbeers.ie/CelticBrew/AboutUs.htm,,7,0.409878031,4.36,"Irish Dry Stout
+Irish Red Ale
+Lager
+Pale Lager
+Golden Ale
+Lager
+Lager",1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,1,1,2000,1997-1-1,2000-1-1,,,,,,,No,,,,5,,173,3,,,No,,,,,,,0,Enfield,-6.83828,53.416452,53.41645268,
+Emerald Brewing,emerald,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Defunct,Boyle,Roscommon,01/01/1997,01/01/2000,,,,3,0.435889894,4.5,"Pilsner
+Irish Dry Stout
+Irish Red Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,1,2000,1997-1-1,2000-1-1,,,,,,,No,,,,3,,182,3,,,,,,,,,,0,Boyle,-8.301379,53.970535,53.97053583,
+Dublin Brewing Company,dublinbrewing,https://irishcraftbrewing.com/pics/logos/dublinbrewingLogo.jpeg,3.37,4704,587,Defunct,"141 West King Street, Dublin",Dublin,01/01/1996,01/01/2004,,,,4,0.221735578,4.375,"Blonde Ale
+Hefeweizen
+Irish Red Ale
+Irish Dry Stout",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,1,2004,1996-1-1,2004-1-1,1,,,,,,No,,,,4,,172,8.01,,,,,,,,,,0,"141 West King Street, Dublin",-6.275953,53.349872,53.34987263,
+Dwan's Brewery,dwans,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.5,16,3,Defunct,Thurles,Tipperary,01/01/1998,01/01/2004,,http:dwan.ie,,15,1.091438544,5.553333333,"Extra Stout
+English Strong Ale
+Vienna Lager
+Pilsner
+English Bitter
+English Strong Ale
+Belgian Ale
+Irish Pale Ale
+Hefeweizen
+Porter
+Extra Stout
+English Strong Ale
+Irish Red Ale
+Irish Dry Stout
+Lager",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,1,2004,1998-1-1,2004-1-1,,,1,,,,No,,,,11,,174,6,,,,,,,,,,0,Thurles,-7.812957,52.678095,52.67809578,
+Irish Brewing Company,irishbrewing,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Defunct,Newbridge,Kildare,01/01/1997,01/01/2005,,http://breweryhistory.com/wiki/index.php?title=Irish_Brewing_Co,,1,?,4.2,Pilsner,1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,1,1,2005,1997-1-1,2005-1-1,1,,,,,,No,,,,1,,171,8.01,,,No,No,,,,,,0,Newbridge,-6.819448,53.168871,53.16887168,
+Balbriggan Brewing,balbriggan,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Defunct,Lusk,Meath,15/01/1999,29/09/2005,,asharte.freeserve.co.uk/brewers.htm,,1,?,4.8,Irish Red Ale,1,,,,,,ROI,,,,,,,,,,,,,,,,,1,15,29,9,2005,1999-1-15,2005-9-29,1,,,,,,No,,,,1,,175,6.71,,,,,,,,,,0,Lusk,-6.1658841,53.5263264,53.52632646,
+Biddy Early Brewery,biddyearly,https://irishcraftbrewing.com/pics/logos/biddyearlyLogo.jpeg,3.5,22,2,Microbrewery,Inagh,Clare,01/01/1995,01/01/2008,,Http://beb.ie,,5,0.394757309,4.325,"Pale Lager
+Irish Red Ale
+Irish Dry Stout
+Honey Beer
+Wild Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,1,2008,1995-1-1,2008-1-1,,1,,,,,No,,,,5,,170,13.01,,,,,,,,,,0,Inagh,-9.174876,52.877513,52.87751392,
+Kinsale Brewing Company,kinsale,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,2.69,33,4,Defunct,The Glen Kinsale,Cork,01/01/2001,01/01/2009,,,,5,0,4.3,"Witbier
+Irish Dry Stout
+Pale Wheat Ale
+Pale Ale
+Lager",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,1,2009,2001-1-1,2009-1-1,1,,,,,,No,,,,5,,95,8.01,,,,,,,,,,0,The Glen Kinsale,-8.522567,51.706827,51.70682785,
+Messrs Maguire,messrmaguire,https://irishcraftbrewing.com/pics/logos/messrmaguireLogo.jpeg,3.47,228,15,Defunct,Burgh Quay,Dublin,01/01/1998,01/01/2013,,,,6,0.559464029,4.74,"Porter
+Pilsner
+American Pale Ale
+Irish Red Ale
+Irish Dry Stout
+Pale Lager",1,,,,,,ROI,,,,,,,,,,,,,,,JW Sweetman,,1,1,1,1,2013,1998-1-1,2013-1-1,,,1,,,,No,,,,6,,268,15.01,,,,,,,,,,0,Burgh Quay,-6.258009,53.346971,53.34697163,
+Muckish Mountain Brewery,muckish,https://irishcraftbrewing.com/pics/logos/muckishLogo.jpeg,3.38,12,12,Defunct,Donegal,Donegal,01/01/2014,01/01/2015,,,,1,?,4.3,Irish Red Ale,1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,1,1,2015,2014-1-1,2015-1-1,,,,,,,No,,,,1,,110,1,,,No,,,,,,,0,Donegal,-8.1096143,54.653827,54.65382781,
+Maltmeister,maltmeister,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.92,35,35,Defunct,Bangor,Down,01/01/2015,01/01/2016,,,,7,1.158200575,5.414285714,"Spiced Beer
+Witbier
+Maibock
+Helles Lager
+English Stout
+German Pilsner
+American Lager",1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,1,1,2016,2015-1-1,2016-1-1,,,,,,,No,,,,7,,209,1,,,,,,,,,,0,Bangor,-5.686251,54.650166,54.65016657,
+BrewBot,brewbot,https://irishcraftbrewing.com/pics/logos/brewbotLogo.jpeg,3.67,211,106,Defunct,Belfast,Antrim,01/01/2015,01/01/2017,,http://www.brewbot.io,,51,1.327327028,6.122727273,"Extra Stout
+Porter
+Imperial Brown Ale
+Imperial India Pale Ale
+English India Pale Ale
+Porter
+India Session Ale
+Irish Red Ale
+Porter
+International Pale Ale
+Rye Pale Ale
+Lager
+American IPA
+American Pale Ale
+Saison Ale
+American IPA
+American IPA
+Baltic Porter
+Imperial Red Ale
+Czech Pilsner
+Belgian Dubbel
+American Pale Ale
+English Pale Ale
+American Pale Ale
+Export Stout
+Imperial Black Ale
+Imperial Red Ale
+Baltic Porter
+Porter
+Imperial Red Ale
+Brown Ale
+Rye Pale Ale
+English India Pale Ale
+India Session Ale
+International Pale Ale
+Rye Pale Ale
+Porter
+Cream Ale
+American Pale Ale
+Kolsch Lager
+Witbier
+Oatmeal Stout
+Hefeweizen
+American IPA
+American IPA
+American IPA
+India Session Ale
+American Pale Ale
+Wheat Beer
+Golden Ale
+English India Pale Ale",1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,1,1,2017,2015-1-1,2017-1-1,,,,,,,No,,,,28,,27,2,,,,,,,,,,0,Belfast,-5.93012,54.597285,54.59728559,
+Dingle Brewing Company,dingle,https://irishcraftbrewing.com/pics/logos/dingleLogo.jpeg,3.36,6682,1112,Defunct,Spa Road,Kerry,01/01/2011,01/01/2017,,,,1,?,4.2,Pale Lager,1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,1,1,2017,2011-1-1,2017-1-1,1,,,,,,No,,,,1,,53,6.01,,,No,,,,,,,0,Spa Road,-10.262823,52.142809,52.1428091,
+Jack Cody's,jackdcodys,https://irishcraftbrewing.com/pics/logos/jackdcodysLogo.jpeg,3.42,3185,1062,Defunct,Boyne Business Park,Louth,01/01/2014,01/01/2017,,https://jackcodys.com/,,13,0.886146946,5.176923077,"American Pale Ale
+American Red Ale
+Pilsner
+American IPA
+Milk Stout
+Extra Stout
+American IPA
+English Brown Ale
+Saison Ale
+English Bitter
+Imperial India Pale Ale
+English Bitter
+American Pale Ale",1,Yes,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,1,1,2017,2014-1-1,2017-1-1,,,1,,,,No,,,,10,,84,3,,,No,,,,,,,0,Boyne Business Park,-6.324772,53.725564,53.72556463,
+Achill Island Brewery,achill,https://irishcraftbrewing.com/pics/logos/achillLogo.jpeg,3.14,192,104,Defunct,Bunacurry,Mayo,01/01/2016,01/11/2017,,http://www.achillbrewery.com,,3,0.4,4.4,"Golden Ale
+Red Ale
+Red Ale",1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,1,11,2017,2016-1-1,2017-11-1,1,,,,,,No,,,,2,,5,1.84,,,No,,,,,,,0,Bunacurry,-9.9857745,53.9751921,53.9751922,
+Evans' Brewery,evans,https://irishcraftbrewing.com/pics/logos/evansLogo.jpeg,3.79,43,22,Defunct,Carndonagh,Donegal,01/01/2016,01/12/2017,,,,2,0.212132034,4.15,"Golden Ale
+Stout Other",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,12,2017,2016-1-1,2017-12-1,,,1,,,,No,,,,2,,64,1.92,,,,,,,,,,0,Carndonagh,-7.2668905,55.2506229,55.25062297,
+Jack Doyle's,jackdoyles,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.25,116,30,Defunct,Blackwater,Wexford,01/01/2014,01/12/2017,,,,4,0.884590301,4.675,"International Pale Ale
+Irish Dry Stout
+Dark Ale
+Lager",1,Yes,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,12,2017,2014-1-1,2017-12-1,,,1,,,,No,,,,4,,85,3.92,,,,,,,,,,0,Blackwater,-6.348784,52.445318,52.44531863,
+Liberty Brewing Company,liberty,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Defunct,Thurles,Tipperary,01/01/2016,01/01/2018,,,,4,0.694622199,4.975,"Irish Red Ale
+American Pale Ale
+Irish Red Ale
+Irish Red Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,1,2018,2016-1-1,2018-1-1,,,,,,,No,,,,2,,,2,,,,,,,,,,0,Thurles,-7.812957,52.678095,52.67809578,
+Pokertree Brewing Company,pokertree,https://irishcraftbrewing.com/pics/logos/pokertreeLogo.jpeg,3.4,1507,301,Defunct,Carrickmore,Tyrone,01/01/2013,02/01/2018,,,,16,0.890482079,5.46875,"Oatmeal Stout
+Irish Red Ale
+Golden Ale
+Black Cascadian Ale
+English India Pale Ale
+Biere de Garde
+Berliner Weisse
+Sour Ale
+Porter
+Ginger Beer
+Porter
+Sour Ale
+American IPA
+Belgian Strong Golden Ale
+Red Ale
+Biere de Garde",1,,,,,Barry & Fitzwilliam,UK,,,,,,,,,,,,,,,,,1,1,2,1,2018,2013-1-1,2018-1-2,,,,,,,No,,,,14,,121,5.01,,,,,,,,,,1,Carrickmore,-7.0480128,54.5955769,54.59557697,
+Heartland Brewing Company,heartland,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.5,4,5,Defunct,"Derrymullen, Ballinasloe",Galway,01/01/2018,01/11/2018,,https://www.facebook.com/pg/heartlandbrewing,,1,?,4,Belgian Blonde,1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,1,11,2018,2018-1-1,2018-11-1,1,,,,,,No,,,,1,,185,0.83,,,No,,,,,,,0,"Derrymullen, Ballinasloe",-8.253369,53.341536,53.34153683,
+Red Hand Brewing Company,redhand,https://irishcraftbrewing.com/pics/logos/redhandLogo.jpeg,3.44,91,17,Defunct,Dungannon,Tyrone,01/01/2013,01/04/2018,,,,2,0.565685425,5.4,"American Pale Ale
+American IPA",1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,1,4,2018,2013-1-1,2018-4-1,,1,,,,,No,,,,3,,127,5.25,,,,,,,,,,0,Dungannon,-6.7669352,54.5082725,54.50827257,
+Arthurstown Brewing Company,arthurstown,https://irishcraftbrewing.com/pics/logos/arthurstownLogo.jpeg,3.51,1885,553,Defunct,Arthurstown,Wexford,01/01/2015,31/05/2018,,http://www.arthurstownbrewingco.com,,21,1.046535638,5.245,"English Pale Ale
+Porter
+American Pale Ale
+Irish Red Ale
+Irish Red Ale
+American Red Ale
+Saison Ale
+Czech Pilsner
+Irish Red Ale
+Baltic Porter
+Irish Red Ale
+American Pale Ale
+English Porter
+Fruit Beer
+English Pale Ale
+American IPA
+English Porter
+New England IPA
+American IPA
+International IPA
+Porter",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,31,5,2018,2015-1-1,2018-5-31,1,,,,,,No,,,,14,,7,3.41,,,,,,,,,,0,Arthurstown,-6.9513715,52.2420168,52.24201687,
+Sheelin,sheeling,https://irishcraftbrewing.com/pics/logos/sheelingLogo.jpeg,3.37,19,4,Defunct,Bellanaleck,Fermanagh,01/04/2013,01/06/2018,,,,1,?,4.5,Blonde Ale,1,,,,,,UK,,,,,,,,,,,,,,,,@sheelinbrewery,4,1,1,6,2018,2013-4-1,2018-6-1,1,,,,,,No,,,,1,,132,5.17,,,,,,,,,,0,Bellanaleck,-7.6422052,54.2964196,54.29641968,
+Independent Brewing Company of Ireland,independent,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.54,6236,1386,Defunct,Carraroe,Galway,01/01/2014,01/07/2018,,http://independentbrewing.ie/,,23,1.072336124,5.29047619,"American Pale Ale
+Irish Red Ale
+Golden Ale
+Milk Stout
+American Pale Ale
+Black Cascadian Ale
+International Pale Ale
+American IPA
+Porter
+Export Stout
+Imperial Stout
+Extra Stout
+Irish Dry Stout
+Golden Ale
+Porter
+India Session Ale
+Red IPA
+India Session Ale
+International Pale Ale
+India Session Ale
+American Light Lager
+India Session Ale
+International Pale Ale",1,Yes,,,,,ROI,6,,,,,,,,,,,,No,,,,1,1,1,7,2018,2014-1-1,2018-7-1,,,,,,,No,,,,15,,81,4.5,,,No,,,,,,,0,Carraroe,-9.599334313,53.26471731,53.26471731,
+Bo Bristle,bobristle,https://irishcraftbrewing.com/pics/logos/bobristleLogo.jpeg,3.54,1688,187,Defunct,Banagher,Offaly,01/01/2010,01/01/2019,,http://www.bobristle.com/,,16,1.297731193,5.394375,"English Pale Ale
+American Red Ale
+Czech Pilsner
+Irish Dry Stout
+Smoked Beer
+Imperial India Pale Ale
+Imperial Red Ale
+Sweet Stout
+Fruit Beer
+American Brown Ale
+Lager
+Irish Red Ale
+Extra Stout
+American Red Ale
+English Bitter
+Export Stout",1,,,,,Barry & Fitzwilliam,ROI,,,,,,,,,,,,,No,"The name Bo Bristle comes from Celtic legend, where great importance is attached to the bristles of the boar. They were the distinguishing characteristic of the animal and symbolic of
+its strength. Boar hunting features heavily in Celtic & Irish mythology. One such story is that of Fionn Mac Cumhaill luring his rival Diarmuid Ua Duibhne to his death;
+gored by the powerful bristle of the boar. Our beers are likewise known for their strength, flavour and seriously savage character. Sláinte!",,,1,1,1,1,2019,2010-1-1,2019-1-1,,,,,,,No,,,,14,,22,9.01,,,No,,,,,,,0,Banagher,-7.9861049,53.1901112,53.19011128,
+Boghopper Brewery,boghopper,https://irishcraftbrewing.com/pics/logos/boghopperLogo.jpeg,3.49,851,213,Defunct,Muff,Donegal,01/01/2015,01/01/2019,,http://www.boghopper.ie,,15,0.870686647,5.366666667,"American Pale Ale
+Czech Pilsner
+Saison Ale
+Red Ale
+Brown Ale
+International Pale Ale
+English Brown Ale
+American Pale Ale
+Pilsner
+Irish Red Ale
+International IPA
+American Pale Wheat Ale
+American Pale Ale
+Pumpkin Beer
+India Session Ale",1,,,,,,ROI,,,,,,,,,,,,,,,Otterbank Brewing Company,,1,1,1,1,2019,2015-1-1,2019-1-1,,,,,,,No,,,,13,,23,4,,,,,,,,,,1,Muff,-7.284137,55.071007,55.07100773,
+Carrig Brewing Company,carrig,https://irishcraftbrewing.com/pics/logos/carrigLogo.jpeg,3.48,12920,1843,Defunct,Drumshanbo,Leitrim,01/01/2012,01/01/2019,,http://carrigbrewing.com/,,55,0.992861018,5.282692308,"Lager
+Irish Red Ale
+Black India Ale
+English Pale Ale
+American Red Ale
+Czech Pilsner
+International Pale Ale
+English Pale Ale
+Irish Red Ale
+Red IPA
+American IPA
+International Pale Ale
+International Pale Ale
+American Red Ale
+India Session Ale
+Irish Dry Stout
+American IPA
+Dark Ale
+Black Cascadian Ale
+Belgian Witbier
+American Red Ale
+Black Cascadian Ale
+Hefeweizen
+Irish Red Ale
+Lager
+Milk Stout
+Porter
+India Session Ale
+Rauchbier
+International Pale Ale
+Black Cascadian Ale
+American Red Ale
+Witbier
+Rye IPA
+Hefeweizen
+Spiced Beer
+Rye Beer
+International IPA
+International IPA
+International IPA
+International IPA
+Double IPA
+Pilsner
+New Zealand Pale Ale
+Black Cascadian Ale
+Black Cascadian Ale
+Red IPA
+Dark Ale
+Red Ale
+American IPA
+Cream Ale
+Coffee Stout
+Double IPA
+American Pale Ale
+Helles Lager",1,Yes,,,,,ROI,,,,,,,,,,,,,Yes,"Carrig, meaning rock, is synonymous with the Irish landscape, in that almost every parish has a placename beginning with Carrig or Carrick. We wanted our craft beers to symbolise Ireland’s rich cultural, brewing and geographical heritage, a rock of sorts. Our Curlew, continues to spread its wings. Our beers are available nationwide and we have exported abroad to regions of Europe and North America",Brú Brewery,,1,1,1,1,2019,2012-1-1,2019-1-1,1,,,,,,No,,,,32,,38,7.01,,,No,,,,,,,1,Drumshanbo,-8.0358416,54.048727,54.0487278,
+Kelly's Mountain Brew,kellys,https://irishcraftbrewing.com/pics/logos/kellysLogo.jpeg,3.42,2027,405,Defunct,Clane,Kildare,01/01/2014,01/01/2019,,,,11,1.007065945,5.027272727,"International Pale Ale
+India Session Ale
+Irish Red Ale
+Porter
+Double IPA
+Imperial Stout
+Pilsner
+Lager
+Blonde Ale
+International Pale Ale
+American Pale Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,1,2019,2014-1-1,2019-1-1,,,1,,,,No,,,,10,,89,5,,,,,,,,,,0,Clane,-6.6870404,53.293785,53.29378567,
+Glens Of Antrim Craft Ale And Beers,glensofantrim,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.58,857,166,Defunct,Ballycastle,Antrim,01/01/2014,01/03/2019,,https://glensofantrimcraftaleandbeers.com,,6,0.419523539,4.6,"Irish Red Ale
+Blonde Ale
+Lager
+Hefeweizen
+Irish Dry Stout
+Witbier",1,Yes,,,,,UK,,,,,,,,,,,,,,,,@RathlinRed,1,1,1,3,2019,2014-1-1,2019-3-1,1,,,,,Yes,No,,,,6,,70,5.16,,,,,,,,,,0,Ballycastle,-6.2532947,55.2052888,55.20528886,
+West Mayo Brewery,westmayo,https://irishcraftbrewing.com/pics/logos/westmayoLogo.jpeg,3.44,1000,175,Defunct,Castlebar,Mayo,01/07/2013,25/03/2019,,,,6,0.348807492,4.383333333,"Irish Red Ale
+Blonde Ale
+Porter
+Brown Ale
+Smoked Beer
+International Pale Ale",1,,,,,,ROI,,,,,,,,,,,,,No,,,@westmayobrewery,7,1,25,3,2019,2013-7-1,2019-3-25,1,,,,,Yes,No,,,,6,,149,5.73,,,No,,,,,,,0,Castlebar,-9.2879257,53.8550014,53.85500149,
+Finn Valley Brewing,finnvalley,https://irishcraftbrewing.com/pics/logos/finnvalleyLogo.jpeg,3.27,153,51,Defunct,"Furzehaven house, Donegal Rd,
+Ballybofey, Ireland, F93 TX68",Donegal,01/01/2017,01/01/2020,,http://finnvalleybrewing.ie,,5,0.482700735,4.74,"Rye Pale Ale
+Amber Ale
+International Pale Ale
+Red Ale
+Pale Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,1,2020,2017-1-1,2020-1-1,1,,,,,,No,,,,5,,176,3,,,,,,,,,,0,"Furzehaven house, Donegal Rd,
+Ballybofey, Ireland, F93 TX68",-7.786102,54.796,54.79600078,
+Lecale Brewery,lecale,https://irishcraftbrewing.com/pics/logos/lecaleLogo.jpeg,3.44,211,106,Defunct,Ardglass,Down,01/01/2018,01/01/2020,,,,5,1.233220716,5.083333333,"Irish Red Ale
+American Lager
+Irish Dry Stout
+Pale Lager
+Irish Dry Stout",1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,1,1,2020,2018-1-1,2020-1-1,1,,,,,,No,,,,4,,210,2,,,,,,,,,,0,Ardglass,-5.613985,54.264288,54.26428856,
+Loudons Brewing,loudons,https://irishcraftbrewing.com/pics/logos/loudonsLogo.jpeg,3.44,277,88,Defunct,"Glendree, Ayle Upper, Feakle",Clare,01/01/2017,01/03/2020,,https://www.loudons.ie,,6,0.109544512,4.1,"International Pale Ale
+Australian Pale Ale
+Pilsner
+English Pale Ale
+Irish Dry Stout
+Helles Lager",1,,087 402 4807,,,,ROI,,,,,,,,,,,,,,,,@loudonsbrewing,1,1,1,3,2020,2017-1-1,2020-3-1,,,1,,,Yes,No,,,,6,,186,3.16,,,,,,,,,,0,"Glendree, Ayle Upper, Feakle",-8.716654,52.913425,52.91342587,
+Drew Fox Brewing,drewfox,https://irishcraftbrewing.com/pics/logos/drewfoxLogo.jpeg,3.58,1683,303,Defunct,Clonard,Wexford,01/01/2015,20/07/2020,,http://www.cleverman.ie/brewery/,,6,0.285773803,4.483333333,"Smoked Beer
+American Pale Ale
+Irish Red Ale
+Kolsch Lager
+Irish Dry Stout
+Stout Other",1,,,,,,ROI,,,,,,,,,,,,,No,,,@clevermanbeer,1,1,20,7,2020,2015-1-1,2020-7-20,,,1,,,,No,,,,6,,58,5.55,,,No,,,,,,,0,Clonard,-6.501615,52.329646,52.32964665,
+Corrib Brewing Company,corrib,https://irishcraftbrewing.com/pics/logos/corribLogo.jpeg,3.49,793,142,Defunct,Oughterard,Galway,01/01/2015,01/08/2020,,,,11,0.630947889,4.714285714,"American Pale Ale
+California Common Ale
+Amber Lager
+California Common Ale
+Irish Dry Stout
+American Red Ale
+Golden Ale
+International Pale Ale
+Hefeweizen
+Rye Stout
+Kolsch Lager",1,,,,,,ROI,,,,,,,,,,,,,,,,@wildbatbeer,1,1,1,8,2020,2015-1-1,2020-8-1,1,,,,,,No,,,,10,,45,5.59,,,,,,,,,,0,Oughterard,-9.3189472,53.4285481,53.42854819,
+Hillstown Brewery,hillstown,https://irishcraftbrewing.com/pics/logos/hillstownLogo.jpeg,3.39,8163,1239,Defunct,Randalstown,Antrim,01/06/2014,01/01/2021,,http://www.hillstownbrewery.com,,48,1.95497184,5.475,"American Amber Ale
+Imperial Stout
+Belgian Blonde
+Witbier
+Black Cascadian Ale
+Session IPA
+Lager
+Session IPA
+American IPA
+Dark Lager
+Saison Ale
+Hefeweizen
+American Pale Ale
+Red IPA
+Session IPA
+Imperial India Pale Ale
+Golden Ale
+Rye Pale Ale
+Imperial Red Ale
+New England IPA
+Sour Ale
+Winter Warmer
+India Pale Ale
+Hefeweizen
+Euro Lager
+India Pale Ale
+Double IPA
+New England DIPA
+New England DIPA
+Session IPA
+New England IPA
+White Stout
+Scotch Ale
+Double IPA
+Sour Ale
+Brut IPA
+Gose
+India Session Ale
+Pale Lager
+Fruit Beer
+Wheat Beer
+India Session Ale
+Gose
+Imperial Double Stout
+Red Lager
+India Session Ale
+Fruited Sour
+Fruited Sour",1,,,,,,UK,,,,,,,,,,,,,No,,Our Brewery,@hillstownBeer,6,1,1,1,2021,2014-6-1,2021-1-1,1,,,,,Yes,No,,,,36,,77,6.59,,,No,,,,,,,2,Randalstown,-6.320274,54.7500518,54.75005186,
+Munster Brewery,munster,https://irishcraftbrewing.com/pics/logos/munsterLogo.jpeg,3.23,429,58,Defunct,Youghal,Cork,01/01/2014,01/06/2021,,,,5,0.336650165,4.4,"American Amber Lager
+Irish Red Ale
+Pale Lager
+Session IPA
+Blonde Ale",1,,,,,Barry & Fitzwilliam,ROI,,,,,,,,,,,,,Yes,,Holo Kombucha,,1,1,1,6,2021,2014-1-1,2021-6-1,1,,,,,,No,,,,5,,111,7.42,,,,Yes,,,,,,0,Youghal,-7.8471707,51.9542704,51.95427048,
+Old Mill Brewing Company,oldmill,https://irishcraftbrewing.com/pics/logos/oldmillLogo.jpeg,3.68,281,82,Defunct,Convoy,Donegal,01/01/2018,01/06/2021,,https://www.facebook.com/oldmillbrewing/,,9,0.959311095,5.255555556,"American Pale Ale
+Irish Red Ale
+American Pale Ale
+New England IPA
+Stout Other
+Pilsner
+English Brown Ale
+Euro Lager
+International IPA",1,Yes,,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,6,2021,2018-1-1,2021-6-1,1,,,,,,No,,,,8,,192,3.42,,,,,,,,,,0,Convoy,-7.656715,54.856531,54.85653177,
+Sheridan's Brewery,sheridans,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.3,6,1,Defunct,"Walsh's, High Street, Dunmore",Galway,01/01/2017,01/06/2021,,,,1,?,4.6,Hefeweizen,1,,087 9897072,,,,ROI,,,,,,,,,,,,,,,,,1,1,1,6,2021,2017-1-1,2021-6-1,,,1,,,,No,,,,1,,187,4.42,,,,,,,,,,0,"Walsh's, High Street, Dunmore",-8.743913,53.617951,53.61795187,
+Taylored Ales,tayloredales,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,4,1,0,Defunct,Cloondara,Longford,01/08/2018,01/06/2021,,,,1,?,6.2,American Pale Ale,1,,,,,,ROI,,,,,,,,,,,,,,,,,8,1,1,6,2021,2018-8-1,2021-6-1,,,1,,,,No,,,,1,,384,2.84,,,,,,,,,,0,Cloondara,-7.906165,53.731695,53.73169579,
+Brú Brewery,bru,https://irishcraftbrewing.com/pics/logos/bruLogo.jpeg,3.398,12773,1501,Defunct,Cloneen,Meath,01/07/2013,01/01/2022,,https://www.brubrewery.ie,,47,1.061755307,5.163095238,"American Pale Ale
+Irish Red Ale
+Irish Dry Stout
+Guten Free Lager
+American IPA
+Witbier
+English India Pale Ale
+Saison Ale
+Herbed Beer
+Irish Dry Stout
+Porter
+Fruit Beer
+Czech Pilsner
+Extra Stout
+Weissebier
+American Pale Ale
+American Pale Ale
+Amber Lager
+Winter Ale
+English Mild Ale
+English India Pale Ale
+Imperial Stout
+English India Pale Ale
+International Pale Ale
+Brown Ale
+Pale Lager
+Irish Red Ale
+American Pale Ale
+American Pale Ale
+Pale Lager
+International IPA
+American Pale Ale
+India Session Ale
+American IPA
+American Brown Ale
+American IPA
+Pastry Stout
+Fruit Beer
+American IPA
+Irish Red Ale
+Strong Ale
+Brett Beer
+International IPA
+India Session Ale
+Berliner Weisse
+Pilsner
+American IPA",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,7,1,1,1,2022,2013-7-1,2022-1-1,,,,,,,No,,,,29,,32,8.51,,,Restaurant License,,,,,,,3,Cloneen,-6.798213,53.566137,53.56613768,
+Metalman Brewing,metalman,https://irishcraftbrewing.com/pics/logos/metalmanLogo.jpeg,3.46,13182,1184,Defunct,Waterford,Waterford,01/01/2011,15/02/2022,,http://www.metalmanbrewing.com/,,57,0.94973607,4.962962963,"American Pale Ale
+Witbier
+Porter
+English India Pale Ale
+Saison Ale
+American Red Ale
+Sour Ale
+Herbed Beer
+Helles Lager
+Herbed Beer
+Black Cascadian Ale
+English Pale Ale
+American Pale Ale
+Pale Lager
+Dark Ale
+Hefeweizen
+Saison Ale
+Hefeweizen
+American Amber Lager
+American Amber Ale
+American Pale Ale
+Pale Lager
+English Pale Ale
+Sour Ale
+Dark Ale
+Herbed Beer
+Saison Ale
+Sour Ale
+Saison Ale
+Sour Ale
+International Pale Ale
+American Pale Ale
+American IPA
+International Pale Ale
+Euro Lager
+American Pale Wheat Ale
+International IPA
+Red Ale
+Euro Dark Lager
+International Pale Ale
+Porter
+Dark Ale
+Belgian Pale Ale
+India Session Ale
+American IPA
+Rye IPA
+Belgian Blonde
+American IPA
+Wheat Beer
+New England IPA
+Wheat Beer
+Session IPA
+Wheat Beer
+American IPA
+New England IPA
+New England IPA
+Coffee Porter",1,Yes,,,,,ROI,7,,,,,,,,,,,,Yes,"The name of the brewery is inspired by a navigational aid on the Waterford coast. The figure of the Metal Man was erected in 1823 after a military transport ship called the Sea Horse was wrecked off the Tramore coast, resulting in a significant loss of life. The Metal Man stands on one of three pillars overlooking the bay, his purpose to guide seafarers, and keep them on their true course.
+""It comes from a navigational aid on the coastline a few miles from Waterford city where we’re based – it’s been there for heading on 200 years, and is the figure of a man on top of a pillar – his purpose is to keep seafarers on the right course, and point them in the direction of Waterford harbour. He’s locally knows as the Metalman!""",Hopfully,,1,1,15,2,2022,2011-1-1,2022-2-15,,1,,,,,No,,,,32,,106,11.13,,,No,,,,,,,1,Waterford,-7.11697,52.263546,52.26354671,
+Black Mountain,blackmountain,https://irishcraftbrewing.com/pics/logos/blackmountainLogo.jpeg,,,0,Defunct,Derriaghy Road,Antrim,01/01/2016,01/01/2023,,https://www.facebook.com/Black-Mountain-Brewery-270088200049512/,,8,0.631308166,4.745,"Black Cascadian Ale
+Dark Ale
+Extra Strong Bitter
+Golden Ale
+Pale Lager
+Porter
+India Session Ale
+Wheat Beer",1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,1,1,2023,2016-1-1,2023-1-1,1,,,,,,No,,,,8,,18,7.01,,,,,,,,,,0,Derriaghy Road,-6.037476,54.54288,54.5428806,
+JW Sweetman,jwsweetman,https://irishcraftbrewing.com/pics/logos/jwsweetmanLogo.jpeg,3.45,18226,1821,Defunct,Burgh Quay,Dublin,01/01/2013,01/01/2023,,,,42,0.818873996,5.094285714,"American Pale Ale
+Irish Red Ale
+Porter
+Hefeweizen
+Blonde Ale
+Irish Dry Stout
+American IPA
+Kolsch Lager
+Dunkelweizen
+Scotch Ale
+Irish Red Ale
+American Red Ale
+Belgian Blonde
+New England IPA
+Lager
+Winter Ale
+English Pale Ale
+Pale Lager
+Dunkelweizen
+English Brown Ale
+India Pale Lager
+Amber Lager
+German Pilsner
+Saison Ale
+American IPA
+Irish Red Ale
+Irish Red Ale
+International Pale Ale
+Irish Dry Stout
+German Pilsner
+Amber Lager
+English Pale Ale
+English Mild Ale
+English Bitter
+International Pale Ale
+Saison Ale
+Schwartzbier
+Irish Red Ale
+American IPA
+Irish Red Ale
+American Pale Ale
+English Strong Ale",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,1,1,2023,2013-1-1,2023-1-1,,,1,,,,No,,,,28,,88,10.01,,,Pub License,Yes,,,,,,0,Burgh Quay,-6.258009,53.346971,53.34697163,
+St. Mel's Brewing Company,stmels,https://irishcraftbrewing.com/pics/logos/stmelsLogo.jpeg,3.45,5068,584,Defunct,Templemichael,Longford,01/05/2014,01/01/2023,,http://www.stmelsbrewing.com/,,33,1.227753653,5.41875,"American Pale Ale
+English Brown Ale
+Helles Lager
+American IPA
+Bock
+Irish Dry Stout
+American IPA
+American IPA
+Black Cascadian Ale
+Witbier
+American Pale Ale
+International Pale Ale
+American IPA
+Pale Lager
+Stout Other
+Schwartzbier
+New England IPA
+Irish Dry Stout
+Amber Lager
+Irish Dry Stout
+American Pale Ale
+American Light Lager
+Euro Pale Lager
+New England IPA
+Belgian Dubbel
+Double IPA
+Imperial Stout
+American IPA
+Farmhouse Ale
+Brown Ale
+Belgian Blonde
+International Pale Ale
+India Pale Lager",1,Yes,,,,Barry & Fitzwilliam,ROI,,,,,,,,,,,,,Yes,,,,5,1,1,1,2023,2014-5-1,2023-1-1,,1,,,,,No,,,,24,,136,8.68,,,No,,,,,,,0,Templemichael,-7.781762,53.734145,53.73414578,
+Clonakilty Brewing Company,clonakilty,https://irishcraftbrewing.com/pics/logos/clonakiltyLogo.jpeg,3.53,1649,233,Defunct,Clonakilty,Cork,01/01/2016,02/02/2023,,https://www.facebook.com/Clonakiltybrew/,,18,1.214289916,5.6375,"American Pale Ale
+Porter
+Blonde Ale
+Sour Ale
+American Pale Ale
+American Pale Ale
+Imperial Stout
+Irish Dry Stout
+Irish Dry Stout
+Irish Red Ale
+Porter
+Irish Red Ale
+American Pale Ale
+Scotch Ale
+Irish Red Ale
+Wheat Beer
+Kolsch Lager
+Smoked Beer",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,2,2,2023,2016-1-1,2023-2-2,1,,,,,,No,,,,11,,162,7.09,,,,,,,,,,0,Clonakilty,-8.9055104,51.6203379,51.62033799,
+Farmageddon Brewing Co-op,farmageddon,https://irishcraftbrewing.com/pics/logos/farmageddonLogo.jpeg,3.56,11932,1269,Defunct,"25 Ballykeigle Road, Comber, Newtownards, United Kingdom, BT23 5SD",Down,28/11/2013,21/04/2023,,https://farmageddonbrewery.wordpress.com,,76,1.350544768,5.685333333,"India Pale Ale
+American Pale Ale
+Porter
+American IPA
+California Common Ale
+White IPA
+International Pale Ale
+American IPA
+Imperial India Pale Ale
+Rye Pale Ale
+New England IPA
+American Pale Ale
+New England IPA
+English Pale Ale
+American IPA
+American IPA
+International Pale Ale
+Black Cascadian Ale
+American IPA
+American IPA
+International Pale Ale
+American Pale Ale
+White IPA
+American IPA
+American IPA
+Imperial India Pale Ale
+Baltic Porter
+International Pale Ale
+English Pale Ale
+American Pale Ale
+English Porter
+American Pale Ale
+International Pale Ale
+Imperial Porter
+Barleywine
+English Barleywine
+Golden Ale
+New England IPA
+New England IPA
+New England IPA
+Session IPA
+International IPA
+Golden Ale
+American IPA
+American IPA
+International IPA
+International IPA
+Blonde Ale
+International IPA
+India Session Ale
+Coffee Porter
+New England IPA
+English India Pale Ale
+Stout Other
+English Stout
+International IPA
+Milkshake IPA
+American IPA
+Session IPA
+Farmhouse Ale
+New England IPA
+Porter
+English Pale Ale
+English India Pale Ale
+Wheat Beer
+International IPA
+Belgian IPA
+American IPA
+English Pale Ale
+International Pale Ale
+New England IPA
+Rye IPA
+American IPA
+American Pale Ale
+English Pale Ale
+American IPA",1,,,,,,UK,,,,,,,,,,,,,,,,@FarmageddonBeer,11,28,21,4,2023,2013-11-28,2023-4-21,,,,,,Yes,No,,,,32,,65,9.4,,,,,,,,,,1,"25 Ballykeigle Road, Comber, Newtownards, United Kingdom, BT23 5SD",-5.753323,54.504585,54.50458558,
+12 Acres Brewing Company,12acres,https://irishcraftbrewing.com/pics/logos/12acresLogo.jpeg,3.57,7472,1160,Microbrewery,Killeshin,Laois,01/01/2015,,,https://12acresbrewing.ie/,,14,1.093462089,5.021428571,"India Pale Ale
+Kolsch Lager
+Pale Ale
+Pale Ale
+Porter
+American Brown Ale
+German Pilsner
+American IPA
+Rye IPA
+New England IPA
+India Pale Lager
+India Session Ale
+Dark Lager
+New England DIPA",1,Yes,,,,Premier Beers,ROI,,,,720,,,,,,,,,No,The 12 Acres field on our farm is where we have been growing malting barley for the brewing industry for generations. Now we are craft brewing our own beer and we’ve named it after one of the fields where the barley is grown.,,@12AcresBrewing,1,1,,,,2015-1-1,2025-01-01,1,,,,,Yes,Yes,,Yes,,14,,0,6.44,,,No,,,,,,,1,Killeshin,-6.9980481,52.848081,52.8480817,
+5 Lamps Brewery,5lamps,https://irishcraftbrewing.com/pics/logos/5lampsLogo.jpeg,3.33,30270,3203,Microbrewery,Liberties,Dublin,01/01/2012,,,http://the5lampsbrewery.com,,44,1.527323452,5.415789474,"Lager
+Pale Ale
+Amber Ale
+Porter
+Irish Dry Stout
+American Red Ale
+Red Ale
+Steam Ale
+Black Cascadian Ale
+Porter
+Porter
+American Brown Ale
+Irish Red Ale
+Dunkel Lager
+Imperial Double Pale Ale
+American Red Ale
+English India Pale Ale
+Irish Dry Stout
+Irish Red Ale
+Bock
+Witbier
+International Pale Ale
+Irish Dry Stout
+American Pale Ale
+International Pale Ale
+Double IPA
+Black Cascadian Ale
+Porter
+English India Pale Ale
+Black Cascadian Ale
+Pilsner
+Blonde Ale
+Hefeweizen
+Pilsner
+Barleywine
+English Pale Ale
+American Light Lager
+Irish Red Ale
+American Pale Ale
+Red Ale
+American Pale Ale
+Red IPA
+International Pale Ale
+American Pale Ale",1,,,,,,ROI,,,,,,,,,,,,,Yes,"Do you know the five lamps…  In case you’re not a Dub, or weren’t in school that day, this is not a question. Well, it’s not a question you want asked of you, and certainly not a question you want to answer.
+
+You see there is no answer or comeback that won’t land you in the same place. Whether you answer yes or no, the scathing instruction will be the same – “go hang your bollocks off them.” It’s a, sort of, polite way of telling someone ‘where to go’, especially if you don’t want to ever see them again.
+
+Sadly, for banter’s sake, (but luckily for those in the know), a lot of Dubs don’t know the age old question of the Five Lamps anymore and have taken to directly telling people ‘where to go’.
+
+Although effective in certain situations, we think it lacks the sucker punch, kick in the nuts of a proper old Dublin insult that’ll shut you up – Do you know the Five Lamps! Go hang your bollocks off them!",,,1,1,,,,2012-1-1,2025-01-02,1,,,,,,Yes,,,,27,,2,9.45,,,Pub License,,,,,,,0,Liberties,-6.281883,53.33213,53.33213063,
+9 White Deer Brewery,9whitedeer,https://irishcraftbrewing.com/pics/logos/9whitedeerLogo.jpeg,3.51,10233,1212,Microbrewery,Ballyvourney,Cork,01/01/2013,,,https://www.9whitedeer.ie,,29,2.027228446,4.94137931,"American Pale Ale
+Irish Red Ale
+Pale Ale
+Kolsch Lager
+Irish Dry Stout
+Black India Ale
+Gluten Free Red Ale
+Gluten Free Stout
+Gluten Free India Pale Ale
+Gluten Free Pale Ale
+Gluten Free Kolsch Lager
+Pilsner
+Imperial Stout
+Irish Dry Stout
+Irish Red Ale
+American Pale Ale
+Kolsch Lager
+Irish Red Ale
+New England IPA
+Belgian Dubbel
+Saison Ale
+International Pale Ale
+Milk Stout
+Stout Other
+Kombucha
+Pastry Stout
+Stout Other
+Irish Dry Stout
+Pilsner",1,,,,,"Classic Drinks, CBG Wholesale",ROI,9,,,,,,,,,,,,Yes,"The name comes from a 6th Century fable in which one of Ireland’s most famous saints St Gobnait was told by an angel that she would set up an Abbey and a church on a site where she would come across 9 White Deer. That site is just one kilometer away from the 9 White Deer brewery, which now employs eight people, in Ballyvourney, Co. Cork.",,,1,1,,,,2013-1-1,2025-01-03,,1,,,,,Yes,,,,21,,4,8.44,,,Pub LIcense,Yes,,,,,,0,Ballyvourney,-9.146330083,51.93641071,51.93641071,
+Ards,ards,https://irishcraftbrewing.com/pics/logos/ardsLogo.jpeg,3.49,1711,164,Microbrewery,34B Carrowdore Road Greyabbey Newtownards,Antrim,01/01/2011,,,https://www.facebook.com/pg/ArdsBrewing/about/?ref=page_internal,,74,1.380103986,5.219444444,"Coffee Stout
+Golden Ale
+American Pale Ale
+Golden Ale
+English Pale Ale
+Australian Pale Ale
+Dark Ale
+India Pale Ale
+English Pale Ale
+Pale Ale
+American Red Ale
+Pale Ale
+Dark Rye Ale
+Stout Other
+American Pale Ale
+English Pale Ale
+Pale Ale
+Stout Other
+International Pale Ale
+American Pale Ale
+International Pale Ale
+International Pale Ale
+American Pale Ale
+Coffee Stout
+English Bitter
+English Bitter
+English India Pale Ale
+American Pale Ale
+International Pale Ale
+International Pale Ale
+New Zealand Pale Ale
+Winter Ale
+English Bitter
+International Pale Ale
+English India Pale Ale
+English Pale Ale
+Winter Ale
+International IPA
+English Bitter
+International Pale Ale
+English Pale Ale
+Rye Beer
+English Pale Ale
+Imperial Stout
+Double IPA
+Lager
+American IPA
+New England DIPA
+Imperial Stout
+International Pale Ale
+Imperial Stout
+International Pale Ale
+Pilsner
+Irish Dry Stout
+Double IPA
+American Pale Ale
+International Pale Ale
+Imperial Stout
+Stout Other
+International IPA
+English Pale Ale
+Irish Dry Stout
+English Pale Ale
+English Pale Ale
+Imperial Stout
+New Zealand Pale Ale
+Golden Ale
+English Pale Ale
+Double IPA
+Imperial Stout
+Dark Mild
+Pale Ale
+American Amber Ale
+American Amber Ale",1,,,,,Direct,UK,,,,,,,,,,,,,,,,,1,1,,,,2011-1-1,2025-01-04,1,,,,,,Yes,,,,28,,6,10.45,,,,,,,,,,0,34B Carrowdore Road Greyabbey Newtownards,-5.566846,54.552214,54.55221456,
+Armagh Brewing Company,armagh,https://irishcraftbrewing.com/pics/logos/armaghLogo.jpeg,3.69,70,38,Microbrewery,"28 Drumgaw Rd, Armagh BT60 2AD",Armagh,01/08/2019,,,https://www.facebook.com/ArdsBrewing/,,4,0.778888096,4.7,"International Pale Ale
+Pale Lager
+Session IPA
+Pale Lager",1,,,,,,UK,,,,,,,,,,,,,,,,,8,1,,,,2019-8-1,2025-01-05,,,,,,,Yes,,,,3,,,1.86,,,,,,,,,,0,"28 Drumgaw Rd, Armagh BT60 2AD",-6.628241,54.321832,54.32183266,
+Ballykilcavan Brewing Company,ballykilcavan,https://irishcraftbrewing.com/pics/logos/ballykilcavanLogo.jpeg,3.57,5543,861,Microbrewery,Stradbally,Laois,01/01/2015,,,http://www.ballykilcavanbrewing.com,,43,1.222364682,5.342325581,"Pale Ale
+American IPA
+Irish Red Ale
+International Pale Ale
+Winter Warmer
+English Pale Ale
+Irish Dry Stout
+Czech Pilsner
+American Pale Ale
+Belgian Dubbel
+American IPA
+Milkshake IPA
+Wheat Beer
+Coffee Porter
+Pale Lager
+Irish Red Ale
+English Pale Ale
+American Brown Ale
+Porter
+International Pale Ale
+Stout Other
+Saison Ale
+Wheat Beer
+Imperial Stout
+New England IPA
+Stout Other
+International Pale Ale
+Pastry Stout
+International Pale Ale
+Munich Dunkel Lager
+Session IPA
+Kellerbier
+International Pale Ale
+Schwartzbier
+Farmhouse Ale
+Irish Red Ale
+Export Stout
+International Pale Ale
+Wheat Beer
+Imperial Stout
+American Brown Ale
+American IPA
+American Pale Ale",1,Yes,,,,,ROI,,,,,,,,,,,,,,Ballykillcavan is the name of the farm.,,@Ballykilcavan,1,1,,,,2015-1-1,2025-01-06,1,,,,,Yes,Yes,,Yes,,28,,8,6.44,Yes,,,Yes,,,,,,2,Stradbally,-7.1494716,53.0157983,53.01579837,
+Baronscourt,baronscourt,https://irishcraftbrewing.com/pics/logos/baronscourtLogo.jpeg,3.37,155,45,Microbrewery,"38 Baronscourt Road, Newtownstewart",Tyrone,01/01/2018,,,https://baronscourtbrewery.com/,,8,0.913392421,4.9,"Irish Dry Stout
+Irish Red Ale
+Witbier
+American IPA
+Golden Ale
+Pale Lager
+Oatmeal Stout
+Session IPA",1,,,,,Direct,UK,,,,,,,,,,,,,,,,@baronscourtbrew,1,1,,,,2018-1-1,2025-01-07,1,,,,,Yes,Yes,,,,9,,184,3.44,,,,,,,,,,0,"38 Baronscourt Road, Newtownstewart",-7.413039,54.711396,54.71139674,
+Beaky Dargus,beakydargus,https://irishcraftbrewing.com/pics/logos/beakydargusLogo.jpeg,3.78,112,22,Microbrewery,Ballyhook Hill,Wicklow,01/04/2016,,,https://www.facebook.com/beakydargus/,,9,2.190573238,7.111111111,"Irish Dry Stout
+Scotch Ale
+Milk Stout
+English Strong Ale
+Pale Ale
+Witbier
+International IPA
+Farmhouse Ale
+Imperial Stout",1,,,,,,ROI,3,,,,,,,,,,,,,"THE BEAKY DARGUS
+Rostro Duo-Curis[Latin]; Dziób Nielotny [Polish]
+Was a flightless, semi-aquatic, biped monotreme recorded in various parts of the Northern Hemisphere, such as Poland, Ireland and the Orkney Islands.
+Measuring 1-2 metres in height, it was characterized by a round body, strong legs and a neck with a small head which had a prominent, down-curved beak. It inhabited rocky, woodland areas although Polish archives suggest it was semi-domesticated by landowners who relished its ability to mimic the human voice and perform in the circus.
+The last recorded sighting of the Beaky Dargus was in West Wicklow, Ireland, in 1547.",,,4,1,,,,2016-4-1,2025-01-08,,1,,,,,Yes,,,,9,,12,5.19,,,,,,,,,,0,Ballyhook Hill,-6.699545,52.99384,52.99384067,
+Beer Hut Brewing Company,beerhut,https://irishcraftbrewing.com/pics/logos/beerhutLogo.jpeg,3.73,18993,4278,Microbrewery,"6 Riverside Park, Kilkeel
+",Down,01/01/2017,,,beerhutbrewing.co.uk,,103,2.033146269,6.508823529,"India Pale Ale
+Stout Other
+India Pale Ale
+American IPA
+American Pale Ale
+Imperial Stout
+English India Pale Ale
+Pale Lager
+Double IPA
+Session IPA
+Stout Other
+Double IPA
+American IPA
+American IPA
+International Pale Ale
+Stout Other
+Double IPA
+Milkshake IPA
+American IPA
+Table Beer
+Fruit Beer
+Double Milkshake IPA
+New England IPA
+American IPA
+Pastry Stout
+American IPA
+Fruited Sour
+Fruited Sour
+New England Pale Ale
+New England IPA
+Milkshake IPA
+Milkshake IPA
+American IPA
+New England Pale Ale
+India Session Ale
+Kolsch Lager
+Imperial Stout
+American IPA
+Farmhouse Ale
+New England IPA
+Double IPA
+New England IPA
+India Session Ale
+New England IPA
+New England IPA
+Rye IPA
+Sour Ale
+India Session Ale
+Fruited Sour
+American IPA
+Double IPA
+Fruited Sour
+India Session Ale
+Imperial Stout
+New England IPA
+Czech Pilsner
+Czech Pilsner
+Imperial Stout
+Double IPA
+Imperial Porter
+Triple IPA
+Session IPA
+Fruited Sour
+Imperial Pastry Stout
+Brett Beer
+Session IPA
+Fruited Sour
+Double Milkshake IPA
+Session IPA
+Fruited Sour
+Fruited Sour
+American IPA
+International Pale Ale
+Imperial Pastry Stout
+Double Milkshake IPA
+Double IPA
+Gose
+American Pale Ale
+Imperial Pastry Stout
+Session IPA
+English India Pale Ale
+Imperial Stout
+Double IPA
+New England IPA
+Brett IPA
+New England IPA
+Fruit Beer
+Fruited Sour
+International IPA
+American IPA
+American IPA
+Double IPA
+Farmhouse Ale
+Imperial Stout
+Fruit Beer
+India Pale Ale
+Coffee Stout
+Double IPA
+American IPA
+Imperial Stout
+New England IPA
+Session IPA
+Fruited Sour",1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,,,,2017-1-1,2025-01-09,,,,,,,Yes,,,,33,,183,4.44,,,,,,,,,,2,"6 Riverside Park, Kilkeel
+",-5.993194,54.069565,54.0695656,
+Beoir Chorca Duibhne,westkerry,https://irishcraftbrewing.com/pics/logos/westkerryLogo.jpeg,3.74,7504,558,Microbrewery,Ballyferriter,Kerry,01/01/2008,,,http://www.westkerrybrewery.ie/,,27,1.059121552,5.642307692,"Porter
+Old Ale
+Golden Ale
+Irish Red Ale
+English Pale Ale
+Old Ale
+Golden Ale
+Porter
+Winter Ale
+Black India Ale
+Dark Ale
+Mild Ale
+India Pale Ale
+Porter
+Winter Ale
+Dark Ale
+Golden Ale
+Dark Ale
+Irish Red Ale
+Porter
+International IPA
+Dark Ale
+Dark Ale
+Gruit
+American IPA
+Porter
+Golden Ale",1,Yes,,,,Grand Cru,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2008-1-1,2025-01-10,1,,,,,,Yes,,,,14,,15,13.45,,,Pub License,Yes,,,,,,0,Ballyferriter,-10.40599,52.16615,52.16615104,
+Bibulous Bastard Brewing Company,bibulousbastard,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Microbrewery,"Massarene Gardens, Antrim",Antrim,01/07/2020,,,,,,,,,1,,,,,,UK,,,,,,,,,,,,,,,,@thebeardedbeast5,7,1,,,,2020-7-1,2025-01-11,,,,,,,Yes,,,,,,698,0.94,,,,,,,,,,,"Massarene Gardens, Antrim",-6.223469,54.723416,54.72341662,
+Black Donkey Brewing,blackdonkey,https://irishcraftbrewing.com/pics/logos/blackdonkeyLogo.jpeg,3.6,6416,923,Microbrewery,Ballinlough,Roscommon,01/07/2014,,,http://blackdonkeybeer.com/,,25,1.473374811,5.62,"Saison Ale
+Red Ale
+American Pale Ale
+Belgian Pale Ale
+India Pale Ale
+Lager
+Saison Ale
+Saison Ale
+American IPA
+Biere de Garde
+American Amber Ale
+Rye Beer
+American IPA
+Saison Ale
+International Pale Ale
+Saison Ale
+Saison Ale
+Belgian Pale Ale
+Rye Beer
+Euro Lager
+International IPA
+American Amber Ale
+Farmhouse Ale
+Farmhouse Ale
+Farmhouse Ale",1,Yes,,,,,ROI,,,,,,,,,,,,,No,,,,7,1,,,,2014-7-1,2025-01-12,,,,,,,Yes,,,,15,,17,6.95,,,No,,,,,,,1,Ballinlough,-8.6335579,53.7418858,53.74188589,
+Black's of Kinsale,blacks,https://irishcraftbrewing.com/pics/logos/blacksLogo.jpeg,3.55,46502,5510,Microbrewery,Knocknabohilly,Cork,01/01/2013,,,https://www.blacksbrewery.com/,,96,1.743608629,5.89375,"American Pale Ale
+Black India Ale
+White IPA
+India Pale Ale
+Imperial Double Pale Ale
+Imperial Stout
+International Pale Ale
+Session IPA
+Session IPA
+American IPA
+Irish Dry Stout
+Gluten Free Kolsch Lager
+Red IPA
+Rye IPA
+Imperial Double Pale Ale
+Imperial Double Pale Ale
+American Barleywine
+International Pale Ale
+Schwartzbier
+American IPA
+Saison Ale
+Sour Ale
+India Pale Lager
+Sour Ale
+English Brown Ale
+Sour Ale
+Imperial Double Pale Ale
+English Brown Ale
+Imperial Stout
+Imperial India Pale Ale
+Imperial Double Stout
+American Pale Wheat Ale
+Fruit Beer
+American Pale Wheat Ale
+Rye IPA
+American Pale Ale
+Saison Ale
+Imperial Double Pale Ale
+American Pale Ale
+American Brown Ale
+Stout Other
+Belgian IPA
+Saison Ale
+Fruit Beer
+Porter
+Imperial Russian Stout
+American IPA
+Stout Other
+Saison Ale
+Fruit Beer
+American IPA
+Stout Other
+Stout Other
+Saison Ale
+Saison Ale
+India Session Ale
+American IPA
+New England IPA
+International IPA
+Sour Ale
+Red IPA
+American IPA
+American IPA
+Euro Strong Lager
+American IPA
+Brut IPA
+Session IPA
+Porter
+American IPA
+International IPA
+Stout Other
+International IPA
+American IPA
+American IPA
+Triple IPA
+American IPA
+Pale Lager
+Pastry Stout
+American IPA
+India Session Ale
+India Session Ale
+American IPA
+New England IPA
+Radler
+New England IPA
+American IPA
+Imperial Stout
+New England IPA
+Double IPA
+Session IPA
+International IPA
+American IPA
+American IPA
+American IPA
+India Pale Ale
+American IPA",1,Yes,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2013-1-1,2025-01-13,1,,,,,,Yes,,,,39,,19,8.44,,,Yes,Yes,,,,,,0,Knocknabohilly,-8.515853,51.711007,51.71100785,
+Bloodline Brewing Company,bloodline,https://irishcraftbrewing.com/pics/logos/bloodlineLogo.jpeg,3.62,37,19,Microbrewery,"17 Hilton Court, Portglenone, Ballymena, Antrim, Northern Ireland, BT44 8HJ",Antrim,01/07/2019,,,https://bloodlinebrewing.co.uk,,6,0.588784058,4.366666667,"Irish Dry Stout
+American Light Lager
+New England IPA
+American Pale Ale
+Irish Red Ale
+Session IPA",1,,,,,,UK,,,,,,,,,,,,,,,,,7,1,,,,2019-7-1,2025-01-14,,,,,,,Yes,,,,6,,,1.95,,,,,,,,,,0,"17 Hilton Court, Portglenone, Ballymena, Antrim, Northern Ireland, BT44 8HJ",-6.464169,54.876514,54.87651465,
+Boffin Brewing,boffin,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Microbrewery,Inisboffin,Galway,01/01/2022,,,https://untappd.com/w/bofin-brewing/522218,,,,,,1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2022-1-1,2025-01-15,,,,,,,Yes,,,,,,,0.26,,,,,,,,,,,Inisboffin,-10.2086,53.614274,53.6142741,
+Boundary Brewing Coop,boundary,https://irishcraftbrewing.com/pics/logos/boundaryLogo.jpeg,3.72,160330,24896,Microbrewery,"Portview Trade Centre, Belfast",Antrim,01/01/2015,,,https://boundarybrewing.coop,,296,2.147216863,6.130138408,"American Pale Ale
+Export Stout
+India Session Ale
+India Session Ale
+American IPA
+Saison Ale
+American IPA
+Saison Ale
+Porter
+Sour Ale
+American IPA
+Porter
+Herbed Beer
+Imperial Stout
+Saison Ale
+Imperial Stout
+Saison Ale
+Imperial India Pale Ale
+Berliner Weisse
+Imperial India Pale Ale
+Saison Ale
+Sour Ale
+Saison Ale
+Export Stout
+Zwickelbier
+American Pale Ale
+Saison Ale
+Black India Ale
+Imperial Stout
+Imperial Stout
+Imperial India Pale Ale
+Imperial India Pale Ale
+American IPA
+Czech Pilsner
+American IPA
+American IPA
+Irish Dry Stout
+Saison Ale
+Saison Ale
+Sour Ale
+Imperial India Pale Ale
+Saison Ale
+Sour Ale
+Saison Ale
+Imperial Stout
+Berliner Weisse
+Berliner Weisse
+American IPA
+India Session Ale
+Berliner Weisse
+Imperial Double Pale Ale
+Berliner Weisse
+Berliner Weisse
+Berliner Weisse
+Berliner Weisse
+Berliner Weisse
+Berliner Weisse
+Belgian Strong Golden Ale
+Belgian Pale Ale
+English India Pale Ale
+Table Beer
+Gose
+Berliner Weisse
+Sour Ale
+Double IPA
+Belgian Dubbel
+Saison Ale
+Saison Ale
+Saison Ale
+Saison Ale
+Saison Ale
+Saison Ale
+Belgian Dubbel
+Saison Ale
+Saison Ale
+Porter
+Porter
+New England IPA
+Imperial Stout
+Imperial Stout
+Irish Dry Stout
+Imperial Stout
+Saison Ale
+Saison Ale
+American IPA
+Saison Ale
+Saison Ale
+Saison Ale
+Stout Other
+American Stout
+Imperial Stout
+Porter
+International IPA
+International Pale Ale
+Imperial India Pale Ale
+White IPA
+International Pale Ale
+International IPA
+International IPA
+American IPA
+American IPA
+American IPA
+International IPA
+International IPA
+American IPA
+India Session Ale
+Black Cascadian Ale
+India Session Ale
+International IPA
+Sour Ale
+International IPA
+American IPA
+American IPA
+International IPA
+American IPA
+Saison Ale
+Festbier
+Belgian Quad
+Session IPA
+Stout Other
+American Pale Ale
+Imperial Stout
+Vienna Lager
+American IPA
+American IPA
+Berliner Weisse
+Berliner Weisse
+American IPA
+Witbier
+Saison Ale
+Saison Ale
+Saison Ale
+Saison Ale
+American IPA
+Session IPA
+American IPA
+Rye IPA
+Doppelbock
+Double IPA
+Baltic Porter
+Imperial Oatmeal Stout
+Berliner Weisse
+American IPA
+German Pilsner
+India Session Ale
+Saison Ale
+Double IPA
+India Session Ale
+German Pilsner
+Triple IPA
+Imperial Stout
+Double IPA
+New England DIPA
+India Session Ale
+American IPA
+India Session Ale
+India Session Ale
+Kolsch Lager
+New England Pale Ale
+Double IPA
+International Pale Ale
+Farmhouse Ale
+American Pale Ale
+Double IPA
+Double Milkshake IPA
+Double IPA
+American IPA
+Double IPA
+New England IPA
+American IPA
+Imperial Double Stout
+Black Cascadian Ale
+American IPA
+Farmhouse Ale
+Farmhouse Ale
+Farmhouse Ale
+Sour Ale
+Table Beer
+International IPA
+Helles Lager
+Double IPA
+American IPA
+Imperial Double Stout
+New England IPA
+Table Beer
+American Pale Ale
+American IPA
+Triple IPA
+Double IPA
+Rye Beer
+American IPA
+American IPA
+American IPA
+Double IPA
+Double IPA
+International Pale Ale
+Schwartzbier
+Porter
+American IPA
+American Pale Ale
+International Pale Ale
+New England Pale Ale
+Berliner Weisse
+American IPA
+Double IPA
+Berliner Weisse
+India Session Ale
+Imperial Stout
+American Pale Ale
+Helles Lager
+Double IPA
+International IPA
+Imperial Stout
+Double IPA
+Berliner Weisse
+Double IPA
+Imperial Stout
+American IPA
+American Pale Ale
+American IPA
+Triple IPA
+Kolsch Lager
+Imperial Stout
+Imperial Stout
+Imperial Stout
+English Barleywine
+American Pale Ale
+Farmhouse Ale
+American Lager
+Double IPA
+International IPA
+New England Pale Ale
+Double IPA
+Export Stout
+Helles Lager
+Belgian Pale Ale
+Oatmeal Stout
+English Pale Ale
+Triple IPA
+American Pale Ale
+Vienna Lager
+International IPA
+Double IPA
+English Pale Ale
+Pilsner
+Berliner Weisse
+International IPA
+American Pale Ale
+English Pale Ale
+Double IPA
+New England Pale Ale
+Pilsner
+Pilsner
+English Pale Ale
+American Pale Ale
+Wheat Beer
+Double IPA
+Pilsner
+Triple IPA
+English India Pale Ale
+American Pale Ale
+Pilsner
+American IPA
+Double Brown Ale
+International Pale Ale
+Pilsner
+American IPA
+Double IPA
+Imperial Black Ale
+Double IPA
+American IPA
+Sour IPA
+Imperial Stout
+English Barleywine
+German Pilsner
+Table Beer
+Double IPA
+American IPA
+American Pale Ale
+Imperial Stout
+Milkshake IPA
+Imperial Stout
+Belgian Quad
+International IPA
+Imperial Stout
+Double IPA
+International IPA
+American IPA
+New England IPA
+New England IPA
+New England IPA
+Session IPA
+Pale Lager
+New England Pale Ale
+Pale Lager
+New England IPA",1,,,,,Nelson Sauvin,UK,,,,,,,,,,,,,,,,,1,1,,,,2015-1-1,2025-01-16,,,,,,,Yes,,,,62,,24,6.44,,,,,,,,,,19,"Portview Trade Centre, Belfast",-5.894464275,54.59855735,54.59855735,
+Brehon Brewhouse,brehon,https://irishcraftbrewing.com/pics/logos/brehonLogo.jpeg,3.53,44031,6115,Microbrewery,Dunelty,Monaghan,01/04/2014,,,https://brehonbrewhouse.ie/,,43,2.045081613,5.904651163,"India Pale Ale
+Blonde Ale
+Irish Red Ale
+Oatmeal Stout
+Imperial Porter
+Oatmeal Stout
+English Pale Ale
+Irish Red Ale
+India Session Ale
+Porter
+Imperial Stout
+Porter
+American Pale Ale
+Blonde Ale
+Blonde Ale
+Imperial Russian Stout
+American Pale Ale
+English Pale Ale
+Milk Stout
+Farmhouse Ale
+Barleywine
+English India Pale Ale
+International Pale Ale
+Export Stout
+Irish Dry Stout
+Malt Beer
+Porter
+Oatmeal Stout
+Irish Red Ale
+American IPA
+Blonde Ale
+American Pale Ale
+Blonde Ale
+Irish Red Ale
+International IPA
+Oatmeal Stout
+Double Porter
+Session IPA
+Imperial Stout
+Porter
+Fruited Sour
+Double IPA
+Imperial Russian Stout",1,,,,,Barry & Fitzwilliam,ROI,3,3,,,,,,,,,,,Yes,Brehon comes from Brehon Law in ancient times when every village had a brewery - authenticity/craft - no paddywhackery,,@BrehonBlonde,4,1,,,,2014-4-1,2025-01-17,,1,,,,Yes,Yes,,Yes,Monaghan Enterprise Grant,26,,26,7.2,,,With Tour,Yes,,,,,,0,Dunelty,-6.636605,53.980268,53.98026866,
+Brew Brothers,brewbrothers,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.65,10,6,Microbrewery,"Craig Carraig, Ballytegan Rd, Gorey, Wexford Y25T8N8",Wexford,01/04/2020,,,http://brewbrothers.ie,,4,0.711805217,5.4,"Irish Dry Stout
+International Pale Ale
+Irish Red Ale
+Dark Ale",1,,,,,Four Corners,ROI,,,,,,,,,,,,,,,,,4,1,,,,2020-4-1,2025-01-18,,,,,,,Yes,,,,4,,,1.78,,,,,,,,,,0,"Craig Carraig, Ballytegan Rd, Gorey, Wexford Y25T8N8",-6.286829,52.688616,52.68861663,
+Bridewell Brewery,bridewell,https://irishcraftbrewing.com/pics/logos/bridewellLogo.jpeg,3.49,1588,292,Microbrewery,Clifden,Galway,01/01/2016,,,https://www.bridewellbrewery.ie/,,6,0.408656335,4.75,"Blonde Ale
+Irish Red Ale
+Dark Ale
+Kolsch Lager
+Golden Ale
+American Brown Ale",1,Yes,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2016-1-1,2025-01-19,1,,,,,,Yes,,,,6,,29,5.44,,,,,,,,,,0,Clifden,-10.0202388,53.4891345,53.48913451,
+Bullhouse Brewing Company,bullhouse,https://irishcraftbrewing.com/pics/logos/bullhouseLogo.jpeg,3.66,28553,5249,Microbrewery,"23 Balmoral Road, Belfast Co. Antrim",Down,01/01/2016,,,https://bullhousebrewco.com/,,94,1.469436714,5.502021277,"India Session Ale
+Saison Ale
+Imperial Stout
+Porter
+Porter
+American Pale Ale
+Berliner Weisse
+Porter
+New England IPA
+Biere de Garde
+New England IPA
+Irish Red Ale
+New England IPA
+Porter
+New England IPA
+Pale Lager
+Porter
+Imperial Stout
+Gose
+Porter
+American IPA
+International IPA
+Porter
+New England IPA
+Milkshake IPA
+Double IPA
+Barleywine
+New England IPA
+American Pale Ale
+Porter
+New England IPA
+India Session Ale
+English India Pale Ale
+India Session Ale
+New England Pale Ale
+American Pale Ale
+New England IPA
+Witbier
+International Pale Ale
+Berliner Weisse
+Imperial Double Stout
+India Session Ale
+Sour Ale
+Oatmeal Stout
+Gose
+Bock
+Sour Ale
+New England IPA
+American Pale Ale
+American IPA
+New England IPA
+Fruited Sour
+Fruited Sour
+Milk Stout
+Sour Ale
+Milkshake IPA
+New England IPA
+Pale Lager
+New England Pale Ale
+Irish Dry Stout
+International Pale Ale
+Imperial Stout
+Double IPA
+New England Pale Ale
+New England IPA
+Fruit Beer
+International Pale Ale
+Double IPA
+International Pale Ale
+Fruited Sour
+Fruited Sour
+Fruited Sour
+American Imperial Double Stout
+New England IPA
+New England Pale Ale
+American Pale Ale
+New England IPA
+New England IPA
+Black Cascadian Ale
+Session IPA
+New England IPA
+Table Beer
+English Pale Ale
+Double IPA
+American Pale Ale
+Sour IPA
+Double IPA
+Double IPA
+American Pale Ale
+Double IPA
+New England Pale Ale
+Stout Other
+Irish Dry Stout
+Coffee Stout",1,,075 62702525,,,Nelson Sauvin,UK,,,,,,,,,,,,,Yes,Located in the bull pen on a family farm near Newtownards,,@bullhousebeer,1,1,,,,2016-1-1,2025-01-20,,,,,,Yes,Yes,,,,37,,33,5.44,,,No,,,,,,,1,"23 Balmoral Road, Belfast Co. Antrim",-5.961231671,54.57404385,54.57404385,
+Bulmers Ireland,bulmers,https://irishcraftbrewing.com/pics/logos/bulmersLogo.jpeg,3.24,17726,205,Macrobrewery,Clonmel,Tipperary,01/01/1935,,,https://bulmers.ie,,5,0.408656335,4.32,"Euro Lager
+Irish Red Ale
+English Mild Ale
+Helles Lager
+Pilsner",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,1935-1-1,2025-01-21,,,,,,,Yes,,,,5,,35,86.5,,,,,,,,,,0,Clonmel,-7.6902551,52.3558172,52.35581728,
+Burren Brewery,burren,https://irishcraftbrewing.com/pics/logos/burrenLogo.jpeg,3.68,1527,146,Microbrewery,Lisdoonvarna,Clare,01/01/2011,,,https://www.instagram.com/burren_brewery/?hl=en,,9,1.162325256,3.95,"Irish Dry Stout
+Irish Red Ale
+Lager
+Stout Other 
+Gruit
+Gruit
+Old Ale
+Gruit
+Traditional Ale",1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,,,,2011-1-1,2025-01-22,1,,,,,,Yes,,,,6,,34,10.45,,,Pub License,Yes,,,,,,0,Lisdoonvarna,-9.2897106,53.0301669,53.03016699,
+Canvas Brewery,canvas,https://irishcraftbrewing.com/pics/logos/canvasLogo.jpeg,3.6,916,266,Microbrewery,Fortmoy,Tipperary,01/01/2018,,,https://www.canvasbrewery.com/,,53,1.555070362,5.858490566,"Imperial Red Ale
+Belgian Pale Ale
+India Session Ale
+Witbier
+Imperial Oatmeal Stout
+Imperial Double Pale Ale
+Export Stout
+American Red Ale
+Fruit Beer
+Belgian Quad
+Brown Ale
+Saison Ale
+Golden Ale
+Belgian Strong Golden Ale
+Irish Red Ale
+Red Ale
+Amber Ale
+Smoked Beer
+India Session Ale
+Double IPA
+India Session Ale
+Farmhouse Ale
+Farmhouse Ale
+International Pale Ale
+Vienna Lager
+Farmhouse Ale
+Milk Stout
+Vienna Lager
+International Pale Ale
+Farmhouse Ale
+Flanders Red Ale
+Export Stout
+Smoked Beer
+Brett Beer
+Flanders Red Ale
+Brett Beer
+Red IPA
+Milk Stout
+Sour Ale
+Flanders Red Ale
+Grätzer
+Farmhouse Ale
+Wheat Beer
+Brett Beer
+Ginger Beer
+Blonde Ale
+Red IPA
+International IPA
+Flanders Red Ale
+Red IPA
+Belgian Strong Dark Ale
+Red IPA
+American Pale Ale",1,,,,,,ROI,,,,,,,,,,,,,,Canvas refers to the creation of a blank canvas to allow for creativity and community,,@CanvasBeer,1,1,,,,2018-1-1,2025-01-23,,,,,,Yes,Yes,,,,34,,169,3.44,,,,,,,,,,0,Fortmoy,-8.112704505,53.07000807,53.07000807,
+Carlingford Brewing Company,carlingford,https://irishcraftbrewing.com/pics/logos/carlingfordLogo.jpeg,3.45,865,134,Microbrewery,Carlingford,Louth,01/01/2015,,,https://carlingfordbrewing.ie/,,12,1.130131395,4.958333333,"Irish Red Ale
+Belgian Blonde
+Pale Ale
+Milk Stout
+Irish Red Ale
+Brown Ale
+American Pale Ale
+American IPA
+Euro Lager
+Brown Ale
+India Session Ale
+India Session Ale",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2015-1-1,2025-01-24,1,,,,,,Yes,,,,10,,36,6.44,,,Pub License,Yes,,,,,,0,Carlingford,-6.190181,54.0468677,54.04686776,
+Carlow Brewing Company,carlow,https://irishcraftbrewing.com/pics/logos/carlowLogo.jpeg,3.45,368555,14476,Microbrewery,Bagenalstown,Carlow,01/01/1996,,,https://www.carlowbrewing.com/,,102,1.368157625,5.242424242,"Irish Dry Stout
+Irish Red Ale
+India Pale Ale
+Export Stout
+Imperial India Pale Ale
+American Wheat Ale
+White IPA
+Red IPA
+Irish Red Ale
+Helles Lager
+Irish Dry Stout
+Imperial Stout
+India Session Ale
+Irish Dry Stout
+American IPA
+Winter Ale
+American IPA
+American IPA
+American IPA
+Export Stout
+American IPA
+Oatmeal Stout
+Irish Dry Stout
+Milk Stout
+English Pale Ale
+Blonde Ale
+Lager
+Irish Red Ale
+American Red Ale
+Golden Ale
+Golden Ale
+Extra Stout
+Winter Ale
+American IPA
+Saison Ale
+International Pale Ale
+Dunkelweizen
+Blonde Ale
+Irish Dry Stout
+American Red Ale
+Witbier
+Irish Dry Stout
+Dark Ale
+Irish Red Ale
+Hefeweizen
+Winter Ale
+Belgian Dubbel
+Lager
+American IPA
+American IPA
+Irish Dry Stout
+Fruit Beer
+Irish Red Ale
+Extra Stout
+Amber Lager
+Stout Other
+Pale Lager
+English India Pale Ale
+American IPA
+Irish Dry Stout
+Rye Beer
+Lambic Kriek
+Blonde Ale
+India Pale Ale
+Saison Ale
+Porter
+Sour Ale
+English India Pale Ale
+International Pale Ale
+American Pale Ale
+English Bitter
+Irish Red Ale
+Irish Red Ale
+Irish Dry Stout
+Witbier
+Red IPA
+International IPA
+Pale Lager
+American IPA
+India Session Ale
+Irish Dry Stout
+International IPA
+Double IPA
+New England IPA
+Irish Dry Stout
+American IPA
+Double IPA
+New England IPA
+American IPA
+International Pale Ale
+Session IPA
+Extra Stout
+Pale Lager
+Winter Ale
+Wheat Beer
+New England IPA
+American IPA
+American Pale Ale
+Irish Dry Stout
+Helles Lager
+Session IPA
+White IPA",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,1996-1-1,2025-01-25,1,,,,,,Yes,,,,44,,37,25.46,,,No,Yes,,,,,,1,Bagenalstown,-6.9558676,52.7031106,52.70311067,
+Clandonagh Craft Beers,clandonagh,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Microbrewery,Rathdowney,Laois,01/01/2022,,,,,,,,,1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2022-1-1,2025-01-26,,,,,,,Yes,,,,,,,0.26,,,,,,,,,,,Rathdowney,-7.589046,52.856444,52.85644476,
+Connemara Brewing Company,connemara,https://irishcraftbrewing.com/pics/logos/connemaraLogo.jpeg,3.52,1683,1169,Microbrewery,Connemara,Galway,01/01/2020,,,https://www.connemarabrewery.com/,,4,0.1,4.15,"India Session Ale
+Lager
+Pale Ale
+Dark Lager",1,,,,,,ROI,,,,,,,,,,,,,,,Independent Brewing Company of Ireland,,1,1,,,,2020-1-1,2025-01-27,,,,,,,Yes,,,,4,,696,1.44,,,,,,,,,,0,Connemara,-9.8875419,53.5383782,53.5383783,
+Costello's,costellos,https://irishcraftbrewing.com/pics/logos/costellosLogo.jpeg,3.5,1343,181,Microbrewery,Blanchfieldsisland,Kilkenny,01/01/2014,,,http://www.costellosbrewco.ie,,7,0.942337519,4.8,"Irish Red Ale
+American Pale Ale
+American IPA
+Munich Dunkel Lager
+International Pale Ale
+Porter
+Euro Lager",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2014-1-1,2025-01-28,,,1,,,,Yes,,,,8,,46,7.44,,,,,,,,,,0,Blanchfieldsisland,-7.228969828,52.65442997,52.65442997,
+Cotton Ball Brewing Company,cottonball,https://irishcraftbrewing.com/pics/logos/cottonballLogo.jpeg,3.49,3344,396,Microbrewery,Mayfield,Cork,01/01/2013,,,https://www.cottonball.ie/,,21,0.773673981,5.057142857,"Pale Lager
+American Pale Ale
+Pilsner
+Irish Dry Stout
+India Pale Ale
+Pilsner
+Amber Lager
+American Pale Ale
+Amber Ale
+International Pale Ale
+Fruit Beer
+Amber Lager
+International Pale Ale
+Gluten Free India Pale Ale
+American Light Lager
+Cream Ale
+New England IPA
+Irish Red Ale
+American Light Lager
+Irish Red Ale
+American IPA",1,,,,,Barry & Fitzwilliam,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2013-1-1,2025-01-29,,,,,,,Yes,,,,16,,47,8.44,,,,Yes,,,,,,0,Mayfield,-8.4356118,51.9142651,51.91426518,
+Crew Brewing Company,crew,https://irishcraftbrewing.com/pics/logos/crewLogo.jpeg,3.94,981,681,Microbrewery,35 Thomas Street,Limerick,01/01/2020,,,https://www.crewbrewing.ie,,40,0.734627718,5.18875,"American IPA
+International Pale Ale
+Porter
+Gose
+American IPA
+Rauchbier
+Milk Stout
+International Pale Ale
+American Pale Ale
+American Brown Ale
+American IPA
+Gose
+New Zealand Pale Ale
+American Pale Ale
+New Zealand Pale Ale
+International IPA
+Gose
+Milk Stout
+Berliner Weisse
+Fruited Sour
+American Pale Ale
+Hefeweizen
+American Amber Ale
+American IPA
+American Pale Ale
+American IPA
+Coffee Porter
+New Zealand Pale Ale
+American IPA
+Berliner Weisse
+New England Pale Ale
+Fruited Sour
+Double IPA
+New England IPA
+American Pale Ale
+American IPA
+New England Pale Ale
+New England IPA
+Pilsner
+Sour Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2020-1-1,2025-01-30,,,,,,,Yes,,,,21,,,1.44,,,,,,,,,,0,35 Thomas Street,-8.623697,52.661914,52.66191486,
+Dead Centre Brewing,deadcentre,https://irishcraftbrewing.com/pics/logos/deadcentreLogo.jpeg,3.77,6334,1427,Microbrewery,Athlone,Westmeath,01/01/2017,,,http://deadcentrebrewing.com/,,67,1.889215747,6.041791045,"American IPA
+International Pale Ale
+Session Pale Ale
+American Pale Ale
+New England IPA
+American IPA
+Porter
+Milk Stout
+American Amber Ale
+Double IPA
+Festbier
+Hefeweizen
+Schwartzbier
+Munich Dunkel Lager
+Blonde Ale
+Pilsner
+Cream Ale
+Pale Lager
+Wheat Beer
+Spiced Beer
+Brut IPA
+Dark Ale
+Weizenbock
+New England IPA
+Sweet Stout
+India Pale Lager
+Festbier
+Fruit Beer
+American IPA
+Imperial Russian Stout
+New England IPA
+Blonde Ale
+New England IPA
+New England DIPA
+Pastry Stout
+New England DIPA
+American Pale Ale
+American IPA
+Hard Seltzer
+Double IPA
+Belgian Strong Dark Ale
+Cream Ale
+Session IPA
+English Bitter
+Double IPA
+Oatmeal Stout
+American Light Lager
+Milkshake IPA
+Session IPA
+American Pale Ale
+Radler
+Black Cascadian Ale
+American IPA
+Belgian Tripel
+New England IPA
+Double Brown Ale
+Imperial Stout
+Imperial Stout
+Imperial Stout
+Wheat Beer
+Sour Ale
+Herbed Beer
+Red IPA
+Irish Dry Stout
+American Brown Ale
+Irish Red Ale
+Stout Other",1,Yes,,,,Four Corners,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2017-1-1,2025-01-31,1,,,,,,Yes,,,,48,,50,4.44,,,Restaurant License,,,,,,,1,Athlone,-7.947295,53.431217,53.43121779,
+Deirge Brewery,deirge,https://irishcraftbrewing.com/pics/logos/deirgeLogo.jpeg,3.9,3,38,Microbrewery,"Castlederg, Co Tyrone",Tyrone,02/03/2023,,,https://www.facebook.com/p/Deirge-Brewery-100087254918334/,,,,,,1,,,,,,UK,,,,,,,,,,,,,,,,,3,2,,,,2023-3-2,2025-02-01,1,,,,,,Yes,,,,,,,0.08,,,,,,,,,,,"Castlederg, Co Tyrone",-7.592368198,54.72489572,54.72489572,
+Dew Drop Brewing Company,dewdrop,https://irishcraftbrewing.com/pics/logos/dewdropLogo.jpeg,3.55,635,85,Microbrewery,Kill,Kildare,01/01/2014,,,https://dewdropinn.ie/brewhouse/,,14,0.670779438,4.892857143,"International Pale Ale
+Red Ale
+American Pale Wheat Ale
+American Brown Ale
+Helles Lager
+Vienna Lager
+American Amber Ale
+Hefeweizen
+Oatmeal Stout
+Blonde Ale
+International Pale Ale
+Winter Warmer
+American IPA
+Munich Dunkel Lager",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2014-1-1,2025-02-02,,,,,,,Yes,,,,14,,164,7.44,,,,,,,,,,0,Kill,-6.538754,53.252795,53.25279565,
+Diageo,diageo,https://irishcraftbrewing.com/pics/logos/diageoLogo.jpeg,3.52,2869622,117367,Macrobrewery,St James Brewery,Dublin,01/01/1997,,,,,,,,,1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,1997-1-1,2025-02-03,,,,,,,Yes,,,,,,600,24.45,,,,,,,,,,,St James Brewery,-6.287128,53.343315,53.34331563,
+Dick Mack's Brewhouse,dickmacks,https://irishcraftbrewing.com/pics/logos/dickmacksLogo.jpeg,3.63,7230,857,Microbrewery,Dingle,Kerry,01/01/2013,,,https://www.dickmackspub.com/,,15,1.741427985,5.84,"India Session Ale
+Irish Dry Stout
+Amber Lager
+Amber Lager
+Märzen
+American IPA
+American Pale Ale
+Imperial Stout
+Coffee Stout
+Honey Beer
+Irish Dry Stout
+Brown Ale
+Saison Ale
+Red Ale
+Honey Beer",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2013-1-1,2025-02-04,,,1,,,,Yes,,,,13,,163,8.44,,,Pub License,,,,,,,1,Dingle,-10.2640135,52.1409389,52.14093891,
+Dog Paw Brewing,dogpaw,https://irishcraftbrewing.com/pics/logos/dogpawLogo.jpeg,4.14,224,38,Microbrewery,Dublin,Dublin,01/03/2016,,,https://untappd.com/DogPawBrewing,,54,1.44227502,5.938888889,"Black Cascadian Ale
+Belgian Blonde
+American Pale Ale
+International IPA
+International Pale Ale
+International IPA
+Porter
+Porter
+Rye IPA
+Milk Stout
+American IPA
+International IPA
+Oatmeal Stout
+International Pale Ale
+International Pale Ale
+International IPA
+Fruit Beer
+International Pale Ale
+International IPA
+Stout Other
+American IPA
+Black Cascadian Ale
+American IPA
+Stout Other
+Stout Other
+Milk Stout
+New England Pale Ale
+Stout Other
+New England IPA
+New England Pale Ale
+American IPA
+Pastry Stout
+Imperial Oatmeal Stout
+Munich Dunkel Lager
+International IPA
+New England IPA
+Black Cascadian Ale
+American IPA
+Mild Ale
+New England IPA
+American Brown Ale
+American IPA
+American IPA
+New England IPA
+Milk Stout
+Imperial Russian Stout
+New England IPA
+Farmhouse Ale
+Imperial Russian Stout
+Session IPA
+American IPA
+Imperial Russian Stout
+New England IPA
+Porter",1,,,,,,ROI,,,,,,,,,,,,,,,,,3,1,,,,2016-3-1,2025-02-05,,,,,,,Yes,,,,23,,,5.87,,,,,,,,,,0,Dublin,-6.2603097,53.349904,53.34990463,
+Donegal Brewing Company,donegal,https://irishcraftbrewing.com/pics/logos/donegalLogo.jpeg,3.45,3103,364,Microbrewery,Ballyshannon,Donegal,01/12/2012,,,https://donegalbrewingco.ie/,,28,0.451921237,4.714285714,"Blonde Ale
+American Red Ale
+English Pale Ale
+Porter
+American IPA
+American Pale Ale
+Coffee Stout
+International Pale Ale
+Irish Red Ale
+Irish Dry Stout
+American Pale Ale
+English India Pale Ale
+Porter
+Milk Stout
+Saison Ale
+Rye Pale Ale
+Belgian Pale Ale
+Black Cascadian Ale
+American IPA
+Dark Ale
+English India Pale Ale
+English Mild Ale
+International Pale Ale
+International IPA
+Stout Other
+International Pale Ale
+Hefeweizen
+International Pale Ale",1,,,,,,ROI,,,,,,,,,,,,,No,,,,12,1,,,,2012-12-1,2025-02-06,1,,,,,,Yes,,,,22,,54,8.53,,,No,,,,,,,2,Ballyshannon,-8.1920416,54.5029882,54.50298828,
+Dopey Dick,dopeydick,https://irishcraftbrewing.com/pics/logos/dopeydickLogo.jpeg,3.53,713,131,Microbrewery,Skeoge Industrial Estate,Londonderry,01/01/2016,,,https://www.facebook.com/dopeydickbrewingco/,,5,0.613731755,4.45,"International Pale Ale
+Lager
+Amber Ale
+Double Red Ale
+Fruit Beer",1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,,,,2016-1-1,2025-02-07,,,,,,,Yes,,,,5,,56,5.44,,,,,,,,,,0,Skeoge Industrial Estate,-7.322846,55.037966,55.03796673,
+Dungarvan Brewing Company,dungarvan,https://irishcraftbrewing.com/pics/logos/dungarvanLogo.jpeg,3.46,11052,987,Microbrewery,Dungarvan,Waterford,01/04/2010,,,http://dungarvanbrewingcompany.com/,,41,1.663252914,5.220512821,"Blonde Ale
+Irish Red Ale
+Irish Dry Stout
+American Pale Ale
+Oatmeal Stout
+Rye Pale Ale
+English Bitter
+Saison Ale
+English Barleywine
+Witbier
+Witbier
+Rye Pale Ale
+Saison Ale
+Irish Dry Stout
+Blonde Ale
+Dark Ale
+Sour Ale
+Irish Dry Stout
+Stout Other
+International Pale Ale
+International Pale Ale
+American IPA
+Imperial Red Ale
+Märzen
+Stout Other
+Witbier
+English India Pale Ale
+Irish Red Ale
+Stout Other
+International Pale Ale
+Irish Red Ale
+Imperial Stout
+Irish Dry Stout
+American Pale Ale
+International Pale Ale
+Dark Ale
+Munich Dunkel Lager
+Black Cascadian Ale
+Milk Stout
+American Pale Ale
+Pumpkin Beer",1,Yes,,,,Four Corners,ROI,,,,,,,,,,,,,Yes,,,,4,1,,,,2010-4-1,2025-02-08,1,,,,,,Yes,,,,24,,61,11.2,,,No,Yes,,,,,,0,Dungarvan,-7.6203627,52.0936763,52.09367638,
+Eight Degrees Brewing,eightdegrees,https://irishcraftbrewing.com/pics/logos/eightdegreesLogo.jpeg,3.58,77066,6731,Microbrewery,Mitchelstown,Cork,01/01/2010,,,https://www.eightdegrees.ie/,,94,1.915818592,6.079361702,"American Pale Ale
+Irish Red Ale
+American IPA
+American IPA
+Irish Dry Stout
+Pilsner
+American Red Ale
+American IPA
+International Pale Ale
+American IPA
+Imperial Red Ale
+Sour Ale
+Imperial India Pale Ale
+India Session Ale
+American IPA
+India Pale Lager
+Black Cascadian Ale
+India Session Ale
+International Pale Ale
+American IPA
+American IPA
+Imperial India Pale Ale
+Smoked Beer
+Rye Pale Ale
+International Pale Ale
+American Pale Ale
+American IPA
+Imperial Russian Stout
+Saison Ale
+Rye Pale Ale
+Rye Pale Ale
+Witbier
+Berliner Weisse
+Barleywine
+Export Stout
+American IPA
+American IPA
+Saison Ale
+Imperial Stout
+Coffee Stout
+American Amber Ale
+Stout Other
+Barleywine
+Kolsch Lager
+American IPA
+Sour Ale
+Belgian Dubbel
+American IPA
+Black Cascadian Ale
+International Pale Ale
+Stout Other
+Scotch Ale
+Witbier
+Saison Ale
+Sour Ale
+Witbier
+American IPA
+Belgian Pale Ale
+Imperial Stout
+New England IPA
+Irish Red Ale
+German Pilsner
+India Session Ale
+International Pale Ale
+Berliner Weisse
+English India Pale Ale
+International IPA
+American IPA
+Irish Dry Stout
+Red IPA
+Imperial Stout
+Saison Ale
+American IPA
+Australian Pale Ale
+Vienna Lager
+Irish Dry Stout
+Belgian IPA
+India Pale Lager
+American Pale Ale
+Brut IPA
+Kellerbier
+Imperial Double Stout
+Double IPA
+Black Cascadian Ale
+International Pale Ale
+Pilsner
+Belgian IPA
+Smoked Beer
+Irish Dry Stout
+Barleywine
+India Pale Lager
+International Pale Ale
+New England IPA
+Belgian Tripel",1,Was - Bought Out,,,,,ROI,10,,,,,,,,,,,,,,,,1,1,,,,2010-1-1,2025-02-09,1,,,,,,Yes,,,,43,,62,11.45,,,,Yes,,,,,,0,Mitchelstown,-8.2698863,52.2662127,52.26621278,
+Elbow Lane Craft Beer,elbowlane,https://irishcraftbrewing.com/pics/logos/elbowlaneLogo.jpeg,3.62,3579,379,Microbrewery,Oliver Plunkett Street,Cork,01/01/2012,,,https://www.elbowlane.ie/,,17,0.763762616,4.775,"Irish Red Ale
+Pale Lager
+Hefeweizen
+Irish Dry Stout
+American Pale Ale
+American Amber Lager
+Porter
+Hefeweizen
+Vienna Lager
+American Pale Ale
+Belgian Strong Golden Ale
+Saison Ale
+Dunkelweizen
+Belgian Strong Golden Ale
+Pilsner
+Amber Lager
+Export Stout",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2012-1-1,2025-02-10,1,,,,,,Yes,,,,14,,63,9.45,,,,,,,,,,0,Oliver Plunkett Street,-8.467977,51.898375,51.89837585,
+Errigal Brewing Company,errigal,https://irishcraftbrewing.com/pics/logos/errigalLogo.jpeg,3.62,192,738,Microbrewery,"Annagry, Donegal",Donegal,01/01/2022,,,https://www.facebook.com/ErrigalBrewingCo/,,,,,,1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2022-1-1,2025-02-11,,,,,,,Yes,,,,,,,0.26,,,,,,,,,,,"Annagry, Donegal",-8.325158,55.021008,55.02100883,
+Fermanagh Beer  Company,fermanagh,https://irishcraftbrewing.com/pics/logos/fermanaghLogo.jpeg,3.45,1198,96,Microbrewery,Derrygonnelly,Fermanagh,01/01/2009,,,http://inishmacsaint.beer,,10,0.760482303,4.85,"Golden Ale
+Porter
+American Pale Wheat Ale
+Belgian Blonde
+American Pale Wheat Ale
+India Session Ale
+Blonde Ale
+Witbier
+Red IPA
+American Pale Ale",1,,,,,,UK,,,,,,,,,,,,,,We take our name from an island that nestles in the beautiful waters of Lough Erne near the village of Derrygonnelly,,@inishmacsaintBC,1,1,,,,2009-1-1,2025-02-12,1,,,,,Yes,Yes,,,,9,,82,12.45,,,,,,,,,,0,Derrygonnelly,-7.8168441,54.4175949,54.41759498,
+Four Provinces Brewing Company,fourprovinces,https://irishcraftbrewing.com/pics/logos/fourprovincesLogo.jpeg,3.48,3559,478,Microbrewery,Kimmage,Dublin,01/01/2014,,,https://www.fourprovinces.ie/,,12,1.166547613,5.108333333,"English India Pale Ale
+Irish Red Ale
+American Red Ale
+Herbed Beer
+Porter
+Imperial India Pale Ale
+Vienna Lager
+Euro Lager
+India Session Ale
+English Mild Ale
+Blonde Ale
+Pilsner",1,,,,,Vanguard,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2014-1-1,2025-02-13,1,,,,,,Yes,,,,12,,66,7.44,,,Pub License,,,,,,,0,Kimmage,-6.300758,53.314957,53.31495763,
+Franciscan Well Brewery,franciscanwell,https://irishcraftbrewing.com/pics/logos/franciscanwellLogo.jpeg,3.53,75295,3211,Macrobrewery,Port of Cork,Cork,01/01/1998,,,https://franwellbar.com/,,62,1.403236229,5.405892857,"International Pale Ale
+Irish Red Ale
+Hefeweizen
+Irish Dry Stout
+Blonde Ale
+Extra Stout
+English Pale Ale
+American Pale Ale
+Pale Lager
+Porter
+International Pale Ale
+Hefeweizen
+Saison Ale
+Blonde Ale
+California Common Ale
+Saison Ale
+Pale Lager
+Rye Pale Ale
+English India Pale Ale
+Winter Ale
+Dunkelweizen
+Saison Ale
+Belgian Dubbel
+English Bitter
+Herbed Beer
+Hefeweizen
+Saison Ale
+Double IPA
+Irish Red Ale
+Winter Ale
+Bock
+American IPA
+Extra Stout
+American IPA
+American Pale Ale
+Malt Beer
+Extra Stout
+Imperial Stout
+Saison Ale
+Imperial India Pale Ale
+American IPA
+Hefeweizen
+Porter
+Pilsner
+Vienna Lager
+American Light Lager
+International IPA
+Double IPA
+Milk Stout
+California Common Ale
+Irish Red Ale
+Saison Ale
+Irish Dry Stout
+Belgian Pale Ale
+American Pale Ale
+Farmhouse Ale
+Coffee Stout
+Pale Lager
+Spiced Beer
+Dark Lager
+English India Pale Ale
+New England Pale Ale",1,,,,,,ROI,69,,90000,,,,,,4500,,,,No,,Molson Coors Ireland,,1,1,,,,1998-1-1,2025-02-14,1,,,,,,Yes,,,,36,,67,23.45,,,No,Yes,,,,,,0,Port of Cork,-8.451622,51.900076,51.90007685,
+Galway Bay Brewery,galwaybay,https://irishcraftbrewing.com/pics/logos/galwaybayLogo.jpeg,3.68,204885,16457,Microbrewery,Ballybrit,Galway,01/01/2009,,,https://galwaybaybrewery.com/,,138,2.395598941,6.439393939,"American IPA
+Milk Stout
+Imperial India Pale Ale
+Irish Red Ale
+Porter
+Session IPA
+American IPA
+Imperial Stout
+Table Beer
+Imperial India Pale Ale
+Imperial Porter
+Sour Ale
+Porter
+Dortmunder Lager
+Euro Lager
+Sour Ale
+Berliner Weisse
+Saison Ale
+India Session Ale
+Scotch Ale
+Imperial India Pale Ale
+American Red Ale
+American IPA
+Saison Ale
+Saison Ale
+Black Cascadian Ale
+Sour Ale
+Porter
+Sour Ale
+Dunkelweizen
+New Zealand Pale Ale
+American Brown Ale
+Triple IPA
+Sour Ale
+Black Cascadian Ale
+Imperial India Pale Ale
+American IPA
+Sour Ale
+Witbier
+Saison Ale
+Sour Ale
+Saison Ale
+Sour Ale
+New England IPA
+Scotch Ale
+Stout Other
+Lager
+California Common Ale
+Black Cascadian Ale
+American Pale Ale
+Imperial Brown Ale
+Pumpkin Beer
+Scotch Ale
+American IPA
+Sour Ale
+Export Stout
+Berliner Weisse
+Porter
+Fruit Beer
+American Brown Ale
+Saison Ale
+Sour Ale
+Triple IPA
+English Pale Ale
+Imperial Stout
+Imperial India Pale Ale
+India Session Ale
+American IPA
+American Barleywine
+Berliner Weisse
+American Pale Ale
+India Session Ale
+Pilsner
+American IPA
+Imperial Red Ale
+New England IPA
+Sour Ale
+Export Stout
+International IPA
+Imperial India Pale Ale
+English Pale Ale
+Saison Ale
+Sour Ale
+American Imperial Double Stout
+American IPA
+Brown Ale
+International IPA
+Imperial Stout
+Irish Red Ale
+Coffee Stout
+Scotch Ale
+Helles Lager
+Imperial Russian Stout
+Saison Ale
+Sour Ale
+Imperial Black Ale
+New England IPA
+Helles Lager
+Helles Lager
+Helles Lager
+Double IPA
+Berliner Weisse
+Black Cascadian Ale
+Pilsner
+Table Beer
+Double IPA
+Imperial Double Stout
+Sour Ale
+Sour Ale
+Farmhouse Ale
+Barleywine
+Rauchbier
+Sour Ale
+Barleywine Other
+American IPA
+Fruited Sour
+American IPA
+Märzen
+Black Cascadian Ale
+Imperial Stout
+Imperial Russian Stout
+Dark Lager
+New England Pale Ale
+Festbier
+Pilsner
+Czech Pilsner
+New England Pale Ale
+New England Pale Ale
+Smoked Beer
+New England Pale Ale
+Double IPA
+New Zealand Pale Ale
+Black Cascadian Ale
+Märzen
+Imperial Stout
+Double IPA
+Irish Dry Stout
+Czech Pilsner",1,,,,,Noreast,ROI,,,1000000,,,,,,,,,,No,,,,1,1,,,,2009-1-1,2025-02-15,1,,,,,,Yes,,,,58,,68,12.45,,,Pub License,Yes,,,,,,9,Ballybrit,-9.003378,53.288752,53.2887529,
+Galway Hooker Brewery,galwayhooker,https://irishcraftbrewing.com/pics/logos/galwayhookerLogo.jpeg,3.45,41679,2698,Microbrewery,Oranmore,Galway,01/01/2006,,,https://galwayhooker.ie/,,44,0.791098036,4.818604651,"American Pale Ale
+Irish Dry Stout
+American IPA
+Amber Lager
+Imperial India Pale Ale
+Dark Lager
+International Pale Ale
+Stout Other 
+Rye Pale Ale
+American Pale Ale
+Dunkelweizen
+Porter
+English Pale Ale
+Irish Red Ale
+Irish Dry Stout
+Weissebier
+American IPA
+Witbier
+Dark Ale
+Amber Lager
+Porter
+Honey Beer
+Pilsner
+Irish Red Ale
+India Session Ale
+Lager
+American IPA
+Golden Ale
+Irish Red Ale
+International IPA
+Honey Beer
+International IPA
+India Session Ale
+India Session Ale
+Milk Stout
+India Session Ale
+Porter
+New England IPA
+American IPA
+Farmhouse Ale
+Pastry Stout
+American IPA
+American IPA
+Herbed Beer",1,,,,,Noreast,ROI,,,,,,,,,,,,,No,,,,1,1,,,,2006-1-1,2025-02-16,,1,,,,,Yes,,,,27,,69,15.45,,,No,,,,,,,0,Oranmore,-8.9297335,53.2647506,53.26475069,
+Get'er Brewed,geterbrewed,https://irishcraftbrewing.com/pics/logos/geterbrewedLogo.jpeg,3.34,859,283,Microbrewery,"86 Clonkeen Road 
+Randalstown",Antrim,01/01/2019,,,www.geterbrewed.ie,,,,,,1,,,,,,UK,,,,,,,,,,,,,No,,Our Brewery,@geterbrewed,1,1,,,,2019-1-1,2025-02-17,,,,,,,Yes,,,,,,,3.03,,,No,,,,,,,,Randalstown,-6.320274,54.7500518,54.75005186,
+Glenwinny Brewstillery,glenwinny,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Microbrewery,"30 Main St, Lisbellaw, Enniskillen BT94 5ER",Fermanagh,01/02/2023,,,,,,,,,1,,,,,,UK,,,,,,,,,,,,,,,,,2,1,,,,2023-2-1,2025-02-18,,,,,,,Yes,,,,,,,0.16,,,,,,,,,,,"30 Main St, Lisbellaw, Enniskillen BT94 5ER",-7.535654478,54.31743205,54.31743205,
+Harbour Bar Brewing,harbourbar,https://irishcraftbrewing.com/pics/logos/harbourbarLogo.jpeg,3.43,267,49,Microbrewery,Howth,Dublin,01/01/2016,,,https://www.facebook.com/HarbourBarHowth/,,2,0.494974747,4.65,"Irish Dry Stout
+Euro Lager",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2016-1-1,2025-02-19,1,,,,,,Yes,,,,2,,181,5.44,,,,,,,,,,0,Howth,-6.066375,53.386929,53.38692961,
+Heaney Farmhouse Beer,heaney,https://irishcraftbrewing.com/pics/logos/heaneyLogo.jpeg,3.52,13675,2514,Microbrewery,Bellaghy,Londonderry,01/01/2016,,,http://www.heaneyfarmhousebrewing.com/talking-beer/,,36,1.538046586,5.988888889,"Irish Dry Stout
+Irish Red Ale
+Imperial Milk Stout
+English India Pale Ale
+Blonde Ale
+American Pale Ale
+International Pale Ale
+Session IPA
+American Amber Ale
+American IPA
+Porter
+International Pale Ale
+Porter
+Porter
+Spiced Beer
+Coffee Porter
+International IPA
+American IPA
+Porter
+American IPA
+Imperial Russian Stout
+American IPA
+American IPA
+Farmhouse Ale
+International Pale Ale
+American Pale Ale
+Witbier
+Farmhouse Ale
+Double IPA
+Imperial Stout
+Black Cascadian Ale
+New England Pale Ale
+Farmhouse Ale
+English India Pale Ale
+Farmhouse Ale
+New England IPA",1,Yes,,,,Noreast,UK,,,,,,,,,,,,,No,,,@HeaneyBrewery,1,1,,,,2016-1-1,2025-02-20,1,,,,,Yes,Yes,,,,23,,167,5.44,,,No,,,,,,,3,Bellaghy,-6.521467,54.80747,54.80747652,
+Heineken Ireland,heineken,https://irishcraftbrewing.com/pics/logos/heinekenLogo.jpeg,3.42,298058,7748,Macrobrewery,Cork,Cork,01/01/1983,,,http://www.heinekenireland.ie,,19,1.342122076,4.85625,"Irish Dry Stout
+Irish Red Ale
+Irish Dry Stout
+International IPA
+Irish Red Ale
+Irish Red Ale
+Irish Dry Stout
+Blonde Ale
+Stout Other
+Pale Lager
+Irish Red Ale
+Lager
+Euro Lager
+Blonde Ale
+Irish Dry Stout
+Golden Ale
+English India Pale Ale
+American Light Lager
+Irish Dry Stout",1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,,,,1983-1-1,2025-02-21,,,1,,,,Yes,,,,11,,74,38.47,,,No,,,,,,,0,Cork,-8.4863157,51.8968917,51.89689178,
+Hercules Brewing Company,hercules,https://irishcraftbrewing.com/pics/logos/herculesLogo.jpeg,3.34,6649,903,Microbrewery,"Hercules House, Belfast",Antrim,01/02/2014,,,https://www.nigoodfood.com/producers/hercules-brewing-company/,,18,0.582898998,4.672222222,"English Pale Ale
+English Pale Ale
+Irish Dry Stout
+American IPA
+Amber Lager
+American Red Ale
+American Pale Ale
+Coffee Stout
+English India Pale Ale
+Winter Ale
+Saison Ale
+Pale Lager
+Pale Lager
+New England IPA
+International Pale Ale
+International IPA
+Porter
+Irish Red Ale",1,,028 90732206,,,Phoenix Premium Drinks,UK,,,,,,,,,,,,,No,,,https://twitter.com/YardsmanLager,2,1,,,,2014-2-1,2025-02-22,,,,,,,Yes,,,,17,,75,7.36,,,No,,,,,,,0,"Hercules House, Belfast",-5.864016,54.632029,54.63202959,
+Hilden Brewing Company,hilden,https://irishcraftbrewing.com/pics/logos/hildenLogo.jpeg,3.35,22287,551,Microbrewery,Hilden House,Antrim,01/01/1981,,,http://www.hildenbrewery.com,,67,0.905214594,4.749230769,"English Pale Ale
+American Amber Ale
+Blonde Ale
+American Pale Wheat Ale
+Golden Ale
+Irish Dry Stout
+Irish Red Ale
+American Red Ale
+American IPA
+American Pale Ale
+English Bitter
+English Bitter
+Irish Red Ale
+English Brown Ale
+Imperial India Pale Ale
+Stout Other
+Irish Red Ale
+Belgian Tripel
+International Pale Ale
+Golden Ale
+Golden Ale
+English Pale Ale
+Rye Pale Ale
+Malt Beer
+Imperial India Pale Ale
+Ruby Porter
+English Pale Ale
+Irish Red Ale
+English India Pale Ale
+English Pale Ale
+Porter
+English Bitter
+American IPA
+International Pale Ale
+English Pale Ale
+Porter
+New England IPA
+Helles Lager
+Rye Beer
+International IPA
+International IPA
+Other
+Porter
+Porter
+American Light Lager
+New England IPA
+English Bitter
+Brut IPA
+Rye IPA
+Irish Dry Stout
+American IPA
+New England Pale Ale
+International Pale Ale
+American IPA
+English Bitter
+English Pale Ale
+Belgian Pale Ale
+American Pale Ale
+Farmhouse Ale
+International Pale Ale
+English Pale Ale
+International IPA
+Session IPA
+Session IPA
+American Pale Ale
+English Pale Ale
+International Pale Ale",1,,,,,,UK,,,,,,,,,,,,,Yes,,,@HildenBrewery,1,1,,,,1981-1-1,2025-02-23,1,,,,,Yes,Yes,,,,34,,76,40.47,,,Restaurant License,,,,,,,0,Hilden House,-6.025713,54.520209,54.5202096,
+Hope Beer,hope,https://irishcraftbrewing.com/pics/logos/hopeLogo.jpeg,3.63,28161,5511,Microbrewery,Kilbarrack,Dublin,01/05/2016,,,http://hopebeer.ie/,,88,1.515022344,5.644827586,"American IPA
+Saison Ale
+Blonde Ale
+Session IPA
+Session IPA
+International Pale Ale
+Berliner Weisse
+Export Stout
+International Pale Ale
+Sour Ale
+Pale Lager
+Lager
+Rye Pale Ale
+New England IPA
+Coffee Stout
+American IPA
+Imperial Stout
+India Session Ale
+New England IPA
+Sour Ale
+Honey Beer
+New England IPA
+Double IPA
+Helles Lager
+International Pale Ale
+Farmhouse Ale
+American Amber Ale
+Coffee Stout
+Session IPA
+New England DIPA
+India Session Ale
+Imperial Milk Stout
+Red IPA
+India Session Ale
+India Session Ale
+Imperial Stout
+Brown Ale
+Stout Other
+Amber Lager
+American IPA
+India Pale Lager
+American IPA
+American Stout
+Bock
+Imperial Russian Stout
+Coffee Stout
+Radler
+American IPA
+Sour Ale
+Black Cascadian Ale
+American IPA
+Belgian Dubbel
+Export Stout
+American IPA
+Sour Ale
+American Pale Ale
+Vienna Lager
+New England Pale Ale
+American Pale Ale
+Fruited Sour
+Red IPA
+Double IPA
+Golden Ale
+American Pale Ale
+American Pale Ale
+Belgian Dubbel
+American IPA
+Brown Ale
+Old Ale
+Irish Dry Stout
+Fruited Sour
+Session IPA
+Gose
+Imperial Pastry Stout
+Belgian Tripel
+Fruited Sour
+Session IPA
+Pilsner
+Amber Lager
+Irish Dry Stout
+International Pale Ale
+Imperial Stout
+Gose
+Extra Stout
+American Pale Ale
+International Pale Ale
+Amber Lager
+Farmhouse Ale",1,Yes,,,,Noreast,ROI,,,,,,,,,,,,,Yes,"The core beers in the range are creatively titled Handsome Jack, Grunt and Passifyoucan with the names drawn from colourful fables from Fingal lore which can all be read on the bottles and at the website hopebeer.ie.",,,5,1,,,,2016-5-1,2025-02-24,,,,,,,Yes,,,,45,,78,5.11,,,No,Yes,,,,,,5,Kilbarrack,-6.154217,53.390917,53.39091762,
+Hopfully Brewing,hopfully,https://irishcraftbrewing.com/pics/logos/hopfullyLogo.jpeg,3.66,16728,3768,Microbrewery,Waterford,Waterford,01/01/2017,,,https://hopfullybrewing.com/,,63,1.315249875,5.141269841,"Saison Ale
+California Common Ale
+American IPA
+International Pale Ale
+International Pale Ale
+Porter
+International Pale Ale
+Irish Red Ale
+Saison Ale
+Pale Wheat Ale
+Pilsner
+English Porter
+California Common Ale
+Saison Ale
+Dark Lager
+American Pale Wheat Ale
+Saison Ale
+Helles Lager
+International IPA
+Rye Beer
+New England Pale Ale
+New England Pale Ale
+English Brown Ale
+Witbier
+Saison Ale
+India Session Ale
+Table Beer
+India Session Ale
+India Session Ale
+Coffee Stout
+Sour Ale
+Sour Ale
+American Pale Ale
+Scotch Ale
+Baltic Porter
+Porter
+Belgian Strong Dark Ale
+New England Pale Ale
+New England DIPA
+New England Pale Ale
+Fruited Sour
+New England IPA
+India Session Ale
+New England Pale Ale
+New England IPA
+New England IPA
+Imperial Oatmeal Stout
+New England IPA
+Fruited Sour
+Double IPA
+Gose
+Gose
+Gose
+Gose
+New England IPA
+Fruited Sour
+Sour Ale
+New England IPA
+American IPA
+International Pale Ale
+New England IPA
+Gluten Free Pale Ale
+Gluten Free Pale Ale",1,Yes,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2017-1-1,2025-02-25,,,,,,,Yes,,,,33,,79,4.44,,,No,,,,,,,5,Waterford,-7.11697,52.263546,52.26354671,
+Jack Smyth,jacksmyth,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.39,3437,534,Microbrewery,Kilcoole,Dublin,01/01/2015,,,http://boxtyhouse.ie/,,6,0.173205081,4.4,"Irish Dry Stout
+International Pale Ale
+Irish Red Ale
+Amber Lager
+Irish Red Ale
+International Pale Ale",1,Yes,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2015-1-1,2025-02-26,,,,,,,Yes,,,,4,,165,6.44,,,,,,,,,,0,Kilcoole,-6.0645861,53.1062723,53.10627236,
+JJ's Craft Brewing Company,jjs,https://irishcraftbrewing.com/pics/logos/jjsLogo.jpeg,3.35,2850,466,Microbrewery,Kilmallock,Limerick,01/05/2015,,,https://jjscraftbrewing.ie/,,15,0.808702665,4.84,"American IPA
+Irish Dry Stout
+Pilsner
+Irish Red Ale
+English Pale Ale
+Oyster Stout
+Irish Dry Stout
+International Pale Ale
+Mead
+Pilsner
+Mead
+American IPA
+Stout Other
+Witbier
+Farmhouse Ale",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,5,1,,,,2015-5-1,2025-02-27,,,1,,,,Yes,,,,12,,87,6.12,,,No,Yes,,,,,,0,Kilmallock,-8.5709354,52.3986564,52.39865649,
+Jumping Church Brewery,jumpingchurch,https://irishcraftbrewing.com/pics/logos/jumpingchurchLogo.jpeg,3.5,61,38,Microbrewery,Kildemock,Louth,01/06/2020,,,https://www.jumpingchurchbrewery.ie,,4,0.788986692,4.825,"American Pale Ale
+India Pale Ale
+Irish Dry Stout
+Irish Red Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,6,1,,,,2020-6-1,2025-02-28,,,,,,Yes,Yes,,,,4,,,1.61,,,No,,,,,,,0,Kildemock,-6.519401,53.837528,53.83752865,
+Kildare Brewing Company,kildare,https://irishcraftbrewing.com/pics/logos/kildareLogo.jpeg,3.58,1071,241,Microbrewery,Sallins,Kildare,01/01/2017,,,https://www.kildarebrewing.ie/,,41,0.792483358,4.881578947,"American Pale Ale
+Helles Lager
+Irish Red Ale
+English Pale Ale
+Hefeweizen
+Dunkelweizen
+German Pilsner
+Irish Dry Stout
+Irish Dry Stout
+International Pale Ale
+Spiced Beer
+Vienna Lager
+Brown Ale
+American Pale Wheat Ale
+Witbier
+Irish Dry Stout
+Milk Stout
+International IPA
+Kellerbier
+Helles Lager
+Schwartzbier
+Euro Lager
+Irish Dry Stout
+Red IPA
+Milk Stout
+Coffee Stout
+New England IPA
+Session IPA
+New England IPA
+Saison Ale
+Rye IPA
+Golden Ale
+American IPA
+Milk Stout
+American IPA
+American IPA
+Irish Dry Stout
+American IPA
+Irish Dry Stout
+Kolsch Lager
+American IPA",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2017-1-1,2025-03-01,1,,,,,,Yes,,,,29,,91,4.44,,,,,,,,,,1,Sallins,-6.6652313,53.251067,53.25106767,
+Killarney Brewing Company,killarney,https://irishcraftbrewing.com/pics/logos/killarneyLogo.jpeg,3.65,27483,4268,Microbrewery,Dromhale,Kerry,01/01/2015,,,https://killarneybrewingdistilling.com/,,52,1.4866691,5.636170213,"American Pale Ale
+Blonde Ale
+Helles Lager
+Oatmeal Stout
+Saison Ale
+Irish Red Ale
+Belgian Strong Dark Ale
+Märzen
+American IPA
+Amber Lager
+Amber Lager
+American Pale Ale
+English India Pale Ale
+American IPA
+Milk Stout
+New England IPA
+American IPA
+International IPA
+Blonde Ale
+American IPA
+Milk Stout
+New England IPA
+Czech Pilsner
+Farmhouse Ale
+Hefeweizen
+Belgian IPA
+Farmhouse Ale
+Irish Red Ale
+Saison Ale
+Saison Ale
+Stout Other
+India Pale Lager
+Coffee Stout
+Farmhouse Ale
+Czech Pilsner
+Belgian Tripel
+Irish Dry Stout
+International IPA
+Irish Red Ale
+Double IPA
+Milk Stout
+Farmhouse Ale
+Belgian Dubbel
+Coffee Stout
+Witbier
+Imperial Red Ale
+Belgian Strong Dark Ale
+International Pale Ale
+New England IPA
+Imperial Stout
+Session IPA
+American Barleywine",1,,,,,Barry & Fitzwilliam,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2015-1-1,2025-03-02,1,,,,,,Yes,,,,32,,92,6.44,,,Yes,Yes,,,,,,1,Dromhale,-9.507165,52.05425,52.05425095,
+Kinnegar Brewing,kinnegar,https://irishcraftbrewing.com/pics/logos/kinnegarLogo.jpeg,3.66,101316,10721,Microbrewery,"K2, Ballyraine Industrial Estate, Letterkenny",Donegal,01/01/2012,,,https://kinnegarbrewing.ie/,,83,1.539816585,5.448795181,"English India Pale Ale
+Rye Beer
+American Amber Ale
+English Pale Ale
+Black Cascadian Ale
+Porter
+American IPA
+American Pale Ale
+Session IPA
+Saison Ale
+Rye IPA
+Export Stout
+International Pale Ale
+New England IPA
+Sour Ale
+Sour Ale
+Sour Ale
+Sour Ale
+Belgian Dubbel
+Red IPA
+Rye IPA
+Pumpkin Beer
+Sour Ale
+Sour Ale
+Cream Ale
+Coffee Stout
+Rye IPA
+Sour Ale
+Dortmunder Lager
+Red Ale
+Porter
+Saison Ale
+Porter
+Farmhouse Ale
+Helles Lager
+Imperial India Pale Ale
+Belgian Tripel
+Sour Ale
+Sour Ale
+Red IPA
+Sour Ale
+Table Beer
+Amber Lager
+German Pilsner
+New England DIPA
+Sour Ale
+Sour Ale
+Sour Ale
+American Pale Ale
+Sour Ale
+Sour Ale
+Hefeweizen
+Porter
+Non-Alcoholic
+Rye Beer
+Rye Beer
+Rye Beer
+Sour Ale
+Farmhouse Ale
+Non-Alcoholic
+Helles Lager
+India Session Ale
+Irish Dry Stout
+India Session Ale
+Fruited Sour
+Pale Lager
+Fruited Sour
+American Barleywine
+Milk Stout
+Smoked Beer
+German Pilsner
+American Brown Ale
+New England Pale Ale
+New England Pale Ale
+Hefeweizen
+American Pale Ale
+Milk Stout
+Session IPA
+Rye IPA
+Farmhouse Ale
+Imperial Stout
+Gose
+New England IPA",1,Yes,,,,Grand Cru,ROI,,,800000,,,,,,,,,,Yes,"A local beach, beers often fields, their dogs, etc.",,@kinnegarbrewing,1,1,,,,2012-1-1,2025-03-03,1,,,,,,Yes,,,,44,,94,9.45,,,,Yes,,,,,,3,"K2, Ballyraine Industrial Estate, Letterkenny",-7.706114614,54.95571598,54.95571598,
+Knockout Brewing,knockout,https://irishcraftbrewing.com/pics/logos/knockoutLogo.jpeg,3.34,1559,242,Microbrewery,"Alanbrooke Park, Belfast",Antrim,01/01/2015,,,http://www.knockoutbrewing.co.uk,,44,0.952650137,4.861363636,"English India Pale Ale
+Irish Red Ale
+American Pale Ale
+English India Pale Ale
+Hefeweizen
+India Session Ale
+Irish Dry Stout
+American IPA
+American IPA
+English India Pale Ale
+International Pale Ale
+International Pale Ale
+Irish Dry Stout
+Stout Other
+Witbier
+American IPA
+Stout Other
+Irish Dry Stout
+India Session Ale
+English Pale Ale
+Stout Other
+Gluten Free India Pale Ale
+Irish Dry Stout
+Double IPA
+Czech Pilsner
+Double IPA
+English Pale Ale
+American Pale Ale
+English India Pale Ale
+New England IPA
+English India Pale Ale
+Blonde Ale
+American Amber Ale
+American IPA
+Session IPA
+English Pale Ale
+International IPA
+American IPA
+Kolsch Lager
+Double IPA
+Blonde Ale
+International IPA
+American IPA
+Irish Red Ale",1,,074 60775104,,,Direct,UK,,,,,,,,,,,,,,,,,1,1,,,,2015-1-1,2025-03-04,,,,,,,Yes,,,,21,,96,6.44,,,,,,,,,,1,"Alanbrooke Park, Belfast",-5.887587,54.58007,54.58007059,
+Lacada Brewery,lacada,https://irishcraftbrewing.com/pics/logos/lacadaLogo.jpeg,3.73,13059,1564,Microbrewery,Portrush,Antrim,01/07/2014,,,http://www.lacadabrewery.com,,91,1.504845247,5.820879121,"English Porter
+India Session Ale
+Dark Ale
+Golden Ale
+American IPA
+Export Stout
+English Pale Ale
+International Pale Ale
+Golden Ale
+Sour Ale
+Extra Stout
+Irish Dry Stout
+Irish Dry Stout
+Sour Ale
+American IPA
+Extra Stout
+English India Pale Ale
+International Pale Ale
+Sour Ale
+American Amber Ale
+Hefeweizen
+Double IPA
+Belgian Pale Ale
+Coffee Stout
+Sour Ale
+Dark Ale
+Export Stout
+Rye IPA
+India Pale Ale
+Belgian Strong Golden Ale
+International Pale Ale
+Sour Ale
+Irish Dry Stout
+Honey Beer
+American Pale Ale
+Gose
+Black Cascadian Ale
+Milkshake IPA
+New England Pale Ale
+India Pale Ale
+English India Pale Ale
+Belgian Pale Ale
+Imperial Stout
+English Pale Ale
+English Pale Ale
+English India Pale Ale
+Saison Ale
+American IPA
+English Stout
+American Pale Ale
+Stout Other
+American Pale Ale
+English Pale Ale
+Double IPA
+Milk Stout
+Sour Ale
+Scotch Ale
+Imperial Double Stout
+International Pale Ale
+Sour IPA
+New England IPA
+California Common Ale
+American Barleywine
+New England Pale Ale
+New England Pale Ale
+Helles Lager
+International Pale Ale
+American Pale Ale
+Fruited Sour
+New England Pale Ale
+New England DIPA
+Sour IPA
+New England Pale Ale
+Table Beer
+New England IPA
+New England IPA
+International Pale Ale
+Rye IPA
+New England IPA
+Coffee Ale
+Dunkelweizen
+Black Cascadian Ale
+American Pale Ale
+International Pale Ale
+Pilsner
+Doppelbock
+Pastry Stout
+Cream Ale
+English Bitter
+New England Pale Ale
+California Common Ale",1,,028 7082 5684,,,Nelson Sauvin,UK,,,,,,,,,,,,,Yes,"""Lacada"" is derived from Liach Fada. It means 'the longstone' and refers to a low, mean, rocky outcrop about 300 yards east of the world famous Giant's Causeway. In 1588 one of the remnants of the Spanish Armada, a galleas named Girona, was desperately trying to return home but a relentless storm forced her onto the north coast of Ireland. She was wrecked on Lacada point with only nine survivors. In the late 1960's a diving team located the wreck off Lacada point and the salvage work brought up many artefacts, the most valuable being a gold salamander that was, originally, encrusted in rubies. The strong story, particular to our rugged coastline, had history and it had treasure! It gave you something to read on the bottle – ever notice beer drinkers absorbed in reading the label?",,,7,1,,,,2014-7-1,2025-03-05,1,,,,,,Yes,,,,48,,97,8.35,,,No,,,,,,,3,Portrush,-6.651145,55.203749,55.20374967,
+Larkin's Brewing Company,larkins,https://irishcraftbrewing.com/pics/logos/larkinsLogo.jpeg,3.77,30499,5606,Microbrewery,Creowen,Wicklow,01/01/2016,,,https://www.larkins.beer/,,60,2.366850275,6.971666667,"Lager
+Schwartzbier
+American IPA
+American Pale Ale
+Baltic Porter
+Helles Lager
+Märzen
+Saison Ale
+Doppelbock
+India Session Ale
+Double IPA
+Double IPA
+Baltic Porter
+Brown Ale
+India Pale Lager
+Schwartzbier
+American IPA
+India Session Ale
+Irish Dry Stout
+Double IPA
+Amber Lager
+Double IPA
+German Pilsner
+Triple IPA
+American IPA
+International Pale Ale
+Imperial Double Stout
+Belgian Quad
+Doppelbock
+Double IPA
+Belgian Pale Ale
+Sour IPA
+Double IPA
+Mead
+India Session Ale
+Doppelbock
+Belgian Pale Ale
+American Pale Ale
+American Pale Ale
+American Pale Ale
+American Pale Ale
+Rye IPA
+New England Pale Ale
+Australian Pale Ale
+Brown Ale
+New England IPA
+Double IPA
+Imperial Stout
+Imperial Stout
+Imperial Stout
+Imperial Stout
+International IPA
+New England IPA
+Session IPA
+Sour Ale
+Fruit Beer
+Sour Ale
+Imperial Pastry Stout
+Imperial Stout
+Imperial Pastry Stout",1,Yes,,,,,ROI,,,,,,,,,,,,,,,,@larkins_brewing,1,1,,,,2016-1-1,2025-03-06,,,1,,,,Yes,,,,34,,159,5.44,,,,,,,,,,1,Creowen,-6.07299,53.100611,53.10061161,
+Lineman Beer,lineman,https://irishcraftbrewing.com/pics/logos/linemanLogo.jpeg,3.79,8499,3483,Microbrewery,Rathcoole,Dublin,01/01/2019,,,http://www.lineman.ie,,31,2.360084744,6.6,"Wheat Beer
+Grisette
+India Pale Ale
+Red IPA
+Export Stout
+Sour Ale
+American Porter
+American IPA
+American Pale Ale
+Dark Lager
+Double IPA
+Imperial Russian Stout
+Imperial Russian Stout
+English Barleywine
+English Brown Ale
+Export Stout
+American Pale Ale
+Table Beer
+Imperial Stout
+Imperial Stout
+American Pale Ale
+American IPA
+American IPA
+American IPA
+American IPA
+Red IPA
+Belgian Blonde
+American IPA
+Black Cascadian Ale
+American Pale Ale
+Schwartzbier",1,,,,,Four Corners,ROI,,,,,,,,,,,,,,,,,1,1,,,,2019-1-1,2025-03-07,,,,,,,Yes,,,,20,,596,2.44,,,,,,,,,,0,Rathcoole,-6.461677,53.298954,53.29895465,
+Lough Gill Brewery,loughgill,https://irishcraftbrewing.com/pics/logos/loughgillLogo.jpeg,3.76,47328,8700,Microbrewery,Cleveragh,Sligo,01/01/2016,,,https://loughgillbrewery.com/,,93,2.646942162,6.705494505,"Brown Ale
+Imperial Oatmeal Stout
+Oatmeal Stout
+Berliner Weisse
+Imperial Stout
+English India Pale Ale
+English Pale Ale
+English Barleywine
+Sour Red Ale
+Irish Red Ale
+Sour Ale
+Scotch Ale
+English India Pale Ale
+Saison Ale
+Sour Ale
+Irish Red Ale
+American Pale Wheat Ale
+Sour Ale
+Porter
+Flanders Red Ale
+Imperial Porter
+Sour Ale
+Berliner Weisse
+Sour Ale
+Gose
+American Pale Ale
+Gose
+English Strong Ale
+Gose
+English Barleywine
+Imperial Stout
+Irish Red Ale
+Imperial Oatmeal Stout
+Imperial Oatmeal Stout
+English India Pale Ale
+English India Pale Ale
+Red IPA
+Euro Lager
+Red IPA
+Gose
+International Pale Ale
+International IPA
+Saison Ale
+India Session Ale
+Oatmeal Stout
+Session IPA
+New England IPA
+Sour Ale
+International IPA
+Imperial Milk Stout
+Imperial Porter
+Imperial Oatmeal Stout
+Milk Stout
+New England IPA
+Double IPA
+New England DIPA
+Gose
+Berliner Weisse
+Milk Stout
+Oatmeal Stout
+Sour Ale
+New England Pale Ale
+New England IPA
+New England IPA
+New England IPA
+New England IPA
+India Session Ale
+American Pale Ale
+Milk Stout
+Imperial Oatmeal Stout
+Imperial Oatmeal Stout
+Imperial Stout
+Imperial Oatmeal Stout
+Imperial Pastry Stout
+Extra Strong Bitter
+American IPA
+Wheat Beer
+American IPA
+Fruited Sour
+New England IPA
+Imperial Pastry Stout
+Sour Ale
+Sour Ale
+Imperial Pastry Stout
+Milkshake IPA
+Session IPA
+Irish Red Ale
+New England IPA
+Imperial Stout
+American IPA
+Imperial Stout
+Session IPA
+Session IPA",1,Yes,087 210 8159,,,Pro Addition (Galway Bay) Alpha Beer and Cider,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2016-1-1,2025-03-08,1,,,,,,Yes,,,,39,,101,5.44,,,No,Yes,,,,,,0,Cleveragh,-8.4549945,54.2657006,54.26570068,
+Mash Down Brewery,mashdown,https://irishcraftbrewing.com/pics/logos/mashdownLogo.jpeg,3.66,522,82,Microbrewery,Banbridge,Down,01/01/2017,,,http://www.mashdownbrewery.com,,15,0.701223421,4.98,"Fruit Beer
+Irish Dry Stout
+Rye Beer
+Fruit Beer
+Fruit Beer
+American IPA
+Stout Other
+Berliner Weisse
+American Amber Ale
+Helles Lager
+Vienna Lager
+American Pale Ale
+American Porter
+American IPA
+Wheat Beer",1,,,,,Nelson Sauvin,UK,,,,,,,,,,,,,,,,@mashdownbrewery,1,1,,,,2017-1-1,2025-03-09,,,,,,,Yes,,,,13,,168,6.33,,,,,,,,,,0,Banbridge,-6.261443,54.34272,54.34272063,
+McCracken's Brewery,mccrackens,https://irishcraftbrewing.com/pics/logos/mccrackensLogo.jpeg,3.44,1009,387,Microbrewery,"Derryall Road, Portadown",Armagh,01/11/2018,,,https://mccrackensrealale.com,,10,0.71460945,4.98,"International IPA
+Golden Ale
+Double IPA
+Irish Red Ale
+Irish Dry Stout
+Irish Dry Stout
+Hefeweizen
+American Pale Ale
+English Pale Ale
+Czech Pilsner",1,,078 03045124,,,Anzac Distributors,UK,,,,,,,,,,,,,,,,,11,1,,,,2018-11-1,2025-03-10,,,,,,,Yes,,,,9,,593,2.61,,,,,,,6,14,,0,"Derryall Road, Portadown",-6.474903,54.463729,54.46372965,
+McGill's Brewery,mcgills,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.44,941,178,Microbrewery,Waterville,Kerry,18/01/2017,,,http://www.mcgillsbrewery.com,,5,0.273861279,4.7,"Irish Dry Stout
+Irish Red Ale
+Blonde Ale
+International IPA
+Irish Red Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,18,,,,2017-1-18,2025-03-11,,,1,,,,Yes,,,,4,,385,5.29,,,,,,,,,,0,Waterville,-10.176174,51.831664,51.8316641,
+Mescan Brewery,mescan,https://irishcraftbrewing.com/pics/logos/mescanLogo.jpeg,3.67,6291,846,Microbrewery,"Cartoor, Kilsallagh, Co Mayo F28FW70",Mayo,01/01/2014,,,https://www.mescanbrewery.com,,21,2.092196385,7.414285714,"Blonde Ale
+Irish Dry Stout
+Belgian Tripel
+Witbier
+Belgian Strong Golden Ale
+Saison Ale
+Fruit Beer
+Belgian Strong Dark Ale
+Belgian Strong Dark Ale
+Belgian Strong Dark Ale
+Lambic Kriek
+Pale Lager
+Belgian Tripel
+Belgian Strong Dark Ale
+Belgian Tripel
+Baltic Porter
+Flanders Old Bruin
+Baltic Porter
+Belgian Tripel
+Belgian Blonde
+Baltic Porter",1,,086 832 0320,,,Alpha Beers,ROI,2,2,,,,,,,,,,,Yes,St. Patrick's reputed Brewer - Annals of the Four Masters,,@MescanBrewery,1,1,,,,2014-1-1,2025-03-12,,1,,,,Yes,Yes,,,,13,,105,7.44,,,No,Yes,,,,,,0,"Cartoor, Kilsallagh, Co Mayo F28FW70",-9.728606,53.74727,53.74727097,
+Modest Brewing,modest,https://irishcraftbrewing.com/pics/logos/modestLogo.jpeg,3.71,2791,1038,Microbrewery,Holywood,Down,01/10/2018,,,https://www.modestbeer.co.uk/,,30,0.855784912,5.026666667,"New England Pale Ale
+American IPA
+New Zealand Pale Ale
+American Pale Ale
+International Pale Ale
+American Pale Ale
+Pilsner
+Czech Pilsner
+New Zealand Pale Ale
+American Pale Ale
+Table Beer
+Pilsner
+Oatmeal Stout
+American IPA
+Czech Pilsner
+New England IPA
+American IPA
+New England IPA
+New England Pale Ale
+International IPA
+International Pale Ale
+International IPA
+International IPA
+Pilsner
+New England IPA
+New England IPA
+Sour Ale
+Dark Lager
+Sour Ale
+New England IPA",1,,,,,,UK,,,,,,,,,,,,,,,,,10,1,,,,2018-10-1,2025-03-13,,,,,,,Yes,,,,14,,691,2.69,,,,,,,,,,0,Holywood,-5.84452,54.634616,54.63461658,
+Mourne Mountains Brewery,mourne,https://irishcraftbrewing.com/pics/logos/mourneLogo.jpeg,3.65,11201,1739,Microbrewery,Warrenpoint,Down,01/01/2015,,,https://www.instagram.com/mournemountainsbrewery/,,86,1.712907826,5.689411765,"Red IPA
+American IPA
+Pilsner
+International Pale Ale
+Hefeweizen
+Stout Other
+Extra Stout
+Pumpkin Beer
+American Amber Ale
+American Amber Ale
+Pilsner
+Export Stout
+Winter Lager
+American Pale Wheat Ale
+Kolsch Lager
+Euro Lager
+American Light Lager
+International Pale Ale
+English Bitter
+Imperial Stout
+India Pale Lager
+Kolsch Lager
+English Mild Ale
+Irish Dry Stout
+American Pale Ale
+American IPA
+Imperial India Pale Ale
+Imperial Oatmeal Stout
+Blonde Ale
+Imperial Stout
+India Pale Lager
+American Pale Ale
+Brut IPA
+Rye Beer
+American Pale Ale
+American IPA
+Irish Red Ale
+American Pale Ale
+Extra Strong Bitter
+American Pale Ale
+Imperial Stout
+Czech Pilsner
+Imperial Double Stout
+International Pale Ale
+English Bitter
+American IPA
+American IPA
+New England IPA
+Belgian Blonde
+Kolsch Lager
+American Pale Ale
+American Light Lager
+New England Pale Ale
+American Pale Ale
+New England IPA
+German Pilsner
+India Session Ale
+Double IPA
+Helles Lager
+American IPA
+Irish Red Ale
+Imperial Oatmeal Stout
+Imperial Stout
+Triple IPA
+Barleywine
+International IPA
+Session IPA
+New England IPA
+New England IPA
+Fruited Sour
+New England Pale Ale
+American Pale Ale
+New England Pale Ale
+Helles Lager
+New Zealand Pale Ale
+New England Pale Ale
+Export Stout
+Pastry Stout
+Belgian Dubbel
+Coffee Stout
+New England DIPA
+New England Pale Ale
+Double IPA
+American IPA
+American Pale Ale
+American Amber Ale",1,,,,,Nelson Sauvin,"UK
+",,,,,,,,,,,,,,,,,1,1,,,,2015-1-1,2025-03-14,1,,,,,,Yes,,,,47,,108,6.44,,,,,,,,,,1,Warrenpoint,-6.2520778,54.105301,54.10530163,
+Norn Iron Brewing,norniron,https://irishcraftbrewing.com/pics/logos/nornironLogo.jpeg,3.43,766,223,Microbrewery,"The Cutts, City Business Park, Dunmurry, Belfast",Antrim,01/01/2018,,,https://www.facebook.com/nornironbrewco/,,33,1.751988118,5.970967742,"Rye Beer
+Belgian Dubbel
+Imperial Porter
+Rye Beer
+American IPA
+Belgian Tripel
+New England IPA
+International IPA
+Brut IPA
+New England IPA
+Belgian IPA
+Double Porter
+Triple IPA
+Euro Strong Lager
+International IPA
+New England IPA
+India Session Ale
+Pale Lager
+International IPA
+New Zealand Pale Ale
+Helles Lager
+Belgian Pale Ale
+American IPA
+English Porter
+International Pale Ale
+American IPA
+Double IPA
+Double IPA
+Session IPA
+Rye Beer
+Sour Ale
+American IPA
+International IPA",1,,,,,Nelson Sauvin,UK,,,,,,,,,,,,,,,,@nornironbrewco,1,1,,,,2018-1-1,2025-03-15,,,,,,,Yes,,,,23,,212,3.44,,,,,,,,,,0,"The Cutts, City Business Park, Dunmurry, Belfast",-6.021090895,54.54338,54.54337778,
+Northbound Brewery,northbound,https://irishcraftbrewing.com/pics/logos/northboundLogo.jpeg,3.48,3483,468,Microbrewery,Eglinton,Londonderry,01/01/2014,,,http://www.northboundbrewery.com/,,22,1.299963369,5.00952381,"Kolsch Lager
+American Pale Ale
+American IPA
+Altbier
+Grätzer
+English India Pale Ale
+American Amber Ale
+Lager
+India Session Ale
+International Pale Ale
+Euro Lager
+American Red Ale
+American IPA
+India Session Ale
+English Pale Ale
+Euro Lager
+Double IPA
+New Zealand Pale Ale
+Pale Lager
+Pale Lager
+India Session Ale
+American IPA",1,,075 12198686,,,Robb Brothers Wine Merchants,UK,,,,,,,,,,,,,,,,,1,1,,,,2014-1-1,2025-03-16,1,,,,,,Yes,,,,17,,114,7.44,,,,,,,,,,0,Eglinton,-7.17831,55.02679,55.02679718,
+O Brother Brewing,obrother,https://irishcraftbrewing.com/pics/logos/obrotherLogo.jpeg,3.71,62233,8365,Microbrewery,Ballycrone,Wicklow,01/01/2014,,,https://www.obrotherbrewing.com/,,96,2.030078105,6.391489362,"American Pale Ale
+American IPA
+American Red Ale
+India Session Ale
+Porter
+Black Cascadian Ale
+Double IPA
+India Session Ale
+Saison Ale
+American IPA
+Pilsner
+International Pale Ale
+Fruit Beer
+Porter
+Rye IPA
+White IPA
+Golden Ale
+India Session Ale
+Nitro Milk Stout
+Irish Red Ale
+Imperial India Pale Ale
+Belgian Pale Ale
+Berliner Weisse
+Irish Red Ale
+Imperial Stout
+India Session Ale
+Imperial Double Stout
+India Session Ale
+Double IPA
+Fruit Beer
+American Pale Ale
+Sour Ale
+Double IPA
+Brut IPA
+Saison Ale
+Double IPA
+Pilsner
+New Zealand Pale Ale
+Double IPA
+Nitro Milk Stout
+American IPA
+American IPA
+Double IPA
+Berliner Weisse
+International Pale Ale
+Rye IPA
+Triple IPA
+New England IPA
+Double IPA
+American Pale Ale
+New England IPA
+Double IPA
+India Session Ale
+Double IPA
+Imperial Double Stout
+Milk Stout
+India Session Ale
+Double IPA
+Double IPA
+Milk Stout
+Sour Ale
+Sour Ale
+American IPA
+New England DIPA
+International IPA
+Double IPA
+New England IPA
+Double IPA
+Imperial Milk Stout
+German Pilsner
+Triple IPA
+Coffee Porter
+Porter
+American IPA
+Double IPA
+New England IPA
+American Pale Ale
+Milkshake IPA
+New England Pale Ale
+Double IPA
+Black Cascadian Ale
+American IPA
+New England Pale Ale
+American IPA
+Double IPA
+Pilsner
+Triple IPA
+New Zealand Pale Ale
+New England IPA
+Double IPA
+American IPA
+Double IPA
+American Pale Ale
+Milk Stout
+New England IPA
+Imperial Stout",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2014-1-1,2025-03-17,,,,,,,Yes,,,,35,,115,7.44,,,Yes,,,,,,,3,Ballycrone,-6.061201,53.099922,53.09992261,
+O'Connor Craft Beer,oconnor,https://irishcraftbrewing.com/pics/logos/oconnorLogo.jpeg,3.44,39,6,Microbrewery,Derry,Londonderry,01/01/2015,,,https://untappd.com/w/o-connor-craft-beer/211227,,2,0.070710678,4.45,"Blonde Ale
+Amber Lager",1,,,,,,UK,,,,,,,,,,,,,,,,@OConnorBrewing,1,1,,,,2015-1-1,2025-03-18,,,1,,,,Yes,,,,2,,197,6.44,,,,,,,,,,0,Derry,-7.3085748,54.9966124,54.99661247,
+Original 7 Beverage Co.,original7,https://irishcraftbrewing.com/pics/logos/original7Logo.jpeg,3.62,932,1553,Microbrewery,"North Mall, Cork",Cork,07/01/2022,,,https://www.original7.ie,,3,0.057735027,4.133333333,"Pale Ale
+Lager
+Weissebier",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,7,,,,2022-1-7,2025-03-19,,,,,,,Yes,,,,3,,,0.6,,,Pub License,,,,,,Franciscan Well Brewery,0,"North Mall, Cork",-8.481867,51.901062,51.90106285,
+Ormeau Brewing,ormeau,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.65,348,916,Microbrewery,"Ormeau Road, Balfast",Antrim,01/01/2022,,,https://ormeaubrewingco.com/,,,,,,1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,,,,2022-1-1,2025-03-20,,,,,,,Yes,,,,,,,0.38,,,,,,,,,,,"Ormeau Road, Balfast",-5.9150805,54.57251145,54.57251145,
+Otterbank Brewing Company,otterbank,https://irishcraftbrewing.com/pics/logos/otterbankLogo.jpeg,3.83,3069,364,Microbrewery,"Unit 6, Kilderry Business Park, Kilderry, Donegal",Donegal,01/01/2013,,,https://www.facebook.com/otterbrews/,,46,2.373799367,6.573555556,"Stout Other
+Stout Other
+Sour Ale
+Imperial Stout
+Sour Ale
+Brown Ale
+Berliner Weisse
+Sour Ale
+Sour Ale
+Imperial Stout
+Berliner Weisse
+Berliner Weisse
+Sour Ale
+Sour Ale
+Saison Ale
+Extra Strong Bitter
+Berliner Weisse
+Biere de Garde
+Imperial Stout
+Saison Ale
+Saison Ale
+American Pale Ale
+Farmhouse Ale
+Farmhouse Ale
+Farmhouse Ale
+Imperial Russian Stout
+Fruited Sour
+Sour Ale
+Imperial Stout
+Sour IPA
+Berliner Weisse
+Berliner Weisse
+Farmhouse Ale
+Farmhouse Ale
+Sour IPA
+Session IPA
+Berliner Weisse
+Berliner Weisse
+Session IPA
+Farmhouse Ale
+Brett Beer
+Farmhouse Ale
+Imperial Red Ale
+American Porter
+American Pale Ale
+Imperial Stout",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2013-1-1,2025-03-21,1,,,,,,Yes,,,,17,,118,8.44,,,,,,,,,,1,"Unit 6, Kilderry Business Park, Kilderry, Donegal",-7.262432,55.066526,55.06652673,
+Out of Office Brewing,outofoffice,https://irishcraftbrewing.com/pics/logos/outofofficeLogo.jpeg,3.57,986,2595,Microbrewery,"96-98 High St, Belfast BT1 2BG",Antrim,01/01/2022,,,https://outofofficebrewing.co.uk/,,,,,,1,,,,,,UK,,,,,,,,,,,,,,,,,1,1,,,,2022-1-1,2025-03-22,,,,,,,Yes,,,,,,,0.38,,,,,,,,,,,"96-98 High St, Belfast BT1 2BG",-5.925755972,54.60081718,54.60081718,
+Pearse Lyons Brewery,pearselyons,https://irishcraftbrewing.com/pics/logos/pearselyonsLogo.jpeg,3.37,35841,4817,Microbrewery,"Brewery Business Park, Ardee Road, Cambrickville, Dundalk",Louth,01/01/2014,,,https://www.facebook.com/thefoxesrock/photos/a.2695282894086578/2797053120576221/?type=3,,78,1.742891326,5.157894737,"Burton Ale
+American IPA
+English Pale Ale
+Pilsner
+Irish Dry Stout
+Irish Red Ale
+India Pale Ale
+American IPA
+India Session Ale
+American Pale Ale
+Pilsner
+Irish Red Ale
+Gluten Free Pale Ale
+India Session Ale
+English Brown Ale
+Imperial Stout
+Export Stout
+Extra Stout
+Extra Stout
+India Session Ale
+New Zealand Pale Ale
+International Pale Ale
+Double IPA
+Pale Lager
+Lager
+Extra Stout
+Gluten Free Kolsch Lager
+India Pale Lager
+Double IPA
+Extra Stout
+Porter
+New England IPA
+Pale Lager
+Gluten Free Kolsch Lager
+Brown Ale
+Imperial Double Stout
+Fruit Beer
+Irish Red Ale
+Double IPA
+International Pale Ale
+English Brown Ale
+Coffee Stout
+American IPA
+American Pale Ale
+Session IPA
+Red Ale
+Kombucha
+Imperial Double Stout
+English Strong Ale
+Coffee Stout
+Black Cascadian Ale
+Double IPA
+International IPA
+International Pale Ale
+Irish Dry Stout
+American IPA
+Pilsner
+Coffee Stout
+American IPA
+India Session Ale
+English Strong Ale
+Pilsner
+English Porter
+International Pale Ale
+Non-Alcoholic
+Hard Seltzer
+Hard Seltzer
+Non-Alcoholic
+Non-Alcoholic
+American IPA
+English Pale Ale
+American IPA
+American IPA
+German Pilsner
+Double IPA
+Hard Seltzer
+Hard Seltzer
+Czech Pilsner",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2014-1-1,2025-03-23,,,,,,,Yes,,,,38,,137,7.44,,,,,,,,,,,"Brewery Business Park, Ardee Road, Cambrickville, Dundalk",-6.414357639,53.99312601,53.99312601,
+Pikeman Brewing,pikeman,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.62,179,88,Microbrewery,"Main Street, The Walk, Kinnitty, Co. Offaly",Offaly,01/06/2019,,,https://pikemanbrewing.com,,5,0.4,4.6,"Irish Red Ale
+International IPA
+Irish Dry Stout
+International Pale Ale
+Irish Dry Stout",1,,,,,,ROI,,,,,,,,,,,,,,,,,6,1,,,,2019-6-1,2025-03-24,,Yes,,,,,Yes,,,,4,,690,2.03,,,,,,,,,,0,"Main Street, The Walk, Kinnitty, Co. Offaly",-7.718439,53.097497,53.09749777,
+Porterhouse Brewing Company,porterhouse,https://irishcraftbrewing.com/pics/logos/porterhouseLogo.jpeg,3.5,152614,4702,Microbrewery,Broadstone,Dublin,01/01/1989,,,http://www.theporterhouse.ie/,,75,2.542476968,5.942253521,"Oyster Stout
+Porter
+Irish Red Ale
+American IPA
+Irish Dry Stout
+English Strong Ale
+English Pale Ale
+Pale Lager
+Imperial Stout
+Pilsner
+Pale Lager
+American Barleywine
+Stout Other
+English Bitter
+Irish Dry Stout
+Black Cascadian Ale
+American Brown Ale
+Double IPA
+Amber Lager
+Session IPA
+Witbier
+Porter
+English Pale Ale
+Kolsch Lager
+Dark Lager
+Cream Ale
+Irish Dry Stout
+Märzen
+Dark Lager
+Porter
+Dunkelweizen
+Pilsner
+English Pale Ale
+Imperial Stout
+Irish Red Ale
+English Porter
+English Porter
+English Strong Ale
+Porter
+English Strong Ale
+Export Stout
+Ginger Beer
+India Session Ale
+Rye Beer
+New England IPA
+English Porter
+New England IPA
+Lager
+American IPA
+Coffee Stout
+Imperial Russian Stout
+International Pale Ale
+Irish Dry Stout
+India Session Ale
+Milkshake IPA
+India Session Ale
+Double IPA
+India Session Ale
+International IPA
+New England IPA
+American Pale Ale
+India Session Ale
+Imperial Stout
+Farmhouse Ale
+Pale Lager
+New England DIPA
+Pale Lager
+Imperial Stout
+American IPA
+American IPA
+Pilsner
+Pilsner
+Imperial Stout
+Irish Dry Stout
+Irish Dry Stout",1,Yes,,,,Grand Cru,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,1989-1-1,2025-03-25,,,,,,,Yes,,,,40,,122,32.46,,,Pub License,,,,,,,1,Broadstone,-6.285342,53.373462,53.37346263,
+Priory Brewing Company,priory,https://irishcraftbrewing.com/pics/logos/prioryLogo.jpeg,3.75,766,173,Microbrewery,Greenhills Road,Dublin,01/01/2017,,,https://www.priorybrewing.ie/,,7,1.651262144,5,"International Pale Ale
+English Porter
+Double IPA
+India Session Ale
+Red IPA
+Grätzer
+International Pale Ale",1,Yes,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2017-1-1,2025-03-26,1,,,,,,Yes,,,,6,,123,4.44,,,,,,,,,,0,Greenhills Road,-6.351688,53.287837,53.28783764,
+Quiet Noise Brewing,quietnoise,https://irishcraftbrewing.com/pics/logos/quietnoiseLogo.jpeg,3.07,38,136,Microbrewery,Lagavooren,Meath,01/04/2022,,,https://www.quietnoisebrewing.com,,3,0,0,"Pale Ale
+Pilsner
+Lager",1,,,,,,ROI,,,,,,,,,,,,,,,,,4,1,,,,2022-4-1,2025-03-27,,,,,,,Yes,,,,3,,,0.28,,,,,,,,,,0,Lagavooren,-6.368142,53.694399,53.69439964,
+Rascal's Brewing Company,rascals,https://irishcraftbrewing.com/pics/logos/rascalsLogo.jpeg,3.57,62864,7448,Microbrewery,"Goldenbridge Estate, Inchicore",Dublin,01/01/2013,,,http://rascalsbrewing.com/,,188,1.367443816,5.306521739,"American IPA
+White IPA
+American Red Ale
+Porter
+American IPA
+International Pale Ale
+Saison Ale
+American Pale Ale
+Milk Stout
+American Pale Ale
+American Pale Ale
+Witbier
+Hefeweizen
+Sour Ale
+Double IPA
+American IPA
+White IPA
+Pilsner
+American Pale Ale
+Sour Ale
+Sour Ale
+Wheat Wine
+International Pale Ale
+American IPA
+Saison Ale
+American Pale Ale
+New England IPA
+Milk Stout
+Porter
+American Amber Ale
+American Amber Ale
+Wheat Wine
+White IPA
+Blonde Ale
+Saison Ale
+Red Ale
+American Pale Ale
+North American Lager
+Sour Ale
+Belgian Dubbel
+Sour Ale
+Pale Lager
+Session IPA
+Milk Stout
+New England IPA
+Milk Stout
+Gose
+New England IPA
+Australian Sparkling Ale
+Saison Ale
+India Session Ale
+Imperial Stout
+American IPA
+Coffee Stout
+Milk Stout
+Saison Ale
+International Pale Ale
+Double IPA
+Milk Stout
+Witbier
+Imperial Double Stout
+India Session Ale
+American Amber Ale
+Double IPA
+Saison Ale
+Coffee Stout
+American IPA
+Kolsch Lager
+Oatmeal Stout
+International Pale Ale
+American Stout
+Milkshake IPA
+English Brown Ale
+International IPA
+American Pale Ale
+Witbier
+Berliner Weisse
+Brut IPA
+Cream Ale
+Sour Ale
+India Session Ale
+Kolsch Lager
+English Brown Ale
+Milkshake IPA
+Sour Ale
+Sour Ale
+Black Cascadian Ale
+Belgian Dubbel
+Witbier
+Gose
+Red IPA
+Wheat Beer
+Ginger Beer
+Hefeweizen
+Blonde Ale
+Brut IPA
+Brut IPA
+Blonde Ale
+Imperial Stout
+New England DIPA
+German Pilsner
+Doppelbock
+Helles Lager
+Farmhouse Ale
+Milkshake IPA
+Doppelbock
+Berliner Weisse
+American Pale Ale
+Brown Ale
+Oatmeal Stout
+Sour Ale
+Brown Ale
+American IPA
+International Pale Ale
+English Bitter
+Baltic Porter
+New England IPA
+English India Pale Ale
+Brut IPA
+New England Pale Ale
+Gose
+New England Pale Ale
+Sour Ale
+Fruit Beer
+India Session Ale
+Dark Lager
+Double IPA
+Australian Pale Ale
+Red Lager
+Pastry Stout
+Pastry Stout
+Milk Stout
+New England IPA
+New England Pale Ale
+Pilsner
+International Pale Ale
+Oatmeal Stout
+Black Cascadian Ale
+Bock
+Porter
+Table Beer
+Berliner Weisse
+New England IPA
+Irish Red Ale
+White Stout
+American IPA
+Wheat Beer
+American Pale Ale
+Porter
+Kolsch Lager
+American Pale Ale
+New England Pale Ale
+New England IPA
+Porter
+Rye IPA
+New England IPA
+German Pilsner
+New England IPA
+Ginger Beer
+International Pale Ale
+Rice Lager
+Berliner Weisse
+American Pale Ale
+International IPA
+Helles Lager
+Oatmeal Stout
+International IPA
+Oatmeal Stout
+New Zealand Pale Ale
+Milkshake IPA
+Milkshake IPA
+Sour Ale
+Wheat Beer
+Sour Ale
+Cream Ale
+New England Pale Ale
+American IPA
+New Zealand Pale Ale
+Irish Dry Stout
+Sour Ale
+Black Cascadian Ale
+White Stout
+Table Beer
+Sour Ale
+Wheat Beer
+English Barleywine
+New England IPA
+Imperial Stout",1,Yes,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2013-1-1,2025-03-28,,,,,,,Yes,,,,66,,125,8.44,Yes,,Yes,Yes,,,,,,5,"Goldenbridge Estate, Inchicore",-6.3240476,53.33607848,53.33607848,
+Reel Deel Brewery,reeldeel,https://irishcraftbrewing.com/pics/logos/reeldeelLogo.jpeg,3.46,4536,610,Microbrewery,Crossmolina,Mayo,01/01/2014,,,http://www.reeldeelbrewery.ie/,,15,1.048581809,4.866666667,"American Pale Ale
+American Red Ale
+Irish Dry Stout
+English Pale Ale
+American Pale Ale
+International Pale Ale
+Brown Ale
+Winter Ale
+Brown Ale
+International Pale Ale
+Irish Red Ale
+Irish Red Ale
+International IPA
+International IPA
+Blonde Ale",1,Yes,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2014-1-1,2025-03-29,,,,,,,Yes,,,,10,,128,7.44,,,No,Yes,,,,,,0,Crossmolina,-9.3158456,54.100342,54.10034293,
+Rising Sons Brewery,risingsons,https://irishcraftbrewing.com/pics/logos/risingsonsLogo.jpeg,3.62,15281,1617,Microbrewery,Cornmarket Street,Cork,01/01/2012,,,https://risingsonsbrewery.com/,,71,1.138534096,4.936666667,"American IPA
+Irish Dry Stout
+Witbier
+International Pale Ale
+Pale Lager
+Irish Red Ale
+American Amber Ale
+Rye Beer
+Porter
+Black Cascadian Ale
+Belgian Blonde
+Vienna Lager
+Belgian Blonde
+Kolsch Lager
+Coffee Stout
+Witbier
+Black Cascadian Ale
+American IPA
+Hefeweizen
+Winter Ale
+Berliner Weisse
+Altbier
+Irish Red Ale
+Stout Other
+Porter
+Imperial Stout
+American IPA
+Stout Other
+Imperial India Pale Ale
+Berliner Weisse
+Stout Other
+Pilsner
+Sour Ale
+International Pale Ale
+Stout Other
+Irish Dry Stout
+Saison Ale
+Winter Ale
+Vienna Lager
+Irish Dry Stout
+Imperial Stout
+Lager
+Spiced Beer
+American Pale Ale
+Red Ale
+New England IPA
+Sour Ale
+Saison Ale
+Session Pale Ale
+Golden Ale
+Festbier
+Belgian Strong Dark Ale
+Sour Ale
+Belgian Strong Golden Ale
+American Brown Ale
+International Pale Ale
+Coffee Stout
+California Common Ale
+India Session Ale
+Milk Stout
+Table Beer
+India Session Ale
+Gose
+Helles Lager
+Wheat Beer
+Farmhouse Ale
+American IPA
+English Porter
+Fruit Beer
+Sour Ale
+International IPA",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2012-1-1,2025-03-30,,,,,,,Yes,,,,47,,129,9.45,,,Pub License,Yes,,,,,,0,Cornmarket Street,-8.476413,51.899599,51.89959985,
+River Shannon Brewery,rivershannon,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.44,80,43,Microbrewery,"Unit 5 Church St, Kylebeg, Banagher",Offaly,01/06/2020,,,https://www.rivershannonbrewery.com,,2,0.424264069,4.9,"American IPA
+Irish Red Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,6,1,,,,2020-6-1,2025-03-31,,,,,,,Yes,,,,3,,,1.85,,,,,,,,,,0,"Unit 5 Church St, Kylebeg, Banagher",-7.991282,53.186048,53.1860488,
+Rough  Brother's Handmade Beer,roughbrothers,https://irishcraftbrewing.com/pics/logos/roughbrothersLogo.jpeg,3.57,514,197,Microbrewery,"Unit 2D, Altnagelvin Industrial Estate, BT47 2ED",Londonderry,01/11/2018,,,https://www.roughbrothersbrewing.com/,,13,0.386417109,4.825,"American Pale Ale
+International IPA
+Irish Red Ale
+American IPA
+Oatmeal Stout
+American Pale Ale
+International Pale Ale
+Golden Ale
+Farmhouse Ale
+American Pale Ale
+New England IPA
+International Pale Ale
+Pale Lager",1,,079 46638513,,,Nelson Sauvin,UK,,,,,,,,,,,,,,,,,11,1,,,,2018-11-1,2025-04-01,,,,,,,Yes,,,,11,,594,2.61,,,,,,,,,,0,"Unit 2D, Altnagelvin Industrial Estate, BT47 2ED",-7.303187,54.97994,54.97994073,
+Rye River Brewing Company,ryeriver,https://irishcraftbrewing.com/pics/logos/ryeriverLogo.jpeg,3.28,199004,27678,Microbrewery,Celbridge,Kildare,04/04/2014,,,https://ryeriverbrewingco.com/,,115,1.532262085,5.422293578,"American IPA
+Pale Lager
+Irish Dry Stout
+American Pale Ale
+Irish Red Ale
+India Pale Ale
+Kolsch Lager
+Irish Red Ale
+English Porter
+International Pale Ale
+Irish Red Ale
+American Pale Ale
+Saison Ale
+Lager
+Irish Dry Stout
+American Pale Wheat Ale
+Irish Dry Stout
+Irish Red Ale
+Helles Lager
+Smoked Beer
+Baltic Porter
+Lager
+Helles Lager
+Lager
+American Brown Ale
+American Lager
+American Pale Ale
+Pale Lager
+Golden Ale
+Irish Dry Stout
+Pale Lager
+Irish Dry Stout
+India Session Ale
+New England IPA
+Imperial Double Stout
+Saison Ale
+American Brown Ale
+India Session Ale
+Porter
+Witbier
+American Pale Wheat Ale
+Witbier
+American Pale Ale
+American Pale Ale
+Imperial India Pale Ale
+Export Stout
+Irish Dry Stout
+Lager
+India Pale Ale
+Irish Red Ale
+Irish Red Ale
+Lager
+India Pale Ale
+Session IPA
+Brown Ale
+Irish Dry Stout
+Vienna Lager
+India Pale Ale
+Irish Dry Stout
+Lager
+Stout Other
+Saison Ale
+Double IPA
+Euro Lager
+Imperial Milk Stout
+American IPA
+Grätzer
+American Pale Ale
+American IPA
+Scotch Ale
+American Pale Ale
+Old Ale
+Belgian Tripel
+Sour Ale
+Oatmeal Stout
+Kolsch Lager
+India Session Ale
+Porter
+Witbier
+New England IPA
+Helles Lager
+International Pale Ale
+Grätzer
+India Pale Lager
+Double Brown Ale
+Schwartzbier
+American IPA
+English India Pale Ale
+Helles Lager
+Fruited Sour
+American Pale Ale
+India Session Ale
+Irish Red Ale
+Irish Dry Stout
+American Pale Ale
+Belgian Quad
+Baltic Porter
+Extra Stout
+Rye IPA
+Belgian Brown Ale
+Wheat Beer
+Export Stout
+Session IPA
+American Pale Ale
+American IPA
+Irish Red Ale
+Irish Dry Stout
+India Pale Lager
+Fruited Sour
+American IPA
+Session IPA
+English India Pale Ale
+Double IPA
+Wheat Beer
+Sour Ale",1,,,,,Four Corners,ROI,40,,,,,20000,,,,,,,Yes,,,,4,4,,,,2014-4-4,2025-04-02,1,,,,,,Yes,,,,48,,130,7.19,,,No,Yes,,,,,,1,Celbridge,-6.5384589,53.339897,53.33989765,
+Skibbereen Craft Brewery,skibbereen,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,,,0,Microbrewery,"North Street, Skibbereen",Cork,01/01/2020,,,https://www.facebook.com/Skibb.Craft.Brew/,,,,,,1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2020-1-1,2025-04-03,,,,,,,Yes,,,,,,695,1.44,,,,,,,,,,,"North Street, Skibbereen",-9.266111,51.550091,51.55009193,
+Stone Barrel Brewing,stonebarrel,https://irishcraftbrewing.com/pics/logos/stonebarrelLogo.jpeg,3.54,16491,1954,Microbrewery,"Emerald House, Bluebell Avenue, Bluebell Industrial Estate, Dublin 12",Dublin,01/01/2013,,,https://www.instagram.com/stonebarrelbrewing/?hl=en,,34,1.462435153,5.735294118,"India Session Ale
+American IPA
+Imperial Oatmeal Stout
+American Amber Ale
+American IPA
+American Amber Ale
+Double IPA
+International Pale Ale
+English Bitter
+New England IPA
+Belgian Dubbel
+India Session Ale
+New England IPA
+American IPA
+Doppelbock
+New England IPA
+American IPA
+American Barleywine
+Porter
+Stout Other
+New England IPA
+American Pale Ale
+India Session Ale
+India Session Ale
+India Pale Lager
+Porter
+American IPA
+New England IPA
+Double IPA
+India Pale Lager
+American IPA
+New England IPA
+New England DIPA
+New England IPA",1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,,,,2013-1-1,2025-04-04,,,,,,,Yes,,,,17,,138,8.44,,,No,,,,,,,1,"Emerald House, Bluebell Avenue, Bluebell Industrial Estate, Dublin 12",-6.349937,53.330954,53.33095463,
+The Magic Hill Brewery,magichill,https://irishcraftbrewing.com/pics/logos/magichillLogo.jpeg,3.22,28,5,Microbrewery,Jenkinstown,Louth,01/01/2016,,,https://www.themagichillbrewery.ie/,,1,?,4,English India Pale Ale,1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2016-1-1,2025-04-05,,1,,,,,Yes,,,,1,,102,5.44,,,,,,,,,,0,Jenkinstown,-6.312056,54.015017,54.01501763,
+The Open Gate Brewery,opengate,https://irishcraftbrewing.com/pics/logos/opengateLogo.jpeg,3.4,"41,401",4905,Microbrewery,St James Brewery,Dublin,01/01/2013,,,https://www.guinnessopengate.com,,176,1.706514625,5.659171598,"American IPA
+Golden Ale
+Pilsner
+Helles Lager
+English Pale Ale
+Witbier
+Golden Ale
+Non-Alcoholic
+Irish Dry Stout
+Milk Stout
+Stout Other
+Saison Ale
+Dunkelweizen
+Irish Red Ale
+Vienna Lager
+Porter
+Porter
+Gose
+Milk Stout
+Stout Other
+Old Ale
+Export Stout
+Stout Other
+Coffee Stout
+Golden Ale
+German Pilsner
+International IPA
+Amber Lager
+English India Pale Ale
+Porter
+American IPA
+Imperial Oatmeal Stout
+Saison Ale
+Stout Other
+Milk Stout
+New England IPA
+Irish Red Ale
+Vienna Lager
+New England IPA
+German Pilsner
+Stout Other
+Spiced Beer
+German Pilsner
+English India Pale Ale
+Export Stout
+Stout Other
+International IPA
+Dunkelweizen
+American IPA
+American IPA
+International IPA
+Brown Ale
+Export Stout
+Pilsner
+Gose
+American IPA
+Brown Ale
+Sour Ale
+Imperial Double Stout
+Extra Strong Bitter
+Extra Strong Bitter
+Irish Dry Stout
+International Pale Ale
+Blonde Ale
+Blonde Ale
+Witbier
+Belgian IPA
+Belgian Tripel
+Belgian Dubbel
+Saison Ale
+Märzen
+Export Stout
+Non-Alcoholic
+Stout Other
+Milk Stout
+Coffee Stout
+Witbier
+Spiced Beer
+English Pale Ale
+Helles Lager
+Munich Dunkel Lager
+Irish Red Ale
+Irish Red Ale
+American IPA
+Black Cascadian Ale
+White Stout
+Sour Ale
+Blonde Ale
+Wheat Beer
+Sour Ale
+Helles Lager
+International IPA
+International Pale Ale
+English Pale Ale
+Oatmeal Stout
+Sour Ale
+Non-Alcoholic
+Pale Lager
+Euro Lager
+Brut IPA
+Traditional Ale
+Brown Ale
+Pilsner
+Oyster Stout
+Gose
+Honey Beer
+Stout Other
+White Stout
+English Stout
+Imperial Stout
+Farmhouse Ale
+New England IPA
+Non-Alcoholic
+Red Ale
+Stout Other
+Imperial Stout
+American IPA
+Baltic Porter
+Porter
+English Pale Ale
+Weizenbock
+Pale Ale
+International Pale Ale
+Doppelbock
+Blonde Ale
+Scotch Ale
+Stout Other
+Sour Ale
+Non-Alcoholic
+Wheat Beer
+Irish Dry Stout
+Irish Dry Stout
+Farmhouse Ale
+Spiced Beer
+German Pilsner
+Pastry Stout
+Milkshake IPA
+American IPA
+Irish Dry Stout
+International Pale Ale
+Brown Ale
+American Lager
+Coffee Stout
+Märzen
+Wheat Beer
+International Pale Ale
+International IPA
+Winter Lager
+English India Pale Ale
+Irish Red Ale
+New England IPA
+Farmhouse Ale
+German Pilsner
+Irish Dry Stout
+Wheat Beer
+American IPA
+American Pale Ale
+Stout Other
+Wheat Beer
+Farmhouse Ale
+Irish Dry Stout
+Coffee Stout
+Export Stout
+American IPA
+Coffee Stout
+Pastry Stout
+Winter Ale
+English India Pale Ale
+Fruit Beer
+Munich Dunkel Lager
+American Amber Ale
+Sour Ale
+Coffee Stout
+American IPA
+Brett Beer
+Porter",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2013-1-1,2025-04-06,,,,,,,Yes,,,,66,,188,8.44,,,Yes,,,,,,,0,St James Brewery,-6.287128,53.343315,53.34331563,
+Third Barrel Brewing,thirdbarrel,https://irishcraftbrewing.com/pics/logos/thirdbarrelLogo.jpeg,3.78,18685,2901,Microbrewery,"Emerald House, Bluebell Avenue, Bluebell Industrial Estate, Dublin 12",Dublin,01/01/2015,,,https://thirdbarrel.com/,,75,1.763609117,6.442666667,"Irish Dry Stout
+Grisette
+American Pale Wheat Ale
+English Bitter
+Double IPA
+New England IPA
+English Mild Ale
+Milk Stout
+New England IPA
+American Stout
+Grisette
+Altbier
+International Pale Ale
+New England Pale Ale
+German Pilsner
+Porter
+Red IPA
+Black Cascadian Ale
+Pilsner
+India Pale Ale
+New England Pale Ale
+English Mild Ale
+Double IPA
+Milk Stout
+Double IPA
+Irish Dry Stout
+American IPA
+Imperial Russian Stout
+Imperial Stout
+New England Pale Ale
+Brut IPA
+Session Pale Ale
+American IPA
+New England IPA
+Double IPA
+Sour Ale
+Triple IPA
+Irish Red Ale
+Imperial Porter
+Red IPA
+American IPA
+English India Pale Ale
+Double IPA
+New England IPA
+Milk Stout
+Wild Ale
+New England IPA
+Fruited Sour
+American Pale Ale
+Imperial Milk Stout
+American Amber Ale
+New England IPA
+American IPA
+Double IPA
+Black Cascadian Ale
+New England DIPA
+Winter Ale
+Imperial Russian Stout
+Stout Other 
+Milk Stout
+Porter
+Double IPA
+New England IPA
+Imperial Milk Stout
+American IPA
+Double IPA
+New England Pale Ale
+American IPA
+Imperial Stout
+Black Cascadian Ale
+Triple IPA
+American Pale Ale
+American IPA
+New England IPA
+New England DIPA",1,,,,,Four Corners,ROI,,,,,,,,,,,,,,,,,1,1,,,,2015-1-1,2025-04-07,,,,,,,Yes,,,,36,,189,6.44,,,,,,,,,,0,"Emerald House, Bluebell Avenue, Bluebell Industrial Estate, Dublin 12",-6.349937,53.330954,53.33095463,
+Third Circle Brewing,thirdcircle,https://irishcraftbrewing.com/pics/logos/thirdcircleLogo.jpeg,3.44,13565,1607,Microbrewery,"Emerald House, Bluebell Avenue, Bluebell Industrial Estate, Dublin 12",Dublin,01/01/2013,,,https://thirdbarrel.com/,,36,0.955461963,5.265714286,"American IPA
+Saison Ale
+Stout Other
+Irish Red Ale
+Fruit Beer
+International Pale Ale
+Saison Ale
+Table Beer
+International IPA
+English Bitter
+Saison Ale
+Milk Stout
+Stout Other
+Saison Ale
+Porter
+Belgian Pale Ale
+English Pale Ale
+Berliner Weisse
+International IPA
+New England Pale Ale
+Belgian Pale Ale
+Sour Ale
+Sour Ale
+Belgian Dubbel
+Milk Stout
+American IPA
+American Pale Ale
+Milk Stout
+Sour Ale
+India Session Ale
+Pilsner
+Farmhouse Ale
+Fruited Sour
+American IPA
+Wheat Beer
+American Amber Ale",1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,,,,2013-1-1,2025-04-08,,,,,,,Yes,,,,25,,140,8.44,,,No,,,,,,,0,"Emerald House, Bluebell Avenue, Bluebell Industrial Estate, Dublin 12",-6.349937,53.330954,53.33095463,
+Thompsons,thompsons,https://irishcraftbrewing.com/pics/logos/thompsonsLogo.jpeg,3.52,36,,Microbrewery,"McCurtain Street, Cork",Cork,01/01/2020,,,https://www.thompsonscork.ie,,2,0.989949494,5,"New England DIPA
+American Light Lager",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2020-1-1,2025-04-09,,,,,,,Yes,,,,2,,,2.07,,,,,,,,,,0,"McCurtain Street, Cork",-8.46682,51.901435,51.90143585,
+Tom Crean,tomcrean,https://irishcraftbrewing.com/pics/logos/tomcreanLogo.jpeg,3.5,1793,297,Microbrewery,"25 Main St, Kenmare",Kerry,01/01/2016,,,https://www.tomcreanbrewerykenmare.ie/,,11,1.435839951,3.781818182,"Grätzer
+Traditional Ale
+Irish Red Ale
+Kolsch Lager
+Amber Lager
+Irish Dry Stout
+Session IPA
+Irish Red Ale
+English Pale Ale
+Pale Ale
+English Pale Ale",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2016-1-1,2025-04-10,,1,,,,,Yes,,,,9,,,6.03,,,Pub License,,,,,,,0,"25 Main St, Kenmare",-9.581078,51.87936,51.87936096,
+Torc Brewing Killarney,torc,https://irishcraftbrewing.com/pics/logos/torcLogo.jpeg,3.39,1443,224,Microbrewery,Knockearagh,Kerry,01/01/2015,,,http://torcbrewing.ie,,19,0.876763053,4.826315789,"American Amber Ale
+Witbier
+Irish Red Ale
+International Pale Ale
+Black Cascadian Ale
+International Pale Ale
+Sour Ale
+Porter
+Rauchbier
+Sour Ale
+English Porter
+Porter
+Grätzer
+English India Pale Ale
+Witbier
+International Pale Ale
+Witbier
+Dark Ale
+Irish Red Ale",1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,,,,2015-1-1,2025-04-11,,,,,,,Yes,,,,12,,141,6.44,,,No,,,,,,,0,Knockearagh,-9.42974,52.068113,52.06811394,
+Treaty City Brewing Company,treatycity,https://irishcraftbrewing.com/pics/logos/treatycityLogo.jpeg,3.59,7962,1070,Microbrewery,Garryowen,Limerick,01/01/2014,,,https://treatycitybrewery.ie/,,70,1.012611433,4.961764706,"American Pale Ale
+International Pale Ale
+Irish Red Ale
+Helles Lager
+Pilsner
+International Pale Ale
+Irish Dry Stout
+New England IPA
+Milk Stout
+English India Pale Ale
+American Pale Ale
+Irish Dry Stout
+Brown Ale
+Session IPA
+Pale Lager
+Festbier
+Wheat Beer
+Maibock
+Sour Ale
+Gose
+International IPA
+International IPA
+Wheat Beer
+American Pale Ale
+New England IPA
+Milk Stout
+Blonde Ale
+Witbier
+Irish Dry Stout
+American Pale Ale
+Red IPA
+American IPA
+Farmhouse Ale
+Euro Pale Lager
+New England IPA
+New England IPA
+American Pale Ale
+Irish Dry Stout
+Pumpkin Beer
+American IPA
+Red IPA
+Coffee Stout
+Double Pilsner
+Export Stout
+Extra Stout
+Fruited Sour
+Double IPA
+English Pale Ale
+Pale Lager
+Czech Pilsner
+Belgian Blonde
+Sour Ale
+New England IPA
+Wheat Beer
+International Pale Ale
+Pale Ale
+American IPA
+International IPA
+Irish Dry Stout
+Irish Red Ale
+Cream Ale
+International Pale Ale
+New England IPA
+International IPA
+International Pale Ale
+Irish Red Ale
+Irish Red Ale
+Scotch Ale
+Amber Lager
+American Pale Ale",1,,,,,Alpha Beer,ROI,,,,,,,,,,,,,,,,,1,1,,,,2014-1-1,2025-04-12,,1,,,,,Yes,,,,38,,142,7.44,,,,,,,,,,0,Garryowen,-8.598771,52.654519,52.65451986,
+Trouble Brewing,trouble,https://irishcraftbrewing.com/pics/logos/troubleLogo.jpeg,3.61,42708,3800,Microbrewery,Kill,Kildare,17/03/2010,,,http://troublebrewing.ie/,,101,1.558155475,5.464,"English India Pale Ale
+Porter
+India Session Ale
+Golden Ale
+American IPA
+India Pale Lager
+Pumpkin Beer
+India Pale Lager
+Stout Other
+Double IPA
+Black Cascadian Ale
+Double IPA
+Vienna Lager
+North American Lager
+Milk Stout
+American IPA
+Triple IPA
+Berliner Weisse
+Double Red Ale
+American Pale Ale
+Cream Ale
+Extra Stout
+American Pale Ale
+Berliner Weisse
+White IPA
+Milk Stout
+American IPA
+Saison Ale
+India Session Ale
+Saison Ale
+English Pale Ale
+American IPA
+American Brown Ale
+Witbier
+American IPA
+American IPA
+English India Pale Ale
+Black Cascadian Ale
+American Amber Ale
+American Amber Lager
+Rye Beer
+Rye Beer
+California Common Ale
+Dark Ale
+American Amber Ale
+American Pale Wheat Ale
+International Pale Ale
+Schwartzbier
+India Session Ale
+Sour Ale
+India Session Ale
+Black Cascadian Ale
+Irish Red Ale
+Imperial Stout
+English India Pale Ale
+Australian Pale Ale
+English Mild Ale
+Oatmeal Stout
+English Bitter
+Dark Ale
+English Pale Ale
+Irish Red Ale
+Australian Pale Ale
+Saison Ale
+Lager
+International Pale Ale
+Double IPA
+International Pale Ale
+Imperial India Pale Ale
+Belgian Dubbel
+India Session Ale
+Brut IPA
+International IPA
+American Pale Ale
+American Pale Ale
+International Pale Ale
+American IPA
+Imperial Double Stout
+American Pale Ale
+New England DIPA
+New England IPA
+Pale Lager
+Table Beer
+New England Pale Ale
+New England IPA
+Milk Stout
+International Pale Ale
+Double IPA
+New England Pale Ale
+International Pale Ale
+International Pale Ale
+International Pale Ale
+American Pale Ale
+American Pale Ale
+New England DIPA
+International Pale Ale
+American Pale Ale
+Imperial Stout
+Rye IPA
+Dark Mild
+Kolsch Lager",1,Yes,,,,Grand Cru,ROI,,,,,,,,,,,,,No,,,,3,17,,,,2010-3-17,2025-04-13,,,,,,,Yes,,,,53,,143,11.24,,,No,,,,,,,5,Kill,-6.538754,53.252795,53.25279565,
+Twisted Kettle Brewing Company,twistedkettle,https://irishcraftbrewing.com/pics/logos/twistedkettleLogo.jpeg,3.79,25,7,Microbrewery,Donaghadee,Down,01/01/2018,,,https://www.facebook.com/twistedkettle/,,,,,,1,,,,,Direct,UK,,,,,,,,,,,,,,,,@twisted_kettle,1,1,,,,2018-1-1,2025-04-14,,,,,,,Yes,,,,,,211,3.44,,,,,,,,,,,Donaghadee,-5.537282,54.643264,54.64326455,
+UCC Pilot,ucc,https://irishcraftbrewing.com/pics/logos/noimageLogo.jpeg,3.6,51,2,Microbrewery,UCC,Cork,01/01/1999,,,https://www.ucc.ie/en/cerealscience/aboutus/facilities/brewery/,,13,1.876815361,5.492307692,"Lager
+Saison Ale
+Berliner Weisse
+English Pale Ale
+Fruit Beer
+English Bitter
+American Pale Ale
+Belgian Strong Dark Ale
+Specialty Grain
+German Pilsner
+Fruit Beer
+Saison Ale
+Hefeweizen",1,,,,,,ROI,,,,,,,,,,,,,No,,,,1,1,,,,1999-1-1,2025-04-15,,,1,,,,Yes,,,,11,,146,22.45,,,No,,,,,,,0,UCC,-8.495548,51.892269,51.89226985,
+Urban Brewing,urban,https://irishcraftbrewing.com/pics/logos/urbanLogo.jpeg,3.5,4495,826,Microbrewery,IFSC,Dublin,01/01/2016,,,https://www.urbanbrewing.ie/,,155,1.054933117,5.311038961,"Irish Dry Stout
+American IPA
+American IPA
+Saison Ale
+Hefeweizen
+Imperial India Pale Ale
+Saison Ale
+Witbier
+American IPA
+Witbier
+American IPA
+Hefeweizen
+French/Belgian Saison
+Scotch Ale
+Rye IPA
+Belgian Dubbel
+Cream Ale
+French/Belgian Saison
+Brown Ale
+Stout Other
+Gose
+New England IPA
+India Session Ale
+Belgian Blonde
+Bock
+International IPA
+Hefeweizen
+Altbier
+International IPA
+American Pale Ale
+International Pale Ale
+American Pale Ale
+International Pale Ale
+Kolsch Lager
+English Bitter
+Table Beer
+Belgian Pale Ale
+Belgian Blonde
+International IPA
+Belgian Dubbel
+Sour Ale
+Pilsner
+Grisette
+International Pale Ale
+Witbier
+Double IPA
+Saison Ale
+American Pale Ale
+Belgian Pale Ale
+American IPA
+International Pale Ale
+Blonde Ale
+Saison Ale
+German Pilsner
+Märzen
+Cream Ale
+Witbier
+Red IPA
+International Pale Ale
+Kolsch Lager
+International IPA
+Bock
+Witbier
+Brut IPA
+White IPA
+Rye Beer
+International IPA
+Winter Warmer
+Sour Ale
+Irish Dry Stout
+Sour Ale
+Red Ale
+Pilsner
+American IPA
+Gruit
+International Pale Ale
+Saison Ale
+Porter
+Gruit
+Irish Red Ale
+Sour Ale
+Brut IPA
+Euro Lager
+International Pale Ale
+Farmhouse Ale
+Farmhouse Ale
+Pilsner
+White IPA
+Session IPA
+International IPA
+Double IPA
+Helles Lager
+Pilsner
+Red Lager
+Märzen
+Hefeweizen
+Festbier
+Scotch Ale
+International Pale Ale
+Czech Pilsner
+American IPA
+Rye Beer
+American IPA
+Kolsch Lager
+American IPA
+Wheat Beer
+American IPA
+American IPA
+Euro Pale Lager
+Stout Other
+Winter Ale
+American IPA
+Irish Red Ale
+Helles Lager
+American IPA
+Belgian Dubbel
+American IPA
+American IPA
+Vienna Lager
+American IPA
+Farmhouse Ale
+Spiced Beer
+Spiced Beer
+Farmhouse Ale
+Saison Ale
+American Pale Ale
+Helles Lager
+Double IPA
+Stout Other 
+Belgian Dubbel
+Red IPA
+American Pale Ale
+International IPA
+Kolsch Lager
+Milk Stout
+American Pale Ale
+American Pale Ale
+Brut IPA
+American Lager
+Witbier
+American IPA
+American IPA
+Pale Lager
+Gruit
+American IPA
+Milk Stout
+American IPA
+American IPA
+Farmhouse Ale
+Kolsch Lager
+American Pale Ale
+American IPA
+California Common Ale
+Rye IPA
+New England Pale Ale",1,,,,,,ROI,,,,,,,,,,,,,,,,,1,1,,,,2016-1-1,2025-04-16,,,,,,,Yes,,,,60,,160,5.44,,,,,,,,,,0,IFSC,-6.248212,53.349146,53.34914662,
+West Cork Brewing Company,westcork,https://irishcraftbrewing.com/pics/logos/westcorkLogo.jpeg,3.49,1566,210,Microbrewery,Baltimore,Cork,01/01/2014,,,http://westcorkbrewingco.ie/,,19,1.459211515,5.647368421,"American Pale Ale
+Dark Ale
+Irish Dry Stout
+Rye Beer
+Oatmeal Stout
+Double Red Ale
+India Session Ale
+Amber Ale
+Oatmeal Stout
+Helles Lager
+Irish Red Ale
+International Pale Ale
+American Pale Ale
+Coffee Stout
+Irish Red Ale
+Porter
+Extra Strong Bitter
+Barleywine
+American IPA",1,Yes,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2014-1-1,2025-04-17,1,,,,,,Yes,,,,17,,148,7.44,,,Restaurant License,Yes,,,,,,0,Baltimore,-9.362526,51.484406,51.48440694,
+Western Herd Brewing Company,westernherd,https://irishcraftbrewing.com/pics/logos/westernherdLogo.jpeg,3.71,6825,1060,Microbrewery,Kilmaley,Clare,01/01/2015,,,https://www.westernherd.com/,,37,1.705114462,6.102941176,"International Pale Ale
+American IPA
+Witbier
+Irish Red Ale
+American Pale Ale
+Session IPA
+International Pale Ale
+American IPA
+Irish Red Ale
+Festbier
+American IPA
+Double IPA
+American Pale Ale
+American Porter
+Coffee Stout
+Coffee Stout
+Session IPA
+American IPA
+Irish Red Ale
+International Pale Ale
+International IPA
+Black Cascadian Ale
+Porter
+Double IPA
+American IPA
+New England IPA
+Farmhouse Ale
+Porter
+German Pilsner
+Double IPA
+International IPA
+Double Red Ale
+Double IPA
+Pilsner
+International IPA
+Imperial Stout
+Red IPA",1,,,,,Alpha Beer,ROI,,,,,,,,,,,,,,,,@westernherd,1,1,,,,2015-1-1,2025-04-18,,1,,,,Yes,Yes,,,,21,,150,6.44,,,,,,,,,,0,Kilmaley,-9.1088004,52.8188315,52.81883159,
+Whiplash,whiplash,https://irishcraftbrewing.com/pics/logos/whiplashLogo.jpeg,3.81,251769,46281,Microbrewery,"Cherry Orchard Industrial Estate, Unit 67B",Dublin,01/01/2016,,,http://www.whiplashbeer.com/about/,,127,1.945422683,6.681889764,"India Session Ale
+American Pale Ale
+Double IPA
+Double IPA
+Double IPA
+Oatmeal Stout
+Double IPA
+Double IPA
+Berliner Weisse
+Porter
+Blonde Ale
+Double IPA
+Pilsner
+American Pale Ale
+Imperial Stout
+American Pale Ale
+American IPA
+Imperial India Pale Ale
+Table Beer
+Black Cascadian Ale
+Belgian Quad
+American Pale Wheat Ale
+Imperial India Pale Ale
+Double IPA
+International IPA
+Double IPA
+Double IPA
+Nitro Milk Stout
+Double Brown Ale
+American Pale Ale
+Double IPA
+New England DIPA
+Double IPA
+Table Beer
+American Pale Ale
+International IPA
+German Pilsner
+American IPA
+Double IPA
+English Porter
+Pastry Stout
+English Brown Ale
+American IPA
+American Pale Ale
+Rauchbier
+American Pale Ale
+Double IPA
+American IPA
+New England IPA
+India Session Ale
+Double IPA
+Double IPA
+New England IPA
+American IPA
+Double IPA
+Grisette
+International Pale Ale
+Belgian Pale Ale
+Grisette
+Belgian Tripel
+International IPA
+International Pale Ale
+Imperial Stout
+American IPA
+Coffee Porter
+English Porter
+Dark Ale
+Double IPA
+Belgian Quad
+New England IPA
+Doppelbock
+Märzen
+Vienna Lager
+Munich Dunkel Lager
+Irish Red Ale
+Farmhouse Ale
+Baltic Porter
+New England DIPA
+New England IPA
+Porter
+New England IPA
+Helles Lager
+New England IPA
+New England IPA
+Triple IPA
+New England DIPA
+Kolsch Lager
+Wheat Beer
+New England DIPA
+Wheat Beer
+Wheat Beer
+New England Pale Ale
+American IPA
+New England DIPA
+Berliner Weisse
+Wheat Beer
+Berliner Weisse
+American IPA
+Wheat Beer
+New England Pale Ale
+New England Pale Ale
+New England Pale Ale
+New England IPA
+American IPA
+New England IPA
+Belgian Dubbel
+Brown Ale
+Schwartzbier
+Imperial Stout
+New England DIPA
+Baltic Porter
+Triple IPA
+American Pale Ale
+New England IPA
+New England IPA
+New England IPA
+Triple IPA
+Triple IPA
+Double IPA
+New England DIPA
+New England IPA
+Belgian Quad
+Triple IPA
+Rauchbier
+Brown Ale
+New England Pale Ale
+Imperial Brown Ale",1,,,,,Four Corners,ROI,,,,,,,,,,,,,,,,,1,1,,,,2016-1-1,2025-04-19,,,,,,,Yes,,,,48,,151,5.44,,,,,,,,,,7,"Cherry Orchard Industrial Estate, Unit 67B",-6.375106413,53.34678278,53.34678278,
+White Hag Irish Brewing Company,whitehag,https://irishcraftbrewing.com/pics/logos/whitehagLogo.jpeg,3.57,253735,30063,Microbrewery,Ballymote,Sligo,01/01/2013,,,http://thewhitehag.com/,,115,1.885408226,5.831826087,"India Session Ale
+Imperial Oatmeal Stout
+Milk Stout
+American IPA
+Sour Ale
+Herbed Beer
+Witbier
+Sour Ale
+American Amber Ale
+Double Red Ale
+White IPA
+Sour Ale
+Sour Ale
+Winter Warmer
+Imperial Oatmeal Stout
+Milk Stout
+New England IPA
+Milk Stout
+Pilsner
+American IPA
+Belgian Pale Ale
+American Pale Ale
+Kolsch Lager
+Irish Dry Stout
+Festbier
+Belgian IPA
+American Pale Ale
+American Pale Ale
+Sour Ale
+Irish Red Ale
+American IPA
+Sour Ale
+Herbed Beer
+Lager
+Double Red Ale
+Lager
+American Pale Ale
+Milk Stout
+Milk Stout
+Fruit Beer
+New England IPA
+Irish Dry Stout
+American Pale Ale
+American Pale Ale
+Belgian IPA
+International Pale Ale
+American IPA
+Helles Lager
+Saison Ale
+Imperial Double Stout
+New England IPA
+Sour Ale
+Irish Dry Stout
+New England Pale Ale
+Imperial Oatmeal Stout
+Imperial Oatmeal Stout
+Winter Ale
+Dark Lager
+Irish Red Ale
+Double IPA
+Sour Ale
+Table Beer
+Helles Lager
+Sour Ale
+American Barleywine
+New England IPA
+Flanders Red Ale
+Milkshake IPA
+Helles Lager
+American IPA
+Stout Other
+International IPA
+Coffee Stout
+Stout Other
+International IPA
+Pastry Stout
+American IPA
+Irish Red Ale
+Brett Beer
+Rye Wine
+Helles Lager
+Milk Stout
+Winter Ale
+Pastry Stout
+India Pale Lager
+Farmhouse Ale
+Fruit Beer
+New England IPA
+Helles Lager
+Fruit Beer
+Double IPA
+Pastry Stout
+Bock
+Pumpkin Beer
+Flanders Red Ale
+Brett Beer
+International IPA
+American IPA
+American IPA
+American Pale Ale
+Pastry Stout
+Pastry Stout
+American IPA
+Pastry Stout
+International Pale Ale
+Irish Red Ale
+International IPA
+International IPA
+Irish Red Ale
+Irish Red Ale
+Export Stout
+Herbed Beer
+English India Pale Ale
+New England IPA
+American IPA",1,Yes,,,,Grand Cru,ROI,10,,,,,210000,,,,,,,No,"Ancient Irish Mythology will tell you that The White Hag was a witch, a chameleon creature and even Mother Nature herself. We know she was all that, and more. A spiritual force, from and of the earth. The spirit of Ireland who shaped land itself, present in everything through the pure water of the earth.",,,1,1,,,,2013-1-1,2025-04-20,,1,,,,,Yes,,,,47,,153,8.44,,,No,Yes,,,,,,8,Ballymote,-8.5171827,54.0898288,54.08982889,
+WhiteField Brewery,whitefield,https://irishcraftbrewing.com/pics/logos/whitefieldLogo.jpeg,3.63,9208,637,Microbrewery,Templemore,Tipperary,01/01/2007,,,http://www.whitegypsy.ie/,,74,0.923117274,5.593243243,"Irish Red Ale
+Hefeweizen
+American Pale Ale
+Imperial Russian Stout
+Winter Ale
+Irish Dry Stout
+English Pale Ale
+International Pale Ale
+Sour Ale
+Belgian Dubbel
+Doppelbock
+Hefeweizen
+American IPA
+Sour Ale
+Dunkelweizen
+International Pale Ale
+Helles Lager
+Pilsner
+Irish Dry Stout
+Irish Red Ale
+Brown Ale
+English Pale Ale
+Blonde Ale
+English India Pale Ale
+Dunkelweizen
+Irish Red Ale
+International Pale Ale
+Irish Red Ale
+Irish Dry Stout
+Stout Other
+English Pale Ale
+Witbier
+Stout Other
+Weizenbock
+Sour Ale
+Irish Red Ale
+Red Ale
+Berliner Weisse
+Berliner Weisse
+Berliner Weisse
+Berliner Weisse
+American Pale Ale
+Belgian Blonde
+Export Stout
+Saison Ale
+Amber Lager
+Belgian Strong Dark Ale
+Golden Ale
+International Pale Ale
+Irish Red Ale
+Euro Lager
+Stout Other
+Irish Red Ale
+American Pale Ale
+Vienna Lager
+Dunkelweizen
+Farmhouse Ale
+Wheat Beer
+Smoked Beer
+Sour Ale
+Bock
+Farmhouse Ale
+Dark Lager
+Helles Lager
+Wheat Beer
+English Pale Ale
+Red Ale
+International Pale Ale
+Bock
+English Bitter
+English Pale Ale
+Pale Lager
+Kellerbier
+Dortmunder Lager",1,Yes,,,,Alpha,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2007-1-1,2025-04-21,,1,,,,,Yes,,,,41,,152,14.45,Yes,,No,Yes,,,,,,0,Templemore,-7.8398609,52.794802,52.79480278,
+Whitewater,whitewater,https://irishcraftbrewing.com/pics/logos/whitewaterLogo.jpeg,3.55,30992,1217,Microbrewery,Castewellan,Down,01/01/1996,,,https://whitewaterbrewery.com/,,50,1.744617731,5.30212766,"India Session Ale
+English Bitter
+Irish Dry Stout
+English India Pale Ale
+Lager
+Porter
+English Bitter
+Herbed Beer
+English Bitter
+American IPA
+Irish Dry Stout
+Oyster Stout
+Winter Ale
+Lager
+Helles Lager
+Irish Dry Stout
+Pale Lager
+Winter Ale
+Lager
+English Bitter
+English Porter
+American Pale Ale
+Belgian Blonde
+India Pale Ale
+English India Pale Ale
+English Mild Ale
+Witbier
+International Pale Ale
+International Pale Ale
+Irish Red Ale
+American IPA
+American Pale Ale
+International IPA
+American Pale Ale
+English Pale Ale
+Porter
+English Pale Ale
+Imperial Russian Stout
+India Pale Ale
+Pale Lager
+Imperial Russian Stout
+Euro Lager
+Helles Lager
+Imperial Double Stout
+Euro Pale Lager
+English Bitter
+English Bitter
+Irish Dry Stout
+English India Pale Ale
+Pale Lager",1,,,,,Tennents NI,UK,,,,,,,,,,,,,No,,,@WhitewaterBeer,1,1,,,,1996-1-1,2025-04-22,,,,,,Yes,Yes,,,,27,,154,25.46,,,No,,,,,,,0,Castewellan,-5.924702,54.267289,54.26728959,
+Wicklow Brewery,wicklowbrewery,https://irishcraftbrewing.com/pics/logos/wicklowbreweryLogo.jpeg,3.6,6448,867,Microbrewery,Redcross,Wicklow,01/01/2014,,,https://wicklowbrewery.ie/,,63,1.764620875,5.961290323,"Irish Red Ale
+American Pale Ale
+Hefeweizen
+Helles Lager
+American IPA
+Irish Dry Stout
+Ginger Beer
+English Strong Ale
+Helles Lager
+Saison Ale
+Stout Other 
+Export Stout
+Imperial Milk Stout
+Saison Ale
+Sour Ale
+American IPA
+Sour Ale
+Saison Ale
+Double IPA
+American Pale Ale
+White Stout
+Black Cascadian Ale
+Belgian Quad
+Brown Ale
+Altbier
+Dunkelweizen
+Witbier
+Export Stout
+American IPA
+Extra Stout
+Stout Other
+American Brown Ale
+Irish Dry Stout
+International Pale Ale
+International Pale Ale
+Fruit Beer
+International IPA
+American IPA
+American IPA
+Imperial Stout
+Helles Lager
+Ginger Beer
+Brut IPA
+Brown Ale
+Dunkelweizen
+Saison Ale
+Euro Lager
+Porter
+American IPA
+Smoked Beer
+Saison Ale
+Imperial Double Stout
+American IPA
+India Session Ale
+Baltic Porter
+American Pale Ale
+Imperial Stout
+Imperial Stout
+Imperial Stout
+New England IPA
+Imperial Oatmeal Stout
+Export Stout
+Double IPA",1,,,,,,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2014-1-1,2025-04-23,1,,,,,,Yes,,,,36,,155,7.44,,,Pub License,,,,,,,0,Redcross,-6.1452741,52.889744,52.88974461,
+Wicklow Wolf,wicklowwolf,https://irishcraftbrewing.com/pics/logos/wicklowwolfLogo.jpeg,3.62,74549,10020,Microbrewery,Newtown Mount Kennedy,Wicklow,01/01/2014,,,https://wicklowwolf.com/,,129,2.260375887,5.93976378,"American Amber Ale
+American Pale Ale
+American IPA
+English Porter
+American IPA
+Kolsch Lager
+Red IPA
+American Brown Ale
+American IPA
+American IPA
+English Brown Ale
+India Session Ale
+Sour Ale
+Saison Ale
+American Pale Wheat Ale
+Dunkelweizen
+American Porter
+White IPA
+Belgian Brown Ale
+Double IPA
+Blonde Ale
+International Pale Ale
+Golden Ale
+Witbier
+International Pale Ale
+Blonde Ale
+English Brown Ale
+Irish Red Ale
+Golden Ale
+Porter
+American Pale Ale
+Saison Ale
+Porter
+Kolsch Lager
+India Session Ale
+Herbed Beer
+Stout Other
+Imperial India Pale Ale
+Porter
+Red IPA
+India Session Ale
+Smoked Beer
+Cream Ale
+India Session Ale
+American IPA
+India Session Ale
+American Pale Ale
+American Pale Ale
+English Pale Ale
+American Pale Ale
+English Pale Ale
+Porter
+American Brown Ale
+American Brown Ale
+Porter
+Irish Red Ale
+American IPA
+American Brown Ale
+Black Cascadian Ale
+Milkshake IPA
+Coffee Ale
+New England Pale Ale
+India Session Ale
+American IPA
+Double IPA
+Non-Alcoholic
+American Pale Ale
+American IPA
+English India Pale Ale
+India Session Ale
+New England IPA
+American Pale Ale
+Irish Red Ale
+American IPA
+Pale Lager
+Berliner Weisse
+Imperial Stout
+Oatmeal Stout
+New England Pale Ale
+Irish Dry Stout
+Imperial Red Ale
+Non-Alcoholic
+Dark Lager
+International Pale Ale
+Imperial Red Ale
+Double IPA
+Imperial Black Ale
+Pastry Stout
+Imperial Oatmeal Stout
+New England IPA
+New England IPA
+Oatmeal Stout
+Pastry Stout
+Irish Dry Stout
+Imperial Pastry Stout
+Imperial Russian Stout
+Imperial Russian Stout
+Irish Dry Stout
+Imperial Stout
+Imperial Stout
+Oatmeal Stout
+English Barleywine
+Dark Ale
+American IPA
+Triple IPA
+Session IPA
+Farmhouse Ale
+Double IPA
+American Amber Ale
+Vienna Lager
+Fruited Sour
+Fruited Sour
+Brett Beer
+Black Cascadian Ale
+New England Pale Ale
+Coffee Stout
+India Pale Lager
+New England IPA
+Export Stout
+Red IPA
+Oatmeal Stout
+American IPA
+Fruit Beer
+Double IPA
+Wheat Beer
+New Zealand Pale Ale
+Farmhouse Ale
+Double IPA
+Export Stout",1,,,,,Alpha Beer,ROI,,,,,,,,,,,,,Yes,,,,1,1,,,,2014-1-1,2025-04-24,1,,,,,,Yes,,,,63,,156,7.44,Yes,,Yes,Yes,,,,,,9,Newtown Mount Kennedy,-6.108613,53.084169,53.08416961,
+Wide Street Brewing Company,widestreet,https://irishcraftbrewing.com/pics/logos/widestreetLogo.jpeg,3.76,3463,1114,Microbrewery,Ballymahon,Longford,01/05/2018,,,https://widestreetbrewing.ie/,,36,1.699066037,5.305555556,"Sour Ale
+Altbier
+Wild Ale
+Saison Ale
+Sour Ale
+Saison Ale
+Saison Ale
+Grisette
+Fruit Beer
+Brett Beer
+Sour Ale
+Brett Beer
+Red IPA
+Pilsner
+Sour Ale
+Brett Beer
+Oatmeal Stout
+Brett Beer
+Brett Beer
+New England IPA
+Brett Beer
+Farmhouse Ale
+Brett Beer
+American Pale Ale
+American Wild Ale
+Belgian Strong Dark Ale
+Berliner Weisse
+Imperial Stout
+Black Cascadian Ale
+Altbier
+American Pale Ale
+Wheat Beer
+Session IPA
+Wild Ale
+Farmhouse Ale
+Vienna Lager",1,,,,,,ROI,,,,,,,,,,,,,,,,,5,1,,,,2018-5-1,2025-04-25,,,,,,,Yes,,,,21,,193,3.11,,,,,,,,,,0,Ballymahon,-7.760994,53.55809,53.55809078,
+YellowBelly Beer,yellowbelly,https://irishcraftbrewing.com/pics/logos/yellowbellyLogo.jpeg,3.62,48312,7502,Microbrewery,Pembrokestown,Wexford,01/01/2015,,,https://yellowbellybeer.ie/,,172,1.645885156,5.552071006,"American Pale Ale
+Berliner Weisse
+Sour Ale
+American IPA
+Lager
+Fruit Beer
+Sour Ale
+Double IPA
+International Pale Ale
+Sour Ale
+Saison Ale
+Red Ale
+Herbed Beer
+Export Stout
+American Stout
+Pale Lager
+Berliner Weisse
+Imperial Russian Stout
+American Pale Ale
+English Mild Ale
+American IPA
+Double IPA
+Oatmeal Stout
+Vienna Lager
+Porter
+Imperial Brown Ale
+Fruit Beer
+American Pale Ale
+International Pale Ale
+Imperial India Pale Ale
+Pilsner
+American Amber Ale
+Sour Ale
+American Pale Ale
+American Pale Ale
+Witbier
+International Pale Ale
+Extra Stout
+Hefeweizen
+India Session Ale
+Saison Ale
+Sour Ale
+Saison Ale
+Barleywine
+American Amber Ale
+Golden Ale
+Saison Ale
+Sour Ale
+Berliner Weisse
+Red Ale
+Hefeweizen
+Saison Ale
+Belgian Brown Ale
+Saison Ale
+American Amber Ale
+Export Stout
+Black Cascadian Ale
+English Porter
+Imperial Stout
+American Amber Lager
+Rye Beer
+Schwartzbier
+American Amber Ale
+Oyster Stout
+Milk Stout
+Fruit Beer
+India Session Ale
+Hefeweizen
+American Pale Ale
+American Pale Ale
+Sour Ale
+American Pale Ale
+Sour Ale
+Berliner Weisse
+Fruit Beer
+Hefeweizen
+American Pale Ale
+Fruit Beer
+Fruit Beer
+American Amber Ale
+Belgian Brown Ale
+English Pale Ale
+Porter
+English Porter
+Brown Ale
+Stout Other
+American Amber Ale
+Witbier
+American Pale Ale
+American Amber Ale
+Winter Ale
+American IPA
+Witbier
+American Amber Ale
+Doppelbock
+Kellerbier
+Hefeweizen
+Double IPA
+International Pale Ale
+American IPA
+German Pale Ale
+Sour Ale
+India Session Ale
+American Pale Ale
+India Session Ale
+Maibock
+Dunkelweizen
+Belgian Pale Ale
+Sour Ale
+Sour Ale
+International Pale Ale
+American IPA
+English Porter
+Sour Ale
+Belgian Strong Dark Ale
+Brown Ale
+International IPA
+Hefeweizen
+Oatmeal Stout
+New England IPA
+Imperial India Pale Ale
+Extra Strong Bitter
+New England IPA
+New England Pale Ale
+International IPA
+Sour Ale
+Sour Ale
+International Pale Ale
+Belgian Strong Dark Ale
+Sour Ale
+New England IPA
+New England DIPA
+Sour Ale
+New England IPA
+Belgian Strong Dark Ale
+Sour Ale
+Milk Stout
+India Session Ale
+Imperial Porter
+Double IPA
+India Pale Lager
+Saison Ale
+Witbier
+Gose
+India Session Ale
+Gose
+New England IPA
+Sour Ale
+Porter
+Farmhouse Ale
+Black Cascadian Ale
+Imperial Stout
+Double IPA
+Hefeweizen
+American Amber Ale
+Fruit Beer
+American Barleywine
+Brown Ale
+Dortmunder Lager
+American Brown Ale
+English Pale Ale
+Blonde Ale
+Red IPA
+Farmhouse Ale
+International Pale Ale
+Milkshake IPA
+India Session Ale
+New England IPA
+India Session Ale
+Wheat Beer
+Barleywine
+Brett Beer",1,,,,,Noreast,ROI,,,,,,,,,,,,,No,,,,1,1,,,,2015-1-1,2025-04-26,,1,,,,,Yes,,,,66,,158,6.44,,,Pub License,,,,,,,6,Pembrokestown,-6.479014,52.317731,52.31773165,
